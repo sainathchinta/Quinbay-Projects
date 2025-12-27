@@ -1,6 +1,6 @@
 # Quinbay Projects
 
-This repository showcases a collection of projects and modules developed as part of professional experience at Quinbay. It demonstrates expertise in building scalable applications, working with microservices, processing data, and integrating APIs.
+This repository showcases a collection of projects and modules developed as part of professional experience at Quinbay Technologies (Blibli) E-commerce. It demonstrates expertise in building scalable applications, working with microservices, processing data, and integrating APIs.
 
 ---
 

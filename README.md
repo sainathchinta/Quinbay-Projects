@@ -62,7 +62,3 @@ This repository serves as a reference to demonstrate professional experience in 
 
 ---
 
-## Contact
-
-For further information or collaboration, please contact **sainathchinta**.
-

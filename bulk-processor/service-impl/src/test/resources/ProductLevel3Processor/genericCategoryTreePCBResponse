@@ -1,0 +1,3075 @@
+ [{
+ 		"id": "3d7604e3-5995-43c5-b41b-cfe26e2becb9",
+ 		"categoryCode": "C1-1000005",
+ 		"categoryName": "AutomationCategoryC1",
+ 		"categoryEnglishName": "AutomationCategoryC1",
+ 		"children": [{
+ 			"id": "36197766-3044-48f6-83e9-71fadef83a64",
+ 			"categoryCode": "AU-1000057",
+ 			"categoryName": "AutomationCategoryC2",
+ 			"categoryEnglishName": "AutomationCategoryC2",
+ 			"parentCategory": "3d7604e3-5995-43c5-b41b-cfe26e2becb9",
+ 			"children": [{
+ 				"id": "09e0bb9a-fda9-41eb-b42e-ae76a5749776",
+ 				"categoryCode": "AU-1000058",
+ 				"categoryName": "AutomationCategoryC3",
+ 				"categoryEnglishName": "AutomationCategoryC3",
+ 				"parentCategory": "36197766-3044-48f6-83e9-71fadef83a64",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			}],
+ 			"genericTemplateEligible": false
+ 		}],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "022590d3-aeff-41c8-a1fe-a3e0f082f665",
+ 		"categoryCode": "JK-1000016",
+ 		"categoryName": "JkDescDiffName_FlagFalse+True",
+ 		"categoryEnglishName": "JkDescDiffName_FlagFalse+True",
+ 		"children": [{
+ 				"id": "c093b8c0-60ef-4d43-8834-b6dce8bb7ffd",
+ 				"categoryCode": "JK-1000018",
+ 				"categoryName": "JkDescDiffName_FlagFalse+TrueC2",
+ 				"categoryEnglishName": "JkDescDiffName_FlagFalse+TrueC2",
+ 				"parentCategory": "022590d3-aeff-41c8-a1fe-a3e0f082f665",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "99e4e7b6-0211-499c-a8c9-c342b7c9b52b",
+ 				"categoryCode": "JK-1000017",
+ 				"categoryName": "JkDescDiffName_FlagFalse+TrueC1",
+ 				"categoryEnglishName": "JkDescDiffName_FlagFalse+TrueC1",
+ 				"parentCategory": "022590d3-aeff-41c8-a1fe-a3e0f082f665",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "2920fd3c-b9a4-4db8-8fe5-1152ebe6b223",
+ 		"categoryCode": "TE-1000135",
+ 		"categoryName": "Test Category1",
+ 		"categoryEnglishName": "Test Category1",
+ 		"children": [{
+ 			"id": "461784cb-077c-4c97-a14f-40f618d413cf",
+ 			"categoryCode": "TE-1000169",
+ 			"categoryName": "Test Category2",
+ 			"categoryEnglishName": "Test Category2",
+ 			"parentCategory": "2920fd3c-b9a4-4db8-8fe5-1152ebe6b223",
+ 			"children": null,
+ 			"genericTemplateEligible": false
+ 		}],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "5e2ea4e3-cf54-41d0-a036-da136db26e62",
+ 		"categoryCode": "LO-1000016",
+ 		"categoryName": "LongDress1",
+ 		"categoryEnglishName": "LongDress1",
+ 		"children": [{
+ 			"id": "6a5dbdfb-a4ed-4930-949d-06ac4960e6fc",
+ 			"categoryCode": "LO-1000018",
+ 			"categoryName": "LongDress1.1",
+ 			"categoryEnglishName": "LongDress1.1",
+ 			"parentCategory": "5e2ea4e3-cf54-41d0-a036-da136db26e62",
+ 			"children": [{
+ 				"id": "b5831a66-23f7-47c2-b5db-54ebd553152b",
+ 				"categoryCode": "LO-1000017",
+ 				"categoryName": "LongDress2",
+ 				"categoryEnglishName": "LongDress2",
+ 				"parentCategory": "6a5dbdfb-a4ed-4930-949d-06ac4960e6fc",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			}],
+ 			"genericTemplateEligible": false
+ 		}],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "241ecdaa-b13d-4c15-8a2b-33b9881d72b6",
+ 		"categoryCode": "NE-1000438",
+ 		"categoryName": "NewTestCategory1",
+ 		"categoryEnglishName": "NewTestCategory2",
+ 		"children": [{
+ 			"id": "7c8dbf0e-42b0-44e0-9fe3-b6256f64f35f",
+ 			"categoryCode": "NE-1000439",
+ 			"categoryName": "NewTestCategory2",
+ 			"categoryEnglishName": "NewTestCategory2",
+ 			"parentCategory": "241ecdaa-b13d-4c15-8a2b-33b9881d72b6",
+ 			"children": null,
+ 			"genericTemplateEligible": false
+ 		}],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "445fe216-a330-488e-9fe5-4a708450b8f1",
+ 		"categoryCode": "JK-1000013",
+ 		"categoryName": "JkDescriptiveWarnaFlagFalse",
+ 		"categoryEnglishName": "JkDescriptiveWarnaFlagFalse",
+ 		"children": [{
+ 				"id": "14d855b4-7e80-4a20-801c-12b97f60e903",
+ 				"categoryCode": "JK-1000015",
+ 				"categoryName": "JkDescriptiveWarnaFlagFalseC3",
+ 				"categoryEnglishName": "JkDescriptiveWarnaFlagFalseC3",
+ 				"parentCategory": "445fe216-a330-488e-9fe5-4a708450b8f1",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "105cdbc7-11d7-499f-a2ac-c97b0153ce7b",
+ 				"categoryCode": "JK-1000014",
+ 				"categoryName": "JkDescriptiveWarnaFlagFalseC2",
+ 				"categoryEnglishName": "JkDescriptiveWarnaFlagFalseC2",
+ 				"parentCategory": "445fe216-a330-488e-9fe5-4a708450b8f1",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "2a8268ec-6f8e-46d8-8516-455e7135c8ff",
+ 		"categoryCode": "PO-1000036",
+ 		"categoryName": "PostLive APIAutomationCategory",
+ 		"categoryEnglishName": "PostLive APIAutomationCategory",
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "40b681dc-cb42-445f-854c-32f781fb1d68",
+ 		"categoryCode": "--1000001",
+ 		"categoryName": "dfjaskf",
+ 		"categoryEnglishName": "adhjfshf",
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "a8e2796a-daac-11e4-b9d6-1681e6b88ec1",
+ 		"categoryCode": "10502",
+ 		"categoryName": "Fashion Wanita",
+ 		"categoryEnglishName": "Fashion Wanita ENGLISH",
+ 		"children": [{
+ 				"id": "7e476843-b8ef-4b6c-a8ab-f77064f37c2d",
+ 				"categoryCode": "10507",
+ 				"categoryName": "Dress",
+ 				"categoryEnglishName": "Dress ENGLISH",
+ 				"parentCategory": "a8e2796a-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "168acd65-d0e7-428a-a00a-e9cb17bfcf44",
+ 						"categoryCode": "10510",
+ 						"categoryName": "Long Dress",
+ 						"categoryEnglishName": "Long Dress ENGLISH",
+ 						"parentCategory": "7e476843-b8ef-4b6c-a8ab-f77064f37c2d",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "89efbce9-5f36-4187-83a6-cd23437f9252",
+ 						"categoryCode": "10508",
+ 						"categoryName": "Mini Dress",
+ 						"categoryEnglishName": "Mini Dress ENGLISH",
+ 						"parentCategory": "7e476843-b8ef-4b6c-a8ab-f77064f37c2d",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "58b3ed38-5a0a-44e7-a848-e21cc6f1656f",
+ 						"categoryCode": "10509",
+ 						"categoryName": "Midi Dress",
+ 						"categoryEnglishName": "Midi Dress ENGLISH",
+ 						"parentCategory": "7e476843-b8ef-4b6c-a8ab-f77064f37c2d",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "e4241b9c-084d-4e9e-823a-15c717296e93",
+ 						"categoryCode": "10511",
+ 						"categoryName": "Gaun Pengantin",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "7e476843-b8ef-4b6c-a8ab-f77064f37c2d",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "b2b6c9db-e860-40a9-a288-169453a05984",
+ 				"categoryCode": "45051",
+ 				"categoryName": "Aksesoris",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e2796a-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "0696ce97-6608-02bf-267b-caea23b05872",
+ 						"categoryCode": "FA-1000029",
+ 						"categoryName": "Fashion Deals",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "b2b6c9db-e860-40a9-a288-169453a05984",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "13e9d0a8-59e3-48f4-a04d-7c9d93a08942",
+ 						"categoryCode": "46051",
+ 						"categoryName": "Timbangan & Tempat Penyimpanan",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "b2b6c9db-e860-40a9-a288-169453a05984",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "dc57a8b3-0ded-47b0-ba8b-513da4f7382a",
+ 						"categoryCode": "45052",
+ 						"categoryName": "Gelang",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "b2b6c9db-e860-40a9-a288-169453a05984",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "ae0ccce1-dca0-4517-82c3-59e8194a29ac",
+ 						"categoryCode": "45053",
+ 						"categoryName": "Cincin",
+ 						"categoryEnglishName": "Cincin",
+ 						"parentCategory": "b2b6c9db-e860-40a9-a288-169453a05984",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "5fb63fa3-d61b-4597-8599-b0a37cfcbeff",
+ 						"categoryCode": "45054",
+ 						"categoryName": "Anting",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "b2b6c9db-e860-40a9-a288-169453a05984",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "4a26f081-8d29-4b17-bd18-cd59a2003f03",
+ 						"categoryCode": "45055",
+ 						"categoryName": "Kalung & Liontin",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "b2b6c9db-e860-40a9-a288-169453a05984",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "1a1aef55-4393-444b-906f-6bb20052ca7f",
+ 						"categoryCode": "45056",
+ 						"categoryName": "Ikat Pinggang",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "b2b6c9db-e860-40a9-a288-169453a05984",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "5bc6ce93-1d2e-4218-aacc-27c0010b8d9e",
+ 						"categoryCode": "45057",
+ 						"categoryName": "Sunglasses",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "b2b6c9db-e860-40a9-a288-169453a05984",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "e4dda4aa-e907-474d-902d-ee13b7287b88",
+ 						"categoryCode": "45058",
+ 						"categoryName": "Softlens & Kacamata",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "b2b6c9db-e860-40a9-a288-169453a05984",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "8a103bc0-0ff5-4d96-b5f2-ff786c2bcaf8",
+ 						"categoryCode": "45059",
+ 						"categoryName": "Topi & Bandana",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "b2b6c9db-e860-40a9-a288-169453a05984",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "d6a7690e-9735-49e0-b0b8-91d6b19219dd",
+ 						"categoryCode": "45061",
+ 						"categoryName": "Syal",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "b2b6c9db-e860-40a9-a288-169453a05984",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "081f67c7-bdc7-4b85-b211-313305fa60c7",
+ 				"categoryCode": "10528",
+ 				"categoryName": "Tas & Dompet",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e2796a-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "02aa4816-db27-4f31-a5d2-8853a2cebb47",
+ 						"categoryCode": "40552",
+ 						"categoryName": "Tas Koper & Travel",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "081f67c7-bdc7-4b85-b211-313305fa60c7",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "4b4f9f18-960f-489f-92a3-b2dbdeba06cf",
+ 						"categoryCode": "10530",
+ 						"categoryName": "Clutch",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "081f67c7-bdc7-4b85-b211-313305fa60c7",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "f06cc816-d39a-492e-a2a2-ca4e8ada85e1",
+ 						"categoryCode": "45062",
+ 						"categoryName": "Tas Tangan",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "081f67c7-bdc7-4b85-b211-313305fa60c7",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "6ec4651b-9416-43d1-8043-a557bdfd87f6",
+ 						"categoryCode": "45063",
+ 						"categoryName": "Tas Selempang",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "081f67c7-bdc7-4b85-b211-313305fa60c7",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "cd784253-3b01-475c-b11d-4297a318c29d",
+ 						"categoryCode": "45064",
+ 						"categoryName": "Tas Ransel",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "081f67c7-bdc7-4b85-b211-313305fa60c7",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "52fa5aa7-fe79-49f6-a417-eeb077f34390",
+ 						"categoryCode": "45065",
+ 						"categoryName": "Dompet & Card Holder",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "081f67c7-bdc7-4b85-b211-313305fa60c7",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "f9c39a10-b5e3-4c25-a0fa-2bdc98b11469",
+ 				"categoryCode": "10537",
+ 				"categoryName": "Jam Tangan",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e2796a-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "fb9f6177-4619-439f-ac3b-ba49b3a27dcf",
+ 						"categoryCode": "10538",
+ 						"categoryName": "Jam Tangan Fashion",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "f9c39a10-b5e3-4c25-a0fa-2bdc98b11469",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "b5f0b4a2-25cb-4325-b827-0cd7da944d3e",
+ 						"categoryCode": "10539",
+ 						"categoryName": "Jam Tangan Sport",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "f9c39a10-b5e3-4c25-a0fa-2bdc98b11469",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "4f38bc6c-4c86-460a-a5cd-fef25748e2b5",
+ 						"categoryCode": "10540",
+ 						"categoryName": "Jam Tangan Casual",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "f9c39a10-b5e3-4c25-a0fa-2bdc98b11469",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "326a302a-3397-41c4-9b1a-34e2b720217c",
+ 				"categoryCode": "10585",
+ 				"categoryName": "Baju Atasan",
+ 				"categoryEnglishName": "clothes",
+ 				"parentCategory": "a8e2796a-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 					"id": "2a348438-4d4d-4890-b4e1-2a2f04dac646",
+ 					"categoryCode": "10586",
+ 					"categoryName": "Blouse & Kaos Lengan Panjang",
+ 					"categoryEnglishName": "Blouse & Kaos Lengan Panjang EN",
+ 					"parentCategory": "326a302a-3397-41c4-9b1a-34e2b720217c",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				}],
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "6e1c3df1-1c0b-4a14-b535-531950f79b69",
+ 		"categoryCode": "JK-1000022",
+ 		"categoryName": "JKOnlyDescriptiveWarnaTrue1(same name as Warna)",
+ 		"categoryEnglishName": "JKOnlyDescriptiveWarnaTrue1(same name as Warna)",
+ 		"children": [{
+ 				"id": "116ceb99-0c29-4a9b-98b5-ea1881869651",
+ 				"categoryCode": "JK-1000024",
+ 				"categoryName": "JKOnlyDescriptiveWarnaTrue3(same name as Warna)",
+ 				"categoryEnglishName": "JKOnlyDescriptiveWarnaTrue3(same name as Warna)",
+ 				"parentCategory": "6e1c3df1-1c0b-4a14-b535-531950f79b69",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "9ea84429-21b1-4618-8278-26fd3231453a",
+ 				"categoryCode": "JK-1000023",
+ 				"categoryName": "JKOnlyDescriptiveWarnaTrue2(same name as Warna)",
+ 				"categoryEnglishName": "JKOnlyDescriptiveWarnaTrue2(same name as Warna)",
+ 				"parentCategory": "6e1c3df1-1c0b-4a14-b535-531950f79b69",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "e633f2ad-f182-4c0e-abdf-a45576eee3a3",
+ 		"categoryCode": "BL-1000018",
+ 		"categoryName": "BlibliMart",
+ 		"categoryEnglishName": "BlibliMart",
+ 		"children": [{
+ 				"id": "7580b648-771a-4be1-bff9-b1c58d16f259",
+ 				"categoryCode": "PE-1000365",
+ 				"categoryName": "Perawatan Rumah Tangga",
+ 				"categoryEnglishName": "Perawatan Rumah Tangga",
+ 				"parentCategory": "e633f2ad-f182-4c0e-abdf-a45576eee3a3",
+ 				"children": [{
+ 						"id": "34e68b4b-6a68-4263-8cea-ed7f2a470b6a",
+ 						"categoryCode": "PE-1000366",
+ 						"categoryName": "Pembersih Dapur",
+ 						"categoryEnglishName": "Pembersih Dapur",
+ 						"parentCategory": "7580b648-771a-4be1-bff9-b1c58d16f259",
+ 						"children": [{
+ 							"id": "7c7e3384-1140-4d54-969d-ae19e30436f2",
+ 							"categoryCode": "CA-1000777",
+ 							"categoryName": "Cairan Pembersih Dapur",
+ 							"categoryEnglishName": "Cairan Pembersih Dapur",
+ 							"parentCategory": "34e68b4b-6a68-4263-8cea-ed7f2a470b6a",
+ 							"children": null,
+ 							"genericTemplateEligible": false
+ 						}],
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "5e41eb23-b79c-4f45-b7b3-fb62f8103a26",
+ 						"categoryCode": "PE-1000367",
+ 						"categoryName": "Pembersih Lantai",
+ 						"categoryEnglishName": "Pembersih Lantai",
+ 						"parentCategory": "7580b648-771a-4be1-bff9-b1c58d16f259",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "b6576c02-1887-4f88-b988-ca2a0ed67210",
+ 				"categoryCode": "MA-1000106",
+ 				"categoryName": "Makanan",
+ 				"categoryEnglishName": "Makanan",
+ 				"parentCategory": "e633f2ad-f182-4c0e-abdf-a45576eee3a3",
+ 				"children": [{
+ 						"id": "18eb13e7-efb9-4967-a2e2-7e776b0e306c",
+ 						"categoryCode": "MI-1000053",
+ 						"categoryName": "Biskuit & Snack",
+ 						"categoryEnglishName": "Biskuit & Snack",
+ 						"parentCategory": "b6576c02-1887-4f88-b988-ca2a0ed67210",
+ 						"children": [{
+ 							"id": "1a08f25d-df5e-464c-b7c1-110b8a022111",
+ 							"categoryCode": "PR-1000041",
+ 							"categoryName": "Keripik & Kerupuk",
+ 							"categoryEnglishName": "Keripik & Kerupuk",
+ 							"parentCategory": "18eb13e7-efb9-4967-a2e2-7e776b0e306c",
+ 							"children": null,
+ 							"genericTemplateEligible": false
+ 						}],
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "76992aac-d31c-4e4d-81f9-4c0726a75077",
+ 						"categoryCode": "MA-1000108",
+ 						"categoryName": "Makanan Beku",
+ 						"categoryEnglishName": "Frozen Food",
+ 						"parentCategory": "b6576c02-1887-4f88-b988-ca2a0ed67210",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "bf202453-c34a-41c8-85ab-d26117ef45d7",
+ 		"categoryCode": "JK-1000010",
+ 		"categoryName": "JkAllDifferentWarnaC1",
+ 		"categoryEnglishName": "JkAllDifferentWarnaC1",
+ 		"children": [{
+ 				"id": "b1c93788-50d9-4ff6-8671-7b160cb6309d",
+ 				"categoryCode": "JK-1000012",
+ 				"categoryName": "JkAllDifferentWarnaC3",
+ 				"categoryEnglishName": "JkAllDifferentWarnaC3",
+ 				"parentCategory": "bf202453-c34a-41c8-85ab-d26117ef45d7",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "da092c6a-b8d8-4f8f-af83-27c7603ea035",
+ 				"categoryCode": "JK-1000011",
+ 				"categoryName": "JkAllDifferentWarnaC2",
+ 				"categoryEnglishName": "JkAllDifferentWarnaC2",
+ 				"parentCategory": "bf202453-c34a-41c8-85ab-d26117ef45d7",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "c5e4dedc-83c6-4702-be2e-e605839cb88c",
+ 		"categoryCode": "RE-1000099",
+ 		"categoryName": "RegressionCategoryMaster1 Edit",
+ 		"categoryEnglishName": "RegressionCategoryMaster1 Edit",
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "11a35a04-d27e-446f-889e-dc0c805790cf",
+ 		"categoryCode": "VI-1000022",
+ 		"categoryName": "Vinitha Master Category",
+ 		"categoryEnglishName": "Vinitha Master Category",
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "225568de-2114-4bed-a14b-e06fabaa86d7",
+ 		"categoryCode": "JK-1000019",
+ 		"categoryName": "JKOnlyDescriptiveWarnaTrue",
+ 		"categoryEnglishName": "JKOnlyDescriptiveWarnaTrue",
+ 		"children": [{
+ 				"id": "62754626-bac3-463e-ba4e-410355143da2",
+ 				"categoryCode": "JK-1000021",
+ 				"categoryName": "JKOnlyDescriptiveWarnaTrue2",
+ 				"categoryEnglishName": "JKOnlyDescriptiveWarnaTrue2",
+ 				"parentCategory": "225568de-2114-4bed-a14b-e06fabaa86d7",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "6eee6858-3499-485d-9452-f0b99300db2e",
+ 				"categoryCode": "JK-1000020",
+ 				"categoryName": "JKOnlyDescriptiveWarnaTrue1",
+ 				"categoryEnglishName": "JKOnlyDescriptiveWarnaTrue1",
+ 				"parentCategory": "225568de-2114-4bed-a14b-e06fabaa86d7",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "6ad8ffb4-ec6a-47fc-b30d-4e97d5cf4649",
+ 		"categoryCode": "PA-1000105",
+ 		"categoryName": "PartnersRegressionCategory Edit",
+ 		"categoryEnglishName": "PartnersRegressionCategory Edit",
+ 		"children": [{
+ 			"id": "44eacd78-8984-4813-be19-1c12b6823275",
+ 			"categoryCode": "PA-1000107",
+ 			"categoryName": "PartnersRegressionCategoryC1 Edit",
+ 			"categoryEnglishName": "PartnersRegressionCategoryC1 Edit",
+ 			"parentCategory": "6ad8ffb4-ec6a-47fc-b30d-4e97d5cf4649",
+ 			"children": null,
+ 			"genericTemplateEligible": false
+ 		}],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "caa9127a-52a8-4c86-8063-7ddafdf74c42",
+ 		"categoryCode": "DE-1000081",
+ 		"categoryName": "Descriptive Warna Category",
+ 		"categoryEnglishName": "Descriptive Warna Category",
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "aca165fa-a43c-4b57-8b3b-eca8b59a1b16",
+ 		"categoryCode": "RA-1000048",
+ 		"categoryName": "raghav descriptive warna category",
+ 		"categoryEnglishName": "raghav descriptive warna category",
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "def4974e-f01c-49f0-beba-ef81fba62736",
+ 		"categoryCode": "CA-1000826",
+ 		"categoryName": "CategoryChangeTest_c1",
+ 		"categoryEnglishName": "CategoryChangeTest_c1",
+ 		"children": [{
+ 			"id": "c37ab3f7-1a0b-4d5c-a6db-f2f82ffa95f4",
+ 			"categoryCode": "CA-1000828",
+ 			"categoryName": "CategoryChangeTest_c3",
+ 			"categoryEnglishName": "CategoryChangeTest_c3",
+ 			"parentCategory": "def4974e-f01c-49f0-beba-ef81fba62736",
+ 			"children": null,
+ 			"genericTemplateEligible": false
+ 		}],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "476a218f-91f1-4a37-92eb-844df2a48903",
+ 		"categoryCode": "PO-1000037",
+ 		"categoryName": "PostLiveAutomationCategoryConfig",
+ 		"categoryEnglishName": "PostLiveAutomationCategoryConfig",
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "c32ff6bd-5a32-47fa-97a3-4927862f7e05",
+ 		"categoryCode": "NE-1000429",
+ 		"categoryName": "New category for Cache check 1",
+ 		"categoryEnglishName": "New category for Cache check 1",
+ 		"children": [{
+ 			"id": "717c9e41-fbab-49c2-b399-985419163ba5",
+ 			"categoryCode": "NE-1000430",
+ 			"categoryName": "New category for Cache check 2",
+ 			"categoryEnglishName": "New category for Cache check 2",
+ 			"parentCategory": "c32ff6bd-5a32-47fa-97a3-4927862f7e05",
+ 			"children": null,
+ 			"genericTemplateEligible": false
+ 		}],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "19d501d8-f9cc-4e3b-b215-ecd76a572d83",
+ 		"categoryCode": "CA-1000799",
+ 		"categoryName": "Cat Change Hk 1",
+ 		"categoryEnglishName": "Cat Change Hk 1",
+ 		"children": [{
+ 			"id": "6a9d4b4d-d7fa-45dc-aeba-4f7dad517a37",
+ 			"categoryCode": "CA-1000800",
+ 			"categoryName": "Cat Change Hk 2",
+ 			"categoryEnglishName": "Cat Change Hk 2",
+ 			"parentCategory": "19d501d8-f9cc-4e3b-b215-ecd76a572d83",
+ 			"children": [{
+ 					"id": "f8ca2cfd-7266-4fcd-a063-e15543bd1c34",
+ 					"categoryCode": "CA-1000803",
+ 					"categoryName": "Cat Change Hk 5 With Lower Margin",
+ 					"categoryEnglishName": "Cat Change Hk 5 With Lower Margin",
+ 					"parentCategory": "6a9d4b4d-d7fa-45dc-aeba-4f7dad517a37",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				},
+ 				{
+ 					"id": "c4b66909-a75e-45f4-b8ec-3a12958d62e6",
+ 					"categoryCode": "CA-1000801",
+ 					"categoryName": "Cat Change Hk 3",
+ 					"categoryEnglishName": "Cat Change Hk 3",
+ 					"parentCategory": "6a9d4b4d-d7fa-45dc-aeba-4f7dad517a37",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				},
+ 				{
+ 					"id": "b436ac50-59a6-494e-8123-fb340f1c9a5d",
+ 					"categoryCode": "CA-1000802",
+ 					"categoryName": "Cat Change Hk 4 With Higher Margin",
+ 					"categoryEnglishName": "Cat Change Hk 4 With Higher Margin",
+ 					"parentCategory": "6a9d4b4d-d7fa-45dc-aeba-4f7dad517a37",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				}
+ 			],
+ 			"genericTemplateEligible": false
+ 		}],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "4122c29b-3aea-43f9-ab7c-5513269b939b",
+ 		"categoryCode": "JK-1000007",
+ 		"categoryName": "JkDescriptiveCategory1",
+ 		"categoryEnglishName": "JkDescriptiveCategory1",
+ 		"children": [{
+ 				"id": "973356b0-b498-4dd5-8616-64293830bf45",
+ 				"categoryCode": "JK-1000008",
+ 				"categoryName": "JkDescriptiveCategory2",
+ 				"categoryEnglishName": "JkDescriptiveCategory2",
+ 				"parentCategory": "4122c29b-3aea-43f9-ab7c-5513269b939b",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "e0c08b59-8a5f-4093-b718-3046d88d0442",
+ 				"categoryCode": "JK-1000009",
+ 				"categoryName": "JkDescriptiveCategory3",
+ 				"categoryEnglishName": "JkDescriptiveCategory3",
+ 				"parentCategory": "4122c29b-3aea-43f9-ab7c-5513269b939b",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "06a28377-9369-405e-8a97-8294b19bb19e",
+ 		"categoryCode": "A1-1000001",
+ 		"categoryName": "A1Master+Sales+Warna+Ukaran+CheckInSeoul",
+ 		"categoryEnglishName": "A1Master+Sales+Warna+Ukaran+CheckInSeoul",
+ 		"children": [{
+ 			"id": "d3206d59-b014-4862-ba82-633fe0dbe88b",
+ 			"categoryCode": "A2-1000001",
+ 			"categoryName": "A2Master+Sales+Warna+Ukaran+CheckInSeoul",
+ 			"categoryEnglishName": "A2Master+Sales+Warna+Ukaran+CheckInSeoul",
+ 			"parentCategory": "06a28377-9369-405e-8a97-8294b19bb19e",
+ 			"children": [{
+ 				"id": "425c035f-0126-44c5-8346-4090eb2f2590",
+ 				"categoryCode": "A3-1000001",
+ 				"categoryName": "A3Master+Sales+Warna+Ukaran+CheckInSeoul",
+ 				"categoryEnglishName": "A3Master+Sales+Warna+Ukaran+CheckInSeoul",
+ 				"parentCategory": "d3206d59-b014-4862-ba82-633fe0dbe88b",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			}],
+ 			"genericTemplateEligible": false
+ 		}],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "7820e4f3-5a6f-4b4d-995e-b32c3fc13d80",
+ 		"categoryCode": "CA-1000810",
+ 		"categoryName": "CategoryDefiningWarna+UkaranC1",
+ 		"categoryEnglishName": "CategoryDefiningWarna+UkaranC1",
+ 		"children": [{
+ 			"id": "bbfbd50d-875f-4ff0-899a-9ab8432e6601",
+ 			"categoryCode": "CA-1000811",
+ 			"categoryName": "CategoryDefiningWarna+UkaranC2",
+ 			"categoryEnglishName": "CategoryDefiningWarna+UkaranC2",
+ 			"parentCategory": "7820e4f3-5a6f-4b4d-995e-b32c3fc13d80",
+ 			"children": [{
+ 					"id": "5fbeda93-7f37-4825-aaff-cec5736d39b3",
+ 					"categoryCode": "CA-1000812",
+ 					"categoryName": "CategoryDefiningWarna+UkaranC3",
+ 					"categoryEnglishName": "CategoryDefiningWarna+UkaranC3",
+ 					"parentCategory": "bbfbd50d-875f-4ff0-899a-9ab8432e6601",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				},
+ 				{
+ 					"id": "1a261743-a142-4f28-af43-b670a9c28671",
+ 					"categoryCode": "CA-1000813",
+ 					"categoryName": "CategoryDefiningWarna+UkaranC4",
+ 					"categoryEnglishName": "CategoryDefiningWarna+UkaranC4",
+ 					"parentCategory": "bbfbd50d-875f-4ff0-899a-9ab8432e6601",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				}
+ 			],
+ 			"genericTemplateEligible": false
+ 		}],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "f07a3865-711c-44d6-9cc5-035e12992d0e",
+ 		"categoryCode": "RA-1000046",
+ 		"categoryName": "Raghav Master Test Category",
+ 		"categoryEnglishName": "Raghav Master Test Category",
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "930ebc8c-a75a-446c-8962-15b7dbf8ba70",
+ 		"categoryCode": "PR-1000061",
+ 		"categoryName": "Predef attr non mandatory combo category",
+ 		"categoryEnglishName": "Predef attr non mandatory combo category",
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "129a462a-4f2c-4bd6-9fc5-a1b4f1d7a207",
+ 		"categoryCode": "CA-1000793",
+ 		"categoryName": "MigrationC1",
+ 		"categoryEnglishName": "MigrationC1",
+ 		"children": [{
+ 			"id": "90529a7d-725b-4727-8031-d09f23dcaf30",
+ 			"categoryCode": "CA-1000794",
+ 			"categoryName": "MigrationC2",
+ 			"categoryEnglishName": "MigrationC2 Edit",
+ 			"parentCategory": "129a462a-4f2c-4bd6-9fc5-a1b4f1d7a207",
+ 			"children": [{
+ 					"id": "470f5061-15ec-489d-bb3a-2bfac28d6b58",
+ 					"categoryCode": "MI-1000060",
+ 					"categoryName": "MigrationC4",
+ 					"categoryEnglishName": "MigrationC4",
+ 					"parentCategory": "90529a7d-725b-4727-8031-d09f23dcaf30",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				},
+ 				{
+ 					"id": "2b04b025-46a5-474e-931a-347ebf15ef69",
+ 					"categoryCode": "CA-1000795",
+ 					"categoryName": "MigrationC3",
+ 					"categoryEnglishName": "MigrationC3",
+ 					"parentCategory": "90529a7d-725b-4727-8031-d09f23dcaf30",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				}
+ 			],
+ 			"genericTemplateEligible": false
+ 		}],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "9dc0334c-c6eb-4820-8fc1-0ea586aaac50",
+ 		"categoryCode": "JK-1000004",
+ 		"categoryName": "JKTestCatWarnaPre+Desc+OtherDefining",
+ 		"categoryEnglishName": "JKTestCatWarnaPre+Desc+OtherDefining",
+ 		"children": [{
+ 				"id": "415adf78-2d19-41b1-a795-594b51efc6c6",
+ 				"categoryCode": "JK-1000006",
+ 				"categoryName": "JKTestCatWarnaPre+Desc+OtherDefiningC3",
+ 				"categoryEnglishName": "JKTestCatWarnaPre+Desc+OtherDefiningC3",
+ 				"parentCategory": "9dc0334c-c6eb-4820-8fc1-0ea586aaac50",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "c9165b17-1b6a-413c-9fda-7f3b91ea3e7a",
+ 				"categoryCode": "JK-1000005",
+ 				"categoryName": "JKTestCatWarnaPre+Desc+OtherDefiningC2",
+ 				"categoryEnglishName": "JKTestCatWarnaPre+Desc+OtherDefiningC2",
+ 				"parentCategory": "9dc0334c-c6eb-4820-8fc1-0ea586aaac50",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "556acb6f-c57e-4be6-8c66-a5e9f1afc4a0",
+ 		"categoryCode": "C1-1000006",
+ 		"categoryName": "C1",
+ 		"categoryEnglishName": "C1",
+ 		"children": [{
+ 			"id": "be2a43c7-5e7f-4336-80c5-e634b3dceb37",
+ 			"categoryCode": "C2-1000007",
+ 			"categoryName": "C2",
+ 			"categoryEnglishName": "C2",
+ 			"parentCategory": "556acb6f-c57e-4be6-8c66-a5e9f1afc4a0",
+ 			"children": [{
+ 					"id": "4ef27d5c-2774-45a2-a30d-3e43ac59df7f",
+ 					"categoryCode": "C3-1000009",
+ 					"categoryName": "C3",
+ 					"categoryEnglishName": "C3",
+ 					"parentCategory": "be2a43c7-5e7f-4336-80c5-e634b3dceb37",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				},
+ 				{
+ 					"id": "c7045219-7898-4ca5-87d4-19171fc6e3cf",
+ 					"categoryCode": "C4-1000009",
+ 					"categoryName": "C4",
+ 					"categoryEnglishName": "C4",
+ 					"parentCategory": "be2a43c7-5e7f-4336-80c5-e634b3dceb37",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				}
+ 			],
+ 			"genericTemplateEligible": false
+ 		}],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "d1e1465b-6254-4099-b66d-0da41ce8a2c4",
+ 		"categoryCode": "AL-1000041",
+ 		"categoryName": "All3TypesOfWarnaC1",
+ 		"categoryEnglishName": "All3TypesOfWarna",
+ 		"children": [{
+ 			"id": "a7174231-76ff-40aa-a131-91541d994171",
+ 			"categoryCode": "AL-1000042",
+ 			"categoryName": "All3TypesOfWarnaC2",
+ 			"categoryEnglishName": "All3TypesOfWarnaC2",
+ 			"parentCategory": "d1e1465b-6254-4099-b66d-0da41ce8a2c4",
+ 			"children": [{
+ 					"id": "a5d67e47-692d-49fd-89af-91960aac39b2",
+ 					"categoryCode": "AL-1000043",
+ 					"categoryName": "All3TypesOfWarnaC3",
+ 					"categoryEnglishName": "All3TypesOfWarnaC3",
+ 					"parentCategory": "a7174231-76ff-40aa-a131-91541d994171",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				},
+ 				{
+ 					"id": "926721ac-7654-4a24-a84b-65558af158a9",
+ 					"categoryCode": "AL-1000044",
+ 					"categoryName": "All3TypesOfWarnaC4",
+ 					"categoryEnglishName": "All3TypesOfWarnaC4",
+ 					"parentCategory": "a7174231-76ff-40aa-a131-91541d994171",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				}
+ 			],
+ 			"genericTemplateEligible": false
+ 		}],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "642d2541-9f9e-4182-abbe-fb4802b1ec7e",
+ 		"categoryCode": "MA-1000113",
+ 		"categoryName": "MasterJK1",
+ 		"categoryEnglishName": "MasterJK1",
+ 		"children": [{
+ 			"id": "13dec2f4-8ec9-4c83-ae64-c387cc018386",
+ 			"categoryCode": "MA-1000114",
+ 			"categoryName": "MasterJK2",
+ 			"categoryEnglishName": "MasterJK2",
+ 			"parentCategory": "642d2541-9f9e-4182-abbe-fb4802b1ec7e",
+ 			"children": [{
+ 					"id": "b3908475-ee5a-4bf8-8dd0-5196f7bcd02e",
+ 					"categoryCode": "MA-1000115",
+ 					"categoryName": "MasterJK3",
+ 					"categoryEnglishName": "MasterJK3",
+ 					"parentCategory": "13dec2f4-8ec9-4c83-ae64-c387cc018386",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				},
+ 				{
+ 					"id": "9a8167d5-a138-44fa-a17d-02c7e6c46bab",
+ 					"categoryCode": "MA-1000118",
+ 					"categoryName": "MasterJk5",
+ 					"categoryEnglishName": "MasterJk5",
+ 					"parentCategory": "13dec2f4-8ec9-4c83-ae64-c387cc018386",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				},
+ 				{
+ 					"id": "02a64463-b5ad-4a81-8ec7-b6964b7d6232",
+ 					"categoryCode": "MA-1000117",
+ 					"categoryName": "MasterJk4",
+ 					"categoryEnglishName": "MasterJk4",
+ 					"parentCategory": "13dec2f4-8ec9-4c83-ae64-c387cc018386",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				}
+ 			],
+ 			"genericTemplateEligible": false
+ 		}],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "ef78c61e-6028-4904-bd82-46a067c3aab1",
+ 		"categoryCode": "CA-1000778",
+ 		"categoryName": "Cart Cat HK 1",
+ 		"categoryEnglishName": "Cart Cat HK 1",
+ 		"children": [{
+ 			"id": "af968484-54c0-4824-baff-4137593665a5",
+ 			"categoryCode": "CA-1000779",
+ 			"categoryName": "Cart Cat HK 2",
+ 			"categoryEnglishName": "Cart Cat HK 2",
+ 			"parentCategory": "ef78c61e-6028-4904-bd82-46a067c3aab1",
+ 			"children": [{
+ 				"id": "a5719f15-adde-4139-b375-c37052280bf8",
+ 				"categoryCode": "CA-1000781",
+ 				"categoryName": "Cart new Cat HK 1",
+ 				"categoryEnglishName": "Cart new Cat HK 1",
+ 				"parentCategory": "af968484-54c0-4824-baff-4137593665a5",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			}],
+ 			"genericTemplateEligible": false
+ 		}],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "33021138-915e-42f4-8ca8-a84af4c28129",
+ 		"categoryCode": "FL-1000015",
+ 		"categoryName": "FlagCheck1",
+ 		"categoryEnglishName": "FlagCheck1",
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "c6df966a-5e1b-4b99-9d61-93ed2244533a",
+ 		"categoryCode": "CA-1000804",
+ 		"categoryName": "CategoryMasterJKC1",
+ 		"categoryEnglishName": "CategoryMasterJKC1",
+ 		"children": [{
+ 				"id": "043274ca-3b47-4e80-861f-9701ed8fc2e8",
+ 				"categoryCode": "CA-1000806",
+ 				"categoryName": "CategoryMasterJKC3",
+ 				"categoryEnglishName": "CategoryMasterJKC3",
+ 				"parentCategory": "c6df966a-5e1b-4b99-9d61-93ed2244533a",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "303303b4-e8c4-404d-ab74-348ed21da34b",
+ 				"categoryCode": "CA-1000805",
+ 				"categoryName": "CategoryMasterJKC2",
+ 				"categoryEnglishName": "CategoryMasterJKC2",
+ 				"parentCategory": "c6df966a-5e1b-4b99-9d61-93ed2244533a",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "06e199cf-af8e-48fa-a235-88bd45fff7ef",
+ 		"categoryCode": "MA-1000121",
+ 		"categoryName": "Mandatory Flag Check Cat 1",
+ 		"categoryEnglishName": "Mandatory Flag Check Cat 1",
+ 		"children": [{
+ 			"id": "f1537288-e901-41ab-87fe-7fdb7112f8a1",
+ 			"categoryCode": "MA-1000122",
+ 			"categoryName": "Mandatory Flag Check Cat 2",
+ 			"categoryEnglishName": "Mandatory Flag Check Cat 2",
+ 			"parentCategory": "06e199cf-af8e-48fa-a235-88bd45fff7ef",
+ 			"children": [{
+ 					"id": "cac93653-824e-41db-b4e1-db66e1c31c32",
+ 					"categoryCode": "MA-1000124",
+ 					"categoryName": "Mandatory Flag Check Cat 4 gr8 Margin",
+ 					"categoryEnglishName": "Mandatory Flag Check Cat 4 gr8 Margin",
+ 					"parentCategory": "f1537288-e901-41ab-87fe-7fdb7112f8a1",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				},
+ 				{
+ 					"id": "b82fcbd6-9dc8-4295-9c3f-0b6712270da4",
+ 					"categoryCode": "MA-1000123",
+ 					"categoryName": "Mandatory Flag Check Cat 3",
+ 					"categoryEnglishName": "Mandatory Flag Check Cat 3",
+ 					"parentCategory": "f1537288-e901-41ab-87fe-7fdb7112f8a1",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				}
+ 			],
+ 			"genericTemplateEligible": false
+ 		}],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "75685e70-1265-4c37-9a88-9f1e44db12ba",
+ 		"categoryCode": "PR-1000063",
+ 		"categoryName": "Predef attr non mandatory combo category Change high margin",
+ 		"categoryEnglishName": "Predef attr non mandatory combo category Change high margin",
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "12ed0a17-5830-4f05-935e-ca86f92cddbc",
+ 		"categoryCode": "NE-1000425",
+ 		"categoryName": "new restricted keyword category 2",
+ 		"categoryEnglishName": "new restricted keyword category 2",
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "377bc02e-9060-451b-a915-b1c3971926cc",
+ 		"categoryCode": "OT-1000012",
+ 		"categoryName": "OtherDefiningAttribute+OnlyPredefinedAttributeC1+NoDefiWarna",
+ 		"categoryEnglishName": "OtherDefiningAttribute+OnlyPredefinedAttributeC1+NoDefiWarna",
+ 		"children": [{
+ 				"id": "92ce980f-7483-47d8-bd38-57cdbbdb0938",
+ 				"categoryCode": "OT-1000014",
+ 				"categoryName": "OtherDefiningAttribute+OnlyPredefinedAttributeC3",
+ 				"categoryEnglishName": "OtherDefiningAttribute+OnlyPredefinedAttributeC3",
+ 				"parentCategory": "377bc02e-9060-451b-a915-b1c3971926cc",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "28fd35e5-c8d9-4c51-90fb-b3db2c407d3b",
+ 				"categoryCode": "OT-1000013",
+ 				"categoryName": "OtherDefiningAttribute+OnlyPredefinedAttributeC2",
+ 				"categoryEnglishName": "OtherDefiningAttribute+OnlyPredefinedAttributeC2",
+ 				"parentCategory": "377bc02e-9060-451b-a915-b1c3971926cc",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "c2bbc6d9-f6c0-4992-a32f-2f490f6e5e90",
+ 		"categoryCode": "MI-1000057",
+ 		"categoryName": "MigrationDefiningWarnaCategoryC1",
+ 		"categoryEnglishName": "MigrationDefiningWarnaCategoryC1",
+ 		"children": [{
+ 			"id": "bfc177ef-cae4-4542-819a-70033940c1e3",
+ 			"categoryCode": "MI-1000058",
+ 			"categoryName": "MigrationDefiningWarnaCategoryC2",
+ 			"categoryEnglishName": "MigrationDefiningWarnaCategoryC2",
+ 			"parentCategory": "c2bbc6d9-f6c0-4992-a32f-2f490f6e5e90",
+ 			"children": [{
+ 					"id": "5b0b350a-b371-4699-88bc-a1f0e324ae51",
+ 					"categoryCode": "CA-1000829",
+ 					"categoryName": "CategoryChangeTest_c1Testing",
+ 					"categoryEnglishName": "CategoryChangeTest_c1Testing",
+ 					"parentCategory": "bfc177ef-cae4-4542-819a-70033940c1e3",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				},
+ 				{
+ 					"id": "5602ab60-46a1-4aff-822a-2eb7b032b306",
+ 					"categoryCode": "MI-1000059",
+ 					"categoryName": "MigrationDefiningWarnaCategoryC3",
+ 					"categoryEnglishName": "MigrationDefiningWarnaCategoryC3",
+ 					"parentCategory": "bfc177ef-cae4-4542-819a-70033940c1e3",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				}
+ 			],
+ 			"genericTemplateEligible": false
+ 		}],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "e29e8d03-95a7-4142-9208-fcacdb937622",
+ 		"categoryCode": "NO-1000010",
+ 		"categoryName": "NormalCategoryDefiningWarnaC1",
+ 		"categoryEnglishName": "NormalCategoryDefiningWarnaC1",
+ 		"children": [{
+ 			"id": "6b336f56-d04e-4024-b576-7d5ae4d9c1b2",
+ 			"categoryCode": "NO-1000011",
+ 			"categoryName": "NormalCategoryDefiningWarnaC2",
+ 			"categoryEnglishName": "NormalCategoryDefiningWarnaC2",
+ 			"parentCategory": "e29e8d03-95a7-4142-9208-fcacdb937622",
+ 			"children": [{
+ 				"id": "fe537153-8e71-4196-ac84-b21a4b4be82b",
+ 				"categoryCode": "NO-1000012",
+ 				"categoryName": "NormalCategoryDefiningWarnaC3",
+ 				"categoryEnglishName": "NormalCategoryDefiningWarnaC3",
+ 				"parentCategory": "6b336f56-d04e-4024-b576-7d5ae4d9c1b2",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			}],
+ 			"genericTemplateEligible": false
+ 		}],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "c8852a83-9ad1-4ef6-9152-fa1ff8ee480d",
+ 		"categoryCode": "CO-1000062",
+ 		"categoryName": "CombinationDescriptive+Defining",
+ 		"categoryEnglishName": "CombinationDescriptive+Defining",
+ 		"children": [{
+ 				"id": "b4c4a9b0-a241-4686-90e7-a9bdc5cc9a25",
+ 				"categoryCode": "CO-1000064",
+ 				"categoryName": "CombinationDescriptive+DefiningC2",
+ 				"categoryEnglishName": "CombinationDescriptive+DefiningC2",
+ 				"parentCategory": "c8852a83-9ad1-4ef6-9152-fa1ff8ee480d",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "ac5f6e73-820f-4d1d-9e47-3a203ccc9cfd",
+ 				"categoryCode": "CO-1000063",
+ 				"categoryName": "CombinationDescriptive+DefiningC1",
+ 				"categoryEnglishName": "CombinationDescriptive+DefiningC1",
+ 				"parentCategory": "c8852a83-9ad1-4ef6-9152-fa1ff8ee480d",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "a80d7f34-7a0c-4607-8c84-8e5a95b6d7ae",
+ 		"categoryCode": "DE-1000077",
+ 		"categoryName": "DeskriptifDanDefiningVarian",
+ 		"categoryEnglishName": "DescriptiveAndDefiningVariant",
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "74355217-5bc4-47ba-9157-a55087e59db5",
+ 		"categoryCode": "VA-1000002",
+ 		"categoryName": "Vandana testing",
+ 		"categoryEnglishName": "Vandana testing category (Parent)",
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "a8e2686c-daac-11e4-b9d6-1681e6b88ec1",
+ 		"categoryCode": "10219",
+ 		"categoryName": "Handphone, Tablet & Wearable Gadget",
+ 		"categoryEnglishName": "Handphone, Tablet & Wearable Gadget EN",
+ 		"children": [{
+ 				"id": "960956c4-94af-4def-ab64-355413242e28",
+ 				"categoryCode": "10245",
+ 				"categoryName": "Handphone",
+ 				"categoryEnglishName": "Handphone EN",
+ 				"parentCategory": "a8e2686c-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "e3c174d7-6dee-41b7-826f-7c18792ceb89",
+ 						"categoryCode": "IP-1000003",
+ 						"categoryName": "iPhone",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "960956c4-94af-4def-ab64-355413242e28",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "1c8ebb75-e891-40ef-a3c6-79126270c306",
+ 						"categoryCode": "10250",
+ 						"categoryName": "Blackberry",
+ 						"categoryEnglishName": "Blackberry EN",
+ 						"parentCategory": "960956c4-94af-4def-ab64-355413242e28",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "53477793-d0e3-4cce-a638-d736b15370f9",
+ 						"categoryCode": "10249",
+ 						"categoryName": "Android",
+ 						"categoryEnglishName": "Android EN",
+ 						"parentCategory": "960956c4-94af-4def-ab64-355413242e28",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "7c9005ce-5da7-42ac-a687-d780961f8ab5",
+ 						"categoryCode": "10246",
+ 						"categoryName": "iPhone",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "960956c4-94af-4def-ab64-355413242e28",
+ 						"children": [{
+ 								"id": "6e0376c8-0995-4d8a-a704-547efca60c2b",
+ 								"categoryCode": "10247",
+ 								"categoryName": "iPhone 4",
+ 								"categoryEnglishName": null,
+ 								"parentCategory": "7c9005ce-5da7-42ac-a687-d780961f8ab5",
+ 								"children": null,
+ 								"genericTemplateEligible": false
+ 							},
+ 							{
+ 								"id": "3f7390df-a149-469d-a1c7-91b59ddbc89c",
+ 								"categoryCode": "10248",
+ 								"categoryName": "General",
+ 								"categoryEnglishName": null,
+ 								"parentCategory": "7c9005ce-5da7-42ac-a687-d780961f8ab5",
+ 								"children": [{
+ 									"id": "d4b8e6fa-9c56-48ff-bdb4-788f48330b82",
+ 									"categoryCode": "GE-1000038",
+ 									"categoryName": "GeneralC5",
+ 									"categoryEnglishName": "GeneralC5",
+ 									"parentCategory": "3f7390df-a149-469d-a1c7-91b59ddbc89c",
+ 									"children": null,
+ 									"genericTemplateEligible": false
+ 								}],
+ 								"genericTemplateEligible": false
+ 							}
+ 						],
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "64ea99f6-4818-4b8f-b16f-2a15d855840d",
+ 						"categoryCode": "10252",
+ 						"categoryName": "Windows Mobile",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "960956c4-94af-4def-ab64-355413242e28",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "280376b4-94a1-4cfd-b51c-716b4f42d63d",
+ 						"categoryCode": "10253",
+ 						"categoryName": "Handphone Lainnya",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "960956c4-94af-4def-ab64-355413242e28",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "76762c61-a1df-475b-b433-a2fd239bd56e",
+ 						"categoryCode": "NE-1000013",
+ 						"categoryName": "New C3 Category PPL Handphone",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "960956c4-94af-4def-ab64-355413242e28",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "4b421ca1-db2f-42ae-b7ff-58f22e944369",
+ 				"categoryCode": "10220",
+ 				"categoryName": "Aksesoris Handphone & Tablet",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e2686c-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "fe773ff6-7161-4c48-a33c-42777e3bf507",
+ 						"categoryCode": "10221",
+ 						"categoryName": "Baterai",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "4b421ca1-db2f-42ae-b7ff-58f22e944369",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "11c081e1-5b13-4d07-959e-d735117dbc73",
+ 						"categoryCode": "30072",
+ 						"categoryName": "Headset",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "4b421ca1-db2f-42ae-b7ff-58f22e944369",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "a2ac5075-bb25-4d46-92f3-202dc17490ba",
+ 						"categoryCode": "54551",
+ 						"categoryName": "Memory Card",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "4b421ca1-db2f-42ae-b7ff-58f22e944369",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "1e744759-3caf-42f4-a02b-e5969d20d7a3",
+ 						"categoryCode": "10222",
+ 						"categoryName": "Charger & Power Bank",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "4b421ca1-db2f-42ae-b7ff-58f22e944369",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "82cddde3-a25f-42c0-ba28-2ec2acd697b3",
+ 						"categoryCode": "10223",
+ 						"categoryName": "Casing",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "4b421ca1-db2f-42ae-b7ff-58f22e944369",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "942aaf69-1a00-491b-926b-4fa974db690f",
+ 						"categoryCode": "10226",
+ 						"categoryName": "Speaker Handphone",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "4b421ca1-db2f-42ae-b7ff-58f22e944369",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "63a15719-8065-45b1-89d1-c8b4c488c8ae",
+ 						"categoryCode": "10228",
+ 						"categoryName": "Skin Protector",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "4b421ca1-db2f-42ae-b7ff-58f22e944369",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "73e293aa-4cae-4382-9299-5e0b8cdaa426",
+ 						"categoryCode": "13014",
+ 						"categoryName": "Aksesoris Handphone & Tablet Lainnya",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "4b421ca1-db2f-42ae-b7ff-58f22e944369",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "1942f910-d0f0-4256-9752-90fdcc097443",
+ 				"categoryCode": "10254",
+ 				"categoryName": "Tablet",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e2686c-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 					"id": "260f195c-6216-4a55-82b1-a7e1d94fe1e1",
+ 					"categoryCode": "10259",
+ 					"categoryName": "Tablet Lainnya",
+ 					"categoryEnglishName": "Tablet Lainnya En",
+ 					"parentCategory": "1942f910-d0f0-4256-9752-90fdcc097443",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				}],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "9bde1d72-0bbb-46a8-9f89-dab34736b85b",
+ 				"categoryCode": "PP-1000010",
+ 				"categoryName": "PPL Handphone Category C2",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e2686c-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "a8e27ee2-daac-11e4-b9d6-1681e6b88ec1",
+ 		"categoryCode": "10001",
+ 		"categoryName": "Otomotif(*)",
+ 		"children": [{
+ 				"id": "d3f84986-1f90-49eb-93d6-d195fa891bcd",
+ 				"categoryCode": "71051",
+ 				"categoryName": "Mobil(*)",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e27ee2-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "73d42756-cd7a-46d0-910c-9ac6bc68f68e",
+ 						"categoryCode": "90087",
+ 						"categoryName": "Daihatsu(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "d3f84986-1f90-49eb-93d6-d195fa891bcd",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "98f78a6f-7c8b-4ce3-81fe-27388f7657de",
+ 						"categoryCode": "71052",
+ 						"categoryName": "Nissan(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "d3f84986-1f90-49eb-93d6-d195fa891bcd",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "e17a0aea-afcb-4b5c-840c-8a93b54b07d3",
+ 						"categoryCode": "71054",
+ 						"categoryName": "Datsun(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "d3f84986-1f90-49eb-93d6-d195fa891bcd",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "43d19a83-5205-48dd-874b-e9b7cc9a1981",
+ 						"categoryCode": "71053",
+ 						"categoryName": "Audi(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "d3f84986-1f90-49eb-93d6-d195fa891bcd",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "81614803-4ff5-4826-aecc-71bdacbe2c40",
+ 						"categoryCode": "71055",
+ 						"categoryName": "Renault(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "d3f84986-1f90-49eb-93d6-d195fa891bcd",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "3c12d680-88fe-457d-9a2e-11e636e595e5",
+ 						"categoryCode": "90079",
+ 						"categoryName": "Toyota(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "d3f84986-1f90-49eb-93d6-d195fa891bcd",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "3da234a2-0a86-4a49-9da2-313010fdb413",
+ 				"categoryCode": "23555",
+ 				"categoryName": "Sepeda Motor(*)",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e27ee2-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "bfddf153-9a36-4d5e-b296-39b298364f8c",
+ 						"categoryCode": "53819",
+ 						"categoryName": "Piaggio Vespa(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "3da234a2-0a86-4a49-9da2-313010fdb413",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "8e4b44f5-f8a7-4a6f-a072-fc487b06b60b",
+ 						"categoryCode": "65551",
+ 						"categoryName": "Viar(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "3da234a2-0a86-4a49-9da2-313010fdb413",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "b65a2ffd-5970-460e-a9f2-4620ce62add8",
+ 						"categoryCode": "23556",
+ 						"categoryName": "Honda(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "3da234a2-0a86-4a49-9da2-313010fdb413",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "d9950fc8-2042-47b0-8821-f0804cdb77f5",
+ 						"categoryCode": "71073",
+ 						"categoryName": "TVS(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "3da234a2-0a86-4a49-9da2-313010fdb413",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "75b35e24-2fc8-43d7-ac1f-59809eb12e6e",
+ 						"categoryCode": "34555",
+ 						"categoryName": "Yamaha(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "3da234a2-0a86-4a49-9da2-313010fdb413",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "c9b6fc5c-5cd3-4498-8d0d-d903c938ee88",
+ 						"categoryCode": "71065",
+ 						"categoryName": "Suzuki(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "3da234a2-0a86-4a49-9da2-313010fdb413",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "ba43a29c-39ec-421c-9058-994292b8ce7f",
+ 						"categoryCode": "71066",
+ 						"categoryName": "Kawasaki(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "3da234a2-0a86-4a49-9da2-313010fdb413",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "e0372906-f2f9-40c9-85ff-181e7bf4c24d",
+ 						"categoryCode": "71067",
+ 						"categoryName": "ATV(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "3da234a2-0a86-4a49-9da2-313010fdb413",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "ddf81634-08a1-4b12-83b4-083157411db8",
+ 						"categoryCode": "71068",
+ 						"categoryName": "Sepeda Listrik(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "3da234a2-0a86-4a49-9da2-313010fdb413",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "6a5866d9-151c-44c8-8500-10a03f105d67",
+ 						"categoryCode": "90053",
+ 						"categoryName": "Leasing Motor(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "3da234a2-0a86-4a49-9da2-313010fdb413",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "9eebd885-e4ba-4f0e-bdb5-f065afb67df0",
+ 				"categoryCode": "73079",
+ 				"categoryName": "Suku Cadang Mobil(*)",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e27ee2-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "7d096ee0-38e9-4676-9ed8-d46e0dc12d5a",
+ 						"categoryCode": "SI-1000061",
+ 						"categoryName": "SimBulkTest",
+ 						"categoryEnglishName": "SimBulkTest",
+ 						"parentCategory": "9eebd885-e4ba-4f0e-bdb5-f065afb67df0",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "081362d5-95de-4188-b4bc-c64a19105065",
+ 						"categoryCode": "73080",
+ 						"categoryName": "Suku Cadang Asli Mobil(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "9eebd885-e4ba-4f0e-bdb5-f065afb67df0",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "ee17d86c-6675-47c9-be44-ba0906644de7",
+ 						"categoryCode": "73081",
+ 						"categoryName": "Suku Cadang Mesin Mobil(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "9eebd885-e4ba-4f0e-bdb5-f065afb67df0",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "fc4b6eb3-1a06-42cb-ad68-4a5d04e241b9",
+ 						"categoryCode": "73082",
+ 						"categoryName": "Suku Cadang Rem Mobil(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "9eebd885-e4ba-4f0e-bdb5-f065afb67df0",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "0e1471a7-31c6-4cd2-a365-d11cd253566d",
+ 						"categoryCode": "73085",
+ 						"categoryName": "Suku Cadang Mobil Lainnya(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "9eebd885-e4ba-4f0e-bdb5-f065afb67df0",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "18f7d03c-3e76-40dc-a757-724643638ed0",
+ 				"categoryCode": "YU-1000003",
+ 				"categoryName": "Yuna Otomotif 1",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e27ee2-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "a8e2774e-daac-11e4-b9d6-1681e6b88ec1",
+ 		"categoryCode": "10437",
+ 		"categoryName": "Fashion Pria",
+ 		"categoryEnglishName": "Fashion Pria EN",
+ 		"children": [{
+ 				"id": "81f14889-110b-4f1e-8781-003d3d9789fa",
+ 				"categoryCode": "10493",
+ 				"categoryName": "Sepatu",
+ 				"categoryEnglishName": "Sepatu EN",
+ 				"parentCategory": "a8e2774e-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "e316ebef-d78a-418b-b827-436e468bffb9",
+ 						"categoryCode": "10496",
+ 						"categoryName": "Sandal",
+ 						"categoryEnglishName": "Sandal",
+ 						"parentCategory": "81f14889-110b-4f1e-8781-003d3d9789fa",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "c7e6291a-f244-46bb-9b81-a0541282b99e",
+ 						"categoryCode": "54905",
+ 						"categoryName": "Sneaker",
+ 						"categoryEnglishName": "Sneaker EN",
+ 						"parentCategory": "81f14889-110b-4f1e-8781-003d3d9789fa",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "496018b6-b9a1-4d7e-9cb7-979642c0982b",
+ 						"categoryCode": "39566",
+ 						"categoryName": "Aksesoris & Pembersih Sepatu",
+ 						"categoryEnglishName": "Aksesoris & Pembersih Sepatu",
+ 						"parentCategory": "81f14889-110b-4f1e-8781-003d3d9789fa",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "74a6e742-cb97-4fba-b480-7a8ea5489029",
+ 						"categoryCode": "10494",
+ 						"categoryName": "Sepatu Formal",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "81f14889-110b-4f1e-8781-003d3d9789fa",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "b17ae715-51d8-4051-afd8-d5ebc2bcd964",
+ 						"categoryCode": "10495",
+ 						"categoryName": "Slip On & Loafer",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "81f14889-110b-4f1e-8781-003d3d9789fa",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "84ec03aa-8a97-4089-9600-ebe0889cf2d4",
+ 						"categoryCode": "54904",
+ 						"categoryName": "Sepatu Boot",
+ 						"categoryEnglishName": "Sepatu Boot EN",
+ 						"parentCategory": "81f14889-110b-4f1e-8781-003d3d9789fa",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "75098178-e8a1-4c82-a900-ba71c64af196",
+ 				"categoryCode": "SH-1000022",
+ 				"categoryName": "Shivani Test Category",
+ 				"categoryEnglishName": "Shivani Test Category",
+ 				"parentCategory": "a8e2774e-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "130a08c6-4aaa-4c00-b7de-ebf61733ac83",
+ 				"categoryCode": "10458",
+ 				"categoryName": "Tas & Aksesoris",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e2774e-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "fc13fc4c-e574-45ef-98ab-83f99e1109f6",
+ 						"categoryCode": "10459",
+ 						"categoryName": "Tas & Dompet",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "130a08c6-4aaa-4c00-b7de-ebf61733ac83",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "1e960560-e3e3-42bf-a5b1-9f1c4c8f3006",
+ 						"categoryCode": "54583",
+ 						"categoryName": "Sunglasses",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "130a08c6-4aaa-4c00-b7de-ebf61733ac83",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "85aa00d9-b395-42d9-ac87-b7d76d838d14",
+ 						"categoryCode": "40551",
+ 						"categoryName": "Tas Koper & Travel",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "130a08c6-4aaa-4c00-b7de-ebf61733ac83",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "02427788-fbf5-46de-b1a9-7f61a5f61703",
+ 						"categoryCode": "10460",
+ 						"categoryName": "Ikat Pinggang",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "130a08c6-4aaa-4c00-b7de-ebf61733ac83",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "29735a9e-65fc-46e2-89b6-c25754e3d102",
+ 						"categoryCode": "10461",
+ 						"categoryName": "Dasi",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "130a08c6-4aaa-4c00-b7de-ebf61733ac83",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "44c41b2b-aae5-43aa-bfa0-d6a9625e8022",
+ 						"categoryCode": "10462",
+ 						"categoryName": "Topi & Bandana",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "130a08c6-4aaa-4c00-b7de-ebf61733ac83",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "5354eefa-7a38-4aca-a918-d2f0e8a1c69a",
+ 						"categoryCode": "10463",
+ 						"categoryName": "Softlens & Kacamata",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "130a08c6-4aaa-4c00-b7de-ebf61733ac83",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "ab61ef51-23c6-4fbb-9b38-961637ce4189",
+ 						"categoryCode": "10466",
+ 						"categoryName": "Aksesoris Pria",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "130a08c6-4aaa-4c00-b7de-ebf61733ac83",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "a8e27c30-daac-11e4-b9d6-1681e6b88ec1",
+ 		"categoryCode": "53070",
+ 		"categoryName": "Kesehatan & Kecantikan",
+ 		"children": [{
+ 				"id": "480fc143-4ede-4663-9a97-49c3ba17891f",
+ 				"categoryCode": "53071",
+ 				"categoryName": "Make-up",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e27c30-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "50102c3a-3ddd-4adb-9bc9-d44c8a6fc99b",
+ 						"categoryCode": "53072",
+ 						"categoryName": "Peralatan Make-up",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "480fc143-4ede-4663-9a97-49c3ba17891f",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "4745a172-c295-4026-b219-573c4a62d1ea",
+ 						"categoryCode": "53073",
+ 						"categoryName": "Riasan Mata",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "480fc143-4ede-4663-9a97-49c3ba17891f",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "0fe7a5fd-0142-41bc-b40a-affe9f2539f9",
+ 						"categoryCode": "53074",
+ 						"categoryName": "Primer, Foundation & Concealer",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "480fc143-4ede-4663-9a97-49c3ba17891f",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "dbcfdca1-d893-4961-aa51-cb781934e26d",
+ 						"categoryCode": "53075",
+ 						"categoryName": "Lipstik & Pelembab Bibir",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "480fc143-4ede-4663-9a97-49c3ba17891f",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "ecf67e48-e801-4c40-8477-638d20f814e3",
+ 						"categoryCode": "53076",
+ 						"categoryName": "Kutek & Riasan Kuku",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "480fc143-4ede-4663-9a97-49c3ba17891f",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "82ede342-0b57-41b1-93d7-c7a41487dc9b",
+ 						"categoryCode": "53077",
+ 						"categoryName": "Riasan Wajah",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "480fc143-4ede-4663-9a97-49c3ba17891f",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "e16b285e-2807-43d6-9429-1c605536bdeb",
+ 						"categoryCode": "53078",
+ 						"categoryName": "Perona & Bronzer",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "480fc143-4ede-4663-9a97-49c3ba17891f",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "0ae1829a-161b-4634-ae53-c5fe6d3b4bd4",
+ 						"categoryCode": "66551",
+ 						"categoryName": "Make-up Value Set",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "480fc143-4ede-4663-9a97-49c3ba17891f",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "07d224b0-3507-4dfd-b247-63e5badb79d5",
+ 						"categoryCode": "66552",
+ 						"categoryName": "Make-up Pallete",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "480fc143-4ede-4663-9a97-49c3ba17891f",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "a961f6de-1d44-42bd-877a-34e92d620b24",
+ 				"categoryCode": "53079",
+ 				"categoryName": "Perawatan Wajah",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e27c30-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "5ecac081-1f9e-4ce3-8d80-b00d0bc9ec1c",
+ 						"categoryCode": "53080",
+ 						"categoryName": "Pembersih Wajah",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "a961f6de-1d44-42bd-877a-34e92d620b24",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "89315afc-c49f-41d5-8aea-5e2590fc4c81",
+ 						"categoryCode": "57057",
+ 						"categoryName": "Serum Wajah",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "a961f6de-1d44-42bd-877a-34e92d620b24",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "bc5d84c8-7613-4d3a-9aed-fa66519c2f90",
+ 						"categoryCode": "53081",
+ 						"categoryName": "Pelembab Wajah",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "a961f6de-1d44-42bd-877a-34e92d620b24",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "0c047cca-2b4f-4281-b8d6-b0492dabcb9c",
+ 						"categoryCode": "53082",
+ 						"categoryName": "Beauty Set",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "a961f6de-1d44-42bd-877a-34e92d620b24",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "83ce8c91-c9eb-4628-9f9f-974b0f5d8f50",
+ 						"categoryCode": "53083",
+ 						"categoryName": "Anti Aging",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "a961f6de-1d44-42bd-877a-34e92d620b24",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "fa36d49b-32fc-4067-ba5b-b3a06e609027",
+ 						"categoryCode": "53084",
+ 						"categoryName": "Perawatan & Obat Jerawat",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "a961f6de-1d44-42bd-877a-34e92d620b24",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "319c5506-11fd-4b89-8ce5-b962767f6a64",
+ 						"categoryCode": "53085",
+ 						"categoryName": "Toner Pembersih Wajah",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "a961f6de-1d44-42bd-877a-34e92d620b24",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "1ebffd68-b47d-4a0f-879d-f5bab76947fb",
+ 						"categoryCode": "53086",
+ 						"categoryName": "Sabun Wajah",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "a961f6de-1d44-42bd-877a-34e92d620b24",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "d2753eef-7528-4942-b5d1-beafa7d0a6ac",
+ 						"categoryCode": "53087",
+ 						"categoryName": "Masker Wajah",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "a961f6de-1d44-42bd-877a-34e92d620b24",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "19d1edbf-badd-4a0f-8637-f287c7b05d57",
+ 						"categoryCode": "66553",
+ 						"categoryName": "Perawatan Mata",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "a961f6de-1d44-42bd-877a-34e92d620b24",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "b44ea95f-9869-4098-aee5-46a90965d664",
+ 						"categoryCode": "66554",
+ 						"categoryName": "Spray Wajah",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "a961f6de-1d44-42bd-877a-34e92d620b24",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "547a69e2-ed6c-4609-8f5d-b6de1457976e",
+ 				"categoryCode": "53088",
+ 				"categoryName": "Perawatan Tubuh & Spa",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e27c30-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "52abb8dc-d0ab-468f-9561-4307eaa98dbe",
+ 						"categoryCode": "SA-1000054",
+ 						"categoryName": "Sabun Cuci Tangan",
+ 						"categoryEnglishName": "Sabun Cuci Tangan EN",
+ 						"parentCategory": "547a69e2-ed6c-4609-8f5d-b6de1457976e",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "7e43e94a-a9c5-4ddd-9b2a-319f4ae81d51",
+ 						"categoryCode": "74051",
+ 						"categoryName": "Set Perawatan Tubuh & Spa",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "547a69e2-ed6c-4609-8f5d-b6de1457976e",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "bc50e591-9fde-4376-bf14-ef0a0f0ac258",
+ 						"categoryCode": "53089",
+ 						"categoryName": "Body Lotion",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "547a69e2-ed6c-4609-8f5d-b6de1457976e",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "a3cd604f-792c-4e67-b8de-cee6dd7b8424",
+ 						"categoryCode": "53090",
+ 						"categoryName": "Body Scrub",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "547a69e2-ed6c-4609-8f5d-b6de1457976e",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "ad0c8eb2-47e4-4d59-a5ab-1f4406442e75",
+ 						"categoryCode": "53091",
+ 						"categoryName": "Sabun Mandi",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "547a69e2-ed6c-4609-8f5d-b6de1457976e",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "df2c20c3-b4d1-4d3a-9808-82e614453f7e",
+ 						"categoryCode": "53092",
+ 						"categoryName": "Deodoran & Bedak",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "547a69e2-ed6c-4609-8f5d-b6de1457976e",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "be8ef90a-416e-442c-b044-314a9566c011",
+ 						"categoryCode": "53093",
+ 						"categoryName": "Spa & Aromaterapi",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "547a69e2-ed6c-4609-8f5d-b6de1457976e",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "aa0a8618-24e7-43a5-9ce3-13f26926bf45",
+ 						"categoryCode": "53094",
+ 						"categoryName": "Tabir Surya",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "547a69e2-ed6c-4609-8f5d-b6de1457976e",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "262cb674-0335-4fdb-97bc-64be22c294c3",
+ 						"categoryCode": "53095",
+ 						"categoryName": "Servis Perawatan Kulit",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "547a69e2-ed6c-4609-8f5d-b6de1457976e",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "2f47c117-7677-4544-8cba-5e10aafff0e7",
+ 						"categoryCode": "53096",
+ 						"categoryName": "Waxing",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "547a69e2-ed6c-4609-8f5d-b6de1457976e",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "ff08d97b-f0e1-43bb-a8db-2a34891a051d",
+ 						"categoryCode": "53097",
+ 						"categoryName": "Sabun Tangan & Sanitizer",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "547a69e2-ed6c-4609-8f5d-b6de1457976e",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "ac011b8c-f1d3-455f-8426-9b4093dce618",
+ 						"categoryCode": "53098",
+ 						"categoryName": "Perawatan Kaki",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "547a69e2-ed6c-4609-8f5d-b6de1457976e",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "a327522d-7caf-41a2-9fb6-1ff125098e32",
+ 						"categoryCode": "53099",
+ 						"categoryName": "Perawatan Mulut & Gigi",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "547a69e2-ed6c-4609-8f5d-b6de1457976e",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "041b3ca1-afdb-403a-8df2-964ebd90997b",
+ 						"categoryCode": "53100",
+ 						"categoryName": "Produk Pelangsing",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "547a69e2-ed6c-4609-8f5d-b6de1457976e",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "fc9e9c7b-4f38-4fe2-a377-14daafeac771",
+ 						"categoryCode": "53101",
+ 						"categoryName": "Pakaian Pelangsing",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "547a69e2-ed6c-4609-8f5d-b6de1457976e",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "1aa77107-a5df-44a3-84e5-5585c34a8226",
+ 				"categoryCode": "53116",
+ 				"categoryName": "Peralatan Medis & Relaksasi",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e27c30-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "4ffed4d5-bc75-4954-bec7-8470da64cdc8",
+ 						"categoryCode": "53117",
+ 						"categoryName": "Alat Monitor Kesehatan",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "1aa77107-a5df-44a3-84e5-5585c34a8226",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "cebda886-cbef-4f22-81fa-9f8e38196dab",
+ 						"categoryCode": "53118",
+ 						"categoryName": "Peralatan Medis",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "1aa77107-a5df-44a3-84e5-5585c34a8226",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "f1269580-97c1-45f6-bb18-f1d6615d2dd3",
+ 						"categoryCode": "53119",
+ 						"categoryName": "Massage & Relaksasi",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "1aa77107-a5df-44a3-84e5-5585c34a8226",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "a8e26c4a-daac-11e4-b9d6-1681e6b88ec1",
+ 		"categoryCode": "53137",
+ 		"categoryName": "Komputer & Laptop",
+ 		"categoryEnglishName": "computer",
+ 		"children": [{
+ 			"id": "7fe6fc0d-742b-451f-9865-50eab5d0ff33",
+ 			"categoryCode": "VA-1000004",
+ 			"categoryName": "testing child category",
+ 			"categoryEnglishName": "testing child category",
+ 			"parentCategory": "a8e26c4a-daac-11e4-b9d6-1681e6b88ec1",
+ 			"children": null,
+ 			"genericTemplateEligible": false
+ 		}],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "a8e2813a-daac-11e4-b9d6-1681e6b88ec1",
+ 		"categoryCode": "10059",
+ 		"categoryName": "Kuliner",
+ 		"children": [{
+ 				"id": "70e577b0-64bf-4da9-bddf-e0c29f4b1367",
+ 				"categoryCode": "37551",
+ 				"categoryName": "Healthy Food",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e2813a-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "3a52481b-cac7-4e5a-9acc-f5871ca17085",
+ 				"categoryCode": "52051",
+ 				"categoryName": "Voucher Makanan(*)",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e2813a-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "8be09104-235d-4fec-b5f1-9db9eb664a31",
+ 						"categoryCode": "52052",
+ 						"categoryName": "Voucher Restoran(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "3a52481b-cac7-4e5a-9acc-f5871ca17085",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "2d21c948-31ad-40d4-91ec-3ee0d2387ac9",
+ 						"categoryCode": "53396",
+ 						"categoryName": "Voucher Bakery(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "3a52481b-cac7-4e5a-9acc-f5871ca17085",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "6cc1b1df-e0a3-4a57-bf9b-1902526cb5db",
+ 						"categoryCode": "53397",
+ 						"categoryName": "Voucher Supermarket(*)",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "3a52481b-cac7-4e5a-9acc-f5871ca17085",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "e957ceb7-37d6-48d9-8e1f-0c4110527adc",
+ 				"categoryCode": "10104",
+ 				"categoryName": "Penyimpanan Dapur",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e2813a-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "2070717c-b504-4bff-baa1-a3a66c7c54ee",
+ 						"categoryCode": "10105",
+ 						"categoryName": "Toples",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "e957ceb7-37d6-48d9-8e1f-0c4110527adc",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "6d2caef6-6f99-4392-926d-9bb464971441",
+ 						"categoryCode": "10106",
+ 						"categoryName": "Botol Minum",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "e957ceb7-37d6-48d9-8e1f-0c4110527adc",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "2f09d500-f170-40fe-9e05-31031e659376",
+ 						"categoryCode": "10107",
+ 						"categoryName": "Tempat Penyimpanan Makanan",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "e957ceb7-37d6-48d9-8e1f-0c4110527adc",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "f89764b6-7ea8-4d8e-bb82-1a51d4ee163f",
+ 						"categoryCode": "53388",
+ 						"categoryName": "Kotak Makan",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "e957ceb7-37d6-48d9-8e1f-0c4110527adc",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "7276fdeb-23ef-4a68-a868-17be2d1dd57c",
+ 						"categoryCode": "53389",
+ 						"categoryName": "Rantang",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "e957ceb7-37d6-48d9-8e1f-0c4110527adc",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "ac0833db-f31a-45c4-98bc-86a002698780",
+ 						"categoryCode": "53390",
+ 						"categoryName": "Tempat Bumbu",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "e957ceb7-37d6-48d9-8e1f-0c4110527adc",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "7d8e430e-6137-4101-9cd0-5770b2bbd896",
+ 						"categoryCode": "53391",
+ 						"categoryName": "Termos",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "e957ceb7-37d6-48d9-8e1f-0c4110527adc",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "255d5fe0-f058-4ad2-8cb1-6b4b408229ab",
+ 				"categoryCode": "10108",
+ 				"categoryName": "Peralatan Dapur",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e2813a-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "f6a36623-12dd-4277-b9ff-e8fac4412a61",
+ 						"categoryCode": "10109",
+ 						"categoryName": "Serbet & Celemek",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "255d5fe0-f058-4ad2-8cb1-6b4b408229ab",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "641016c8-74b3-42df-900a-c04bc85dd064",
+ 						"categoryCode": "77053",
+ 						"categoryName": "Perlengkapan Minum Kopi & Teh",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "255d5fe0-f058-4ad2-8cb1-6b4b408229ab",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "32ab9d8e-8e33-4e5c-8561-3fc0f8352916",
+ 						"categoryCode": "53520",
+ 						"categoryName": "Timer Masak",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "255d5fe0-f058-4ad2-8cb1-6b4b408229ab",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "76adc77a-cd47-43b0-914d-5f81bc7be53a",
+ 						"categoryCode": "53521",
+ 						"categoryName": "Pembuka Botol & Kaleng",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "255d5fe0-f058-4ad2-8cb1-6b4b408229ab",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "a8e26ef2-daac-11e4-b9d6-1681e6b88ec1",
+ 		"categoryCode": "53051",
+ 		"categoryName": "Kamera",
+ 		"children": [{
+ 				"id": "f5b1edd3-7b64-4182-984b-1c4a847cdc77",
+ 				"categoryCode": "53052",
+ 				"categoryName": "Kamera",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e26ef2-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "814070a2-8fa7-4673-becd-0c33082f3a39",
+ 						"categoryCode": "53054",
+ 						"categoryName": "Kamera DSLR",
+ 						"categoryEnglishName": "Kamera DSLR English",
+ 						"parentCategory": "f5b1edd3-7b64-4182-984b-1c4a847cdc77",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "c2487d71-23c7-4604-a0dc-065e9ff1dc65",
+ 						"categoryCode": "53053",
+ 						"categoryName": "Kamera Pocket",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "f5b1edd3-7b64-4182-984b-1c4a847cdc77",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "b858f461-ee1c-4ba1-af44-c4cd7f3c2607",
+ 						"categoryCode": "53055",
+ 						"categoryName": "Kamera Mirrorless",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "f5b1edd3-7b64-4182-984b-1c4a847cdc77",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "ef7cbd0f-c7ac-4874-8654-0d6c1199d379",
+ 				"categoryCode": "53056",
+ 				"categoryName": "Kamera Video",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e26ef2-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "0b774791-a9ff-4477-9b49-7c50033772e3",
+ 						"categoryCode": "53057",
+ 						"categoryName": "Kamera Video Compact",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "ef7cbd0f-c7ac-4874-8654-0d6c1199d379",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "6484d21f-bfa4-40f8-869d-6f56332b4c8e",
+ 						"categoryCode": "53058",
+ 						"categoryName": "Kamera Video Profesional",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "ef7cbd0f-c7ac-4874-8654-0d6c1199d379",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "5e26775b-9fce-4190-ac12-fc3738685134",
+ 						"categoryCode": "53059",
+ 						"categoryName": "Action Cam",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "ef7cbd0f-c7ac-4874-8654-0d6c1199d379",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "a8e27190-daac-11e4-b9d6-1681e6b88ec1",
+ 		"categoryCode": "10111",
+ 		"categoryName": "Peralatan Elektronik",
+ 		"children": [{
+ 				"id": "5bb8c25a-45f9-4b29-a6ed-04f3aa598e20",
+ 				"categoryCode": "PE-1000368",
+ 				"categoryName": "Pendingin Ruangan",
+ 				"categoryEnglishName": "Air Cooler",
+ 				"parentCategory": "a8e27190-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 					"id": "d8ff8f20-7334-4d78-83a3-ae5baacfbc74",
+ 					"categoryCode": "AI-1000012",
+ 					"categoryName": "Air Conditioner",
+ 					"categoryEnglishName": "Air Conditioner",
+ 					"parentCategory": "5bb8c25a-45f9-4b29-a6ed-04f3aa598e20",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				}],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "afccfbff-605e-446c-a431-93a5f3096880",
+ 				"categoryCode": "TE-1000143",
+ 				"categoryName": "Television",
+ 				"categoryEnglishName": "Television",
+ 				"parentCategory": "a8e27190-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "834da88e-c900-4b62-a389-0fcf9c30a918",
+ 				"categoryCode": "10181",
+ 				"categoryName": "Elektronik Dapur",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e27190-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "a160b966-2613-44a8-8c46-2a35d5e1f1e3",
+ 						"categoryCode": "10182",
+ 						"categoryName": "Elektronik Dapur Lainnya",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "834da88e-c900-4b62-a389-0fcf9c30a918",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "b26a18df-7f09-4f2a-b3ec-3ab347459313",
+ 						"categoryCode": "10183",
+ 						"categoryName": "Rice Cooker",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "834da88e-c900-4b62-a389-0fcf9c30a918",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "ed0cfc1b-2af3-4b42-ae2b-fcdb0c6eeada",
+ 						"categoryCode": "10184",
+ 						"categoryName": "Portable Cooker",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "834da88e-c900-4b62-a389-0fcf9c30a918",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "3ff6c236-77b9-40b5-92e3-2f1b2577c2ff",
+ 						"categoryCode": "10185",
+ 						"categoryName": "Oven",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "834da88e-c900-4b62-a389-0fcf9c30a918",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "f7a5f655-15a6-4306-bbe9-33b014a32883",
+ 						"categoryCode": "10186",
+ 						"categoryName": "Toaster",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "834da88e-c900-4b62-a389-0fcf9c30a918",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "6978c87e-b45d-464e-9cc0-1eab79c3057f",
+ 						"categoryCode": "10187",
+ 						"categoryName": "Mixer",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "834da88e-c900-4b62-a389-0fcf9c30a918",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "cb032a56-14d5-4ea5-b279-ff786dbbe8df",
+ 						"categoryCode": "10188",
+ 						"categoryName": "Blender & Juicer",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "834da88e-c900-4b62-a389-0fcf9c30a918",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "2b32b78c-875a-43c8-9343-0a318b095b80",
+ 						"categoryCode": "10189",
+ 						"categoryName": "Mesin Kopi",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "834da88e-c900-4b62-a389-0fcf9c30a918",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "9511c1db-fe89-48be-be06-52de6834a3da",
+ 						"categoryCode": "54555",
+ 						"categoryName": "Microwave",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "834da88e-c900-4b62-a389-0fcf9c30a918",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "89c7a284-a24e-47d1-a9e5-1b85238b472a",
+ 						"categoryCode": "54556",
+ 						"categoryName": "Kompor",
+ 						"categoryEnglishName": "Kompor English",
+ 						"parentCategory": "834da88e-c900-4b62-a389-0fcf9c30a918",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "2954c6fe-6f28-4337-8fe2-56bcdee0e6fa",
+ 						"categoryCode": "54557",
+ 						"categoryName": "Cooker Hood",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "834da88e-c900-4b62-a389-0fcf9c30a918",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "a8e27adc-daac-11e4-b9d6-1681e6b88ec1",
+ 		"categoryCode": "10369",
+ 		"categoryName": "Ibu & Anak",
+ 		"children": [{
+ 				"id": "fa3a014b-caad-4b70-87d2-7b6c8479fdc6",
+ 				"categoryCode": "10370",
+ 				"categoryName": "Pakaian Anak Perempuan",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e27adc-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "b6f3e8e2-eddb-43e2-9e70-0ef1c92e73ef",
+ 						"categoryCode": "10371",
+ 						"categoryName": "Celana, Rok & Legging",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "fa3a014b-caad-4b70-87d2-7b6c8479fdc6",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "d1e3eae9-85fb-468d-b217-14aaa81140bc",
+ 						"categoryCode": "53534",
+ 						"categoryName": "Baju Muslim",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "fa3a014b-caad-4b70-87d2-7b6c8479fdc6",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "874093ba-b3ee-437b-89f6-225681faa3c3",
+ 						"categoryCode": "10372",
+ 						"categoryName": "Baju Atasan",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "fa3a014b-caad-4b70-87d2-7b6c8479fdc6",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "8f92f32e-3a31-4777-838c-58464940d1d6",
+ 						"categoryCode": "10373",
+ 						"categoryName": "Jaket",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "fa3a014b-caad-4b70-87d2-7b6c8479fdc6",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "59bc3718-fa9a-43cc-a33d-d6cdb5497f35",
+ 						"categoryCode": "10374",
+ 						"categoryName": "Baju Tidur",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "fa3a014b-caad-4b70-87d2-7b6c8479fdc6",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "8746004a-a266-4630-9d3c-e067d2b4764c",
+ 						"categoryCode": "10375",
+ 						"categoryName": "Pakaian Dalam",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "fa3a014b-caad-4b70-87d2-7b6c8479fdc6",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "f7d98627-fd27-4cf8-a316-74a49e92bbc4",
+ 						"categoryCode": "10376",
+ 						"categoryName": "Dress & Baju Jumpsuit",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "fa3a014b-caad-4b70-87d2-7b6c8479fdc6",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "227e64e8-be48-433a-a2ac-f3a2e6aa3392",
+ 						"categoryCode": "10377",
+ 						"categoryName": "Baju Renang",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "fa3a014b-caad-4b70-87d2-7b6c8479fdc6",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "cb188c1a-ec15-4320-85f8-b58556ed9533",
+ 				"categoryCode": "44051",
+ 				"categoryName": "Susu Formula & Makanan Bayi",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e27adc-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "c5892eab-b11c-4625-b92e-3f655e388d0e",
+ 						"categoryCode": "SI-1000060",
+ 						"categoryName": "SimranTestCategory",
+ 						"categoryEnglishName": "SimranTestCategory",
+ 						"parentCategory": "cb188c1a-ec15-4320-85f8-b58556ed9533",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "c98bf8a7-c4d8-4e38-99d2-f300f935d565",
+ 						"categoryCode": "44052",
+ 						"categoryName": "Susu Formula",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "cb188c1a-ec15-4320-85f8-b58556ed9533",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "3300887e-f7c0-463b-94d5-a5a3496ce507",
+ 						"categoryCode": "44053",
+ 						"categoryName": "Sereal",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "cb188c1a-ec15-4320-85f8-b58556ed9533",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "4d97ee36-3e00-46ba-b2cf-d507772625ce",
+ 						"categoryCode": "44054",
+ 						"categoryName": "Snack Bayi",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "cb188c1a-ec15-4320-85f8-b58556ed9533",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "74d46f9b-689d-4d4e-818d-b44d3569f800",
+ 						"categoryCode": "44055",
+ 						"categoryName": "Makanan Bayi",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "cb188c1a-ec15-4320-85f8-b58556ed9533",
+ 						"children": [{
+ 							"id": "2e72a9f4-7a73-44fd-978b-b83d0ab7e4bf",
+ 							"categoryCode": "C4-1000007",
+ 							"categoryName": "c4 category",
+ 							"categoryEnglishName": "c4 category",
+ 							"parentCategory": "74d46f9b-689d-4d4e-818d-b44d3569f800",
+ 							"children": null,
+ 							"genericTemplateEligible": false
+ 						}],
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "3cbbcaff-c568-4345-8a46-1c2420d6ce7a",
+ 						"categoryCode": "44056",
+ 						"categoryName": "Multivitamin & Suplemen",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "cb188c1a-ec15-4320-85f8-b58556ed9533",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "6841f0af-12d7-4981-a9a7-03559b8f9258",
+ 						"categoryCode": "44057",
+ 						"categoryName": "Susu Formula Anti Alergi",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "cb188c1a-ec15-4320-85f8-b58556ed9533",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "d2bec2b8-a9f2-405d-b583-b6ecef5ced68",
+ 				"categoryCode": "73051",
+ 				"categoryName": "Pakaian Bayi",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e27adc-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "f73e0d8a-7255-4f1d-8dcb-0ab2088be3ca",
+ 						"categoryCode": "73052",
+ 						"categoryName": "Baju Atasan",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "d2bec2b8-a9f2-405d-b583-b6ecef5ced68",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "4912f3a4-3a9a-4580-ba02-8b5e13bbe83c",
+ 						"categoryCode": "73053",
+ 						"categoryName": "Celana/Rok",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "d2bec2b8-a9f2-405d-b583-b6ecef5ced68",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "d8223d67-12df-4495-96de-d17674b0af67",
+ 						"categoryCode": "73054",
+ 						"categoryName": "Baju Jumpsuit",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "d2bec2b8-a9f2-405d-b583-b6ecef5ced68",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "af4349cd-1299-427f-8048-052480afb520",
+ 						"categoryCode": "73055",
+ 						"categoryName": "Jaket",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "d2bec2b8-a9f2-405d-b583-b6ecef5ced68",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "f29d4393-153e-41c1-a71e-2c9a5186b1cf",
+ 						"categoryCode": "73056",
+ 						"categoryName": "Baju Tidur",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "d2bec2b8-a9f2-405d-b583-b6ecef5ced68",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "87dbf279-162f-4bc3-8978-50d1af690877",
+ 				"categoryCode": "10385",
+ 				"categoryName": "Aksesoris & Tas Anak",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e27adc-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "42fc2bbb-4f12-4c2c-97d5-c9bf1de6413d",
+ 						"categoryCode": "73062",
+ 						"categoryName": "Pernak Pernik Anak",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "87dbf279-162f-4bc3-8978-50d1af690877",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "b99c6711-a77a-45a2-b917-e34d60476955",
+ 						"categoryCode": "10386",
+ 						"categoryName": "Pita & Penjepit Rambut",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "87dbf279-162f-4bc3-8978-50d1af690877",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "c0018f2c-f7a6-4177-965c-b044b13ac6fc",
+ 						"categoryCode": "10387",
+ 						"categoryName": "Topi dan Kacamata",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "87dbf279-162f-4bc3-8978-50d1af690877",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "153b0eab-24d1-4646-a4ac-55c68e581262",
+ 						"categoryCode": "10388",
+ 						"categoryName": "Jam Tangan Anak",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "87dbf279-162f-4bc3-8978-50d1af690877",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "f31ac78b-87cf-4751-a0a8-928e6fb269d7",
+ 						"categoryCode": "53527",
+ 						"categoryName": "Gelang, Anting & Kalung",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "87dbf279-162f-4bc3-8978-50d1af690877",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "fde12881-9212-4955-82e6-b42ce31f963e",
+ 						"categoryCode": "53528",
+ 						"categoryName": "Tas Sekolah",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "87dbf279-162f-4bc3-8978-50d1af690877",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "1b72ff1a-5be3-4f79-bbbd-d5c1143390e6",
+ 						"categoryCode": "53529",
+ 						"categoryName": "Kotak Makan",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "87dbf279-162f-4bc3-8978-50d1af690877",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "43467d64-96f6-4793-8ea5-fe5e43063717",
+ 				"categoryCode": "10389",
+ 				"categoryName": "Sepatu & Kaos Kaki",
+ 				"categoryEnglishName": null,
+ 				"parentCategory": "a8e27adc-daac-11e4-b9d6-1681e6b88ec1",
+ 				"children": [{
+ 						"id": "ac674d9a-f3a5-4da1-bd63-9c703b654e1b",
+ 						"categoryCode": "10390",
+ 						"categoryName": "Sepatu Anak Perempuan",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "43467d64-96f6-4793-8ea5-fe5e43063717",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "90ec590d-4235-46e8-92da-4ed14b00c3b8",
+ 						"categoryCode": "10391",
+ 						"categoryName": "Sepatu Anak Laki-Laki",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "43467d64-96f6-4793-8ea5-fe5e43063717",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "ee801f1c-d54d-4f56-8478-b2662161f9a6",
+ 						"categoryCode": "10393",
+ 						"categoryName": "Sepatu Bayi",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "43467d64-96f6-4793-8ea5-fe5e43063717",
+ 						"children": [{
+ 							"id": "43d66be5-60c9-4e88-b562-2916339025c7",
+ 							"categoryCode": "C4-1000008",
+ 							"categoryName": "c4 category 1",
+ 							"categoryEnglishName": "c4 category 1",
+ 							"parentCategory": "ee801f1c-d54d-4f56-8478-b2662161f9a6",
+ 							"children": null,
+ 							"genericTemplateEligible": false
+ 						}],
+ 						"genericTemplateEligible": false
+ 					},
+ 					{
+ 						"id": "e8a12441-b251-4fdd-90e1-12bc08782086",
+ 						"categoryCode": "10394",
+ 						"categoryName": "Kaos Kaki",
+ 						"categoryEnglishName": null,
+ 						"parentCategory": "43467d64-96f6-4793-8ea5-fe5e43063717",
+ 						"children": null,
+ 						"genericTemplateEligible": false
+ 					}
+ 				],
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "601250ef-f7dd-4b59-be24-ec842373cdb0",
+ 		"categoryCode": "AS-1000016",
+ 		"categoryName": "Ashok 1",
+ 		"categoryEnglishName": "Ashok 1",
+ 		"children": [{
+ 				"id": "1f038c6a-0a70-4cf8-a47c-681282b2c189",
+ 				"categoryCode": "RE-1000082",
+ 				"categoryName": "New cat for Cache check",
+ 				"categoryEnglishName": "New cat for Cache check",
+ 				"parentCategory": "601250ef-f7dd-4b59-be24-ec842373cdb0",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "26ae0ac0-18b1-435c-a8dc-058e4734b0e6",
+ 				"categoryCode": "AS-1000018",
+ 				"categoryName": "Ashok 3",
+ 				"categoryEnglishName": "asdf",
+ 				"parentCategory": "601250ef-f7dd-4b59-be24-ec842373cdb0",
+ 				"children": [{
+ 					"id": "f83532c3-81d9-463e-9c5b-e39acdb9e349",
+ 					"categoryCode": "IN-1000029",
+ 					"categoryName": "inactive cat edit",
+ 					"categoryEnglishName": "inactive cat edit",
+ 					"parentCategory": "26ae0ac0-18b1-435c-a8dc-058e4734b0e6",
+ 					"children": null,
+ 					"genericTemplateEligible": false
+ 				}],
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "200f6049-50d8-4114-9052-3ad29f976ce6",
+ 				"categoryCode": "10071",
+ 				"categoryName": "Panci Presto & Steamer updated again 12",
+ 				"categoryEnglishName": "update name for Panci Presto",
+ 				"parentCategory": "601250ef-f7dd-4b59-be24-ec842373cdb0",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "7a108719-c5bc-4c32-a46a-a20d9bc49952",
+ 		"categoryCode": "HO-1000024",
+ 		"categoryName": "Home & Living",
+ 		"children": [{
+ 				"id": "cd6a25d7-5ff0-419b-8b27-e97dc083b97e",
+ 				"categoryCode": "FU-1000017",
+ 				"categoryName": "Furniture Ruang Keluarga",
+ 				"categoryEnglishName": "Furniture Ruang Keluarga",
+ 				"parentCategory": "7a108719-c5bc-4c32-a46a-a20d9bc49952",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "b50abfa1-64f2-4777-939a-3853f9d8a65b",
+ 				"categoryCode": "FU-1000016",
+ 				"categoryName": "Furniture Kantor",
+ 				"categoryEnglishName": "Furniture Kantor",
+ 				"parentCategory": "7a108719-c5bc-4c32-a46a-a20d9bc49952",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	}, {
+ 		"id": "Test-Parent-00001",
+ 		"storeId": null,
+ 		"createdDate": null,
+ 		"createdBy": null,
+ 		"updatedDate": null,
+ 		"updatedBy": null,
+ 		"version": null,
+ 		"categoryCode": "Test-00001",
+ 		"categoryName": "Alat Musik",
+ 		"parentCategory": "",
+ 		"children": [{
+ 				"id": "Test-child-00021",
+ 				"categoryCode": "Test-000021",
+ 				"categoryName": "Furniture Ruang Keluarga",
+ 				"parentCategory": "Test-Parent-00001",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			},
+ 			{
+ 				"id": "Test-child-00022",
+ 				"categoryCode": "Test-000022",
+ 				"categoryName": "Instrumen Tradisional",
+ 				"parentCategory": "Test-Parent-00001",
+ 				"children": null,
+ 				"genericTemplateEligible": false
+ 			}
+ 		],
+ 		"genericTemplateEligible": false
+ 	},
+ 	{
+ 		"id": "C1-Id",
+ 		"storeId": null,
+ 		"createdDate": null,
+ 		"createdBy": null,
+ 		"updatedDate": null,
+ 		"updatedBy": null,
+ 		"version": null,
+ 		"categoryCode": "C1-Code",
+ 		"categoryName": "Alat Musik",
+ 		"categoryEnglishName": "Alat Musik",
+ 		"parentCategory": "",
+ 		"children": [{
+ 			"id": "C2-Id",
+ 			"categoryCode": "C2-Code",
+ 			"categoryName": "Aksesoris Alat Musik",
+ 			"categoryEnglishName": "Aksesoris Alat Musik",
+ 			"parentCategory": "C1-Id",
+ 			"children": [{
+ 				"id": "C3-Id",
+ 				"categoryCode": "C3-Code",
+ 				"categoryName": "Strings",
+ 				"categoryEnglishName": "Strings",
+ 				"parentCategory": "C2-Id",
+ 				"children": null,
+ 				"genericTemplateEligible": true
+ 			}],
+ 			"genericTemplateEligible": true
+ 		}],
+ 		"genericTemplateEligible": true
+ 	}
+ ]

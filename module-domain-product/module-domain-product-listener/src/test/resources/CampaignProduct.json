@@ -1,0 +1,36 @@
+{
+  "timestamp" : 1539947170868,
+  "id": "campaignCode-ABC-12345-12345-00001",
+  "campaignCode": "campaignCode",
+  "campaignName": "campaignName",
+  "promotionStartTime": 1539947170868,
+  "promotionEndTime": 1539947170868,
+  "active": true,
+  "tagLabel": "tagLabel",
+  "exclusive": false,
+  "retainData": false,
+  "campaignType": "campaignType",
+  "flashSaleCampaignName": "flashSaleCampaignName",
+  "priority": 0,
+  "backgroundImageUrl": "backgroundImageUrl",
+  "sku": {
+    "productSku": "ABC-12345-12345",
+    "itemSku": "ABC-12345-12345-00001",
+    "discount": 0.0,
+    "quota": 10,
+    "sessionId": 123,
+    "blibliDiscount": 0.0,
+    "blibliQuota": 10,
+    "campaignPrice": "Rp 1???, -",
+    "finalPrice": 20000,
+    "cheapestPriceDays": 20,
+    "pickupPointCode": "pickupPointCode",
+    "itemPickupPointId": "itemPickupPointId",
+    "timeBased": false,
+    "groupIds": [
+      "flashsaleGroupId",
+      null
+    ]
+  },
+  "expiryTime": 1539947170868
+}

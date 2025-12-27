@@ -1,0 +1,49 @@
+{
+  "productSku": "",
+  "productCode": "",
+  "productType": "REGULAR",
+  "settlementType": "",
+  "merchantCode": "",
+  "item": [
+    {
+      "itemSku": "",
+      "productSku": "",
+      "merchantSku": "",
+      "itemCode": "",
+      "shippingWeight": 0,
+      "price": [
+        {
+          "currency": "",
+          "offerPrice": 0,
+          "listPrice": 0,
+          "channel": "DEFAULT",
+          "discountPrice": [
+            {
+              "discountPrice": 0,
+              "adjustmentType": "BLIBLI",
+              "startDateTime": "",
+              "endDateTime": ""
+            }
+          ]
+        }
+      ],
+      "productViewConfigs": [
+        {
+          "channel": "DEFAULT",
+          "itemDiscoverableSchedules": {
+            "startDateTime": "",
+            "endDateTime": "",
+            "discoverable": false
+          },
+          "itemBuyableSchedules": {
+            "startDateTime": "",
+            "endDateTime": "",
+            "buyable": false
+          },
+          "discoverable": false,
+          "buyable": false
+        }
+      ]
+    }
+  ]
+}

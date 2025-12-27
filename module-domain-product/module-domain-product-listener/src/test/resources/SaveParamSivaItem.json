@@ -1,0 +1,17 @@
+{
+  "timestamp": 1539947170868,
+  "groupId": "aggregate_module_product",
+  "topicSource": "com.gdn.x.siva.siva.item.change",
+  "sameEvent": true,
+  "migration": false,
+  "directUpate": false,
+  "saveTo": "mongoDBAndElasticSearch",
+  "span": {
+    "X-Process-Id": "processId",
+    "X-Span-Name":"spanName",
+    "X-Span-Export":"true",
+    "X-B3-SpanId":"67890",
+    "X-B3-ParentSpanId":"",
+    "X-B3-TraceId":"12345"
+  }
+}

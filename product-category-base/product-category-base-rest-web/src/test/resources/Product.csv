@@ -1,0 +1,13 @@
+Store Id,Brand,Name,Product Code,Description,Long Description,Width,Height,Weight,Length,Shipping Weight,Unique Selling Point,UOM,Category Id,Attribute Id,Product Attribute Name,Product Attribute Sequence,Allowed Attribute Id,Descriptive Type,Descriptive Value
+10001,Xiaomi,MI5,PC123,Description,Long Description,1,2,3,4,5,Unique,UOM,CATE123,AT1,Warna,1,AAV1,NONE,
+10001,Xiaomi,MI5,PC123,Description,Long Description,1,2,3,4,5,Unique,UOM,CATE123,AT1,Warna,1,AAV2,NONE,
+10001,Xiaomi,MI5,PC123,Description,Long Description,1,2,3,4,5,Unique,UOM,CATE123,AT2,Size,2,AAV3,NONE,
+10001,Xiaomi,MI5,PC123,Description,Long Description,1,2,3,4,5,Unique,UOM,CATE123,AT2,Size,2,AAV4,NONE,
+10001,Xiaomi,MI5,PC123,Description,Long Description,1,2,3,4,5,Unique,UOM,CATE123,AT3,Layar,1,,SINGLE,Gorilla Glass
+10001,Xiaomi,MI5,PC123,Description,Long Description,1,2,3,4,5,Unique,UOM,CATE123,AT4,Memori,1,,SINGLE,128GB
+10001,Xiaomi,MI5,PC123,Description,Long Description,1,2,3,4,5,Unique,UOM,CATE456,AT1,Warna,1,AAV1,NONE,
+10001,Xiaomi,MI5,PC123,Description,Long Description,1,2,3,4,5,Unique,UOM,CATE456,AT1,Warna,1,AAV2,NONE,
+10001,Xiaomi,MI5,PC123,Description,Long Description,1,2,3,4,5,Unique,UOM,CATE456,AT2,Size,2,AAV3,NONE,
+10001,Xiaomi,MI5,PC123,Description,Long Description,1,2,3,4,5,Unique,UOM,CATE456,AT2,Size,2,AAV4,NONE,
+10001,Xiaomi,MI5,PC123,Description,Long Description,1,2,3,4,5,Unique,UOM,CATE456,AT3,Layar,1,,SINGLE,Gorilla Glass
+10001,Xiaomi,MI5,PC123,Description,Long Description,1,2,3,4,5,Unique,UOM,CATE456,AT4,Memori,1,,SINGLE,128GB

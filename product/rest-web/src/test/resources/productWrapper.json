@@ -1,0 +1,11 @@
+{
+  "productCodes": [
+    "productCode"
+  ],
+  "productSkus": [
+    "productSku"
+  ],
+  "pristineIds": [
+    "pristineId"
+  ]
+}

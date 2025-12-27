@@ -1,0 +1,31 @@
+{
+  "timestamp" : 1539947170868,
+  "campaigns" : [
+    {
+      "campaignCode": "campaignCode",
+      "campaignName": "campaignName",
+      "promotionStartTime": 1539947170868,
+      "promotionEndTime": 1539947170868,
+      "active": true,
+      "tagLabel": "tagLabel",
+      "exclusive": false,
+      "priority": 1,
+      "activateSession": 123,
+      "timeBased": false,
+      "productCardBackgroundColorHexcode": "#FFFFFF",
+      "promoTabImageUrl": {
+        "key": "value"
+      },
+      "productCardTitleImageUrl": {
+        "key": "value"
+      },
+      "productCardBackgroundImageUrl": {
+        "key": "value"
+      },
+      "productCardBadgeImageUrl": {
+        "key": "value"
+      }
+    },
+    null
+  ]
+}

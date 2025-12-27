@@ -1,0 +1,17 @@
+{
+  "salesCatalog":
+  {
+  	"catalogCode" : "catalog-code",
+  	"salesCategories" : 
+  	[
+	  	{
+	  		"categoryCode":"category-code1",
+	  		"catgroupId":"category-code1"
+	  	},
+	  	{
+	  		"categoryCode":"category-code2",
+	  		"catgroupId":"category-code2"
+	  	}
+  	]
+  }
+}

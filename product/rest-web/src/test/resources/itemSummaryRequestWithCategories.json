@@ -1,0 +1,20 @@
+{
+  "merchantCode": "merchant-code",
+  "merchantSku": "merchant-sku",
+  "productItemName": "itemName",
+  "itemSkus": [
+    "itemsku1",
+    "itemsku2"
+  ],
+  "itemSkuKeyword": "itemsku",
+  "masterCategoryCode": "master-categorycode",
+  "categoryCodes": [
+    "categoryCode"
+  ],
+  "offerPrice": 10000.0,
+  "pickupPointCode": "pickup-pointcode",
+  "discoverable": true,
+  "buyable": true,
+  "channelName": "DEFAULT",
+  "isArchived": null
+}

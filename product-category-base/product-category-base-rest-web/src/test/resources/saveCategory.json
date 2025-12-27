@@ -1,0 +1,14 @@
+{
+	"catalog":
+	{
+		"name":"name",
+		"catalogType":"MASTER_CATALOG",
+		"storeId":"10001",
+		"id":"CATALOG_ID"
+	},
+	"name":"name",
+    "sequence":3,
+	"shortDescription":"short-description",
+	"createdBy":"system",
+	"createdDate":"@{currentdate}"
+}

@@ -1,0 +1,63 @@
+{
+  "timestamp" : 1539947170868,
+  "merchantCode": "merchantCode",
+  "itemSku": "ABC-12345-12345-00003",
+  "productSku": "ABC-12345-12345",
+  "merchantSku": "merchantSku",
+  "price": [
+    {
+      "currency": "currency",
+      "offerPrice": 5000.0,
+      "listPrice": 17000.0,
+      "channel": "web",
+      "lastUpdatedBy": "lastUpdatedBy",
+      "lastUpdatedDate": 1539947170868
+    },
+    null
+  ],
+  "itemViewConfigs": [
+    {
+      "buyable": true,
+      "discoverable": true,
+      "channel": "DEFAULT",
+      "itemDiscoverableSchedules": {
+        "discoverable": true,
+        "startDateTime": 1539947170868,
+        "endDateTime": 1539947170868
+      },
+      "itemBuyableSchedules": {
+        "buyable": true,
+        "startDateTime": 1539947170868,
+        "endDateTime": 1539947170868
+      }
+    },
+    {
+      "buyable": false,
+      "discoverable": false,
+      "channel": "B2B",
+      "itemDiscoverableSchedules": {
+        "discoverable": false,
+        "startDateTime": 1539947170868,
+        "endDateTime": 1539947170868
+      },
+      "itemBuyableSchedules": {
+        "buyable": false,
+        "startDateTime": 1539947170868,
+        "endDateTime": 1539947170868
+      }
+    },
+    null
+  ],
+  "purchasedType": "ONLINE",
+  "pickupPointCode": "pickupPointCode",
+  "externalPickupPointCode": "externalPickupPointCode",
+  "cncActive": false,
+  "wholesalePriceExists": true,
+  "merchantPromoDiscount": true,
+  "flashSaleActive": true,
+  "promoBundling": false,
+  "activePromoBundlings": null,
+  "newData": false,
+  "inStock": true,
+  "markForDelete": false
+}

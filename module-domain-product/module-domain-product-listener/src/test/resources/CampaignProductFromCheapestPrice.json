@@ -1,0 +1,10 @@
+{
+  "timestamp" : 1539947170868,
+  "campaignCode": "campaignCode",
+  "sku": {
+    "productSku": "ABC-12345-12345",
+    "itemSku": "ABC-12345-12345-00001",
+    "cheapestPriceDays": 20
+  },
+  "expiryTime": 1539947170868
+}

@@ -1,0 +1,8 @@
+{
+  "timestamp": 1539947170868,
+  "groupId": "aggregate_module_product_changes",
+  "topicSource": "com.gdn.aggregate.modules.product.item.product.review.change",
+  "sameEvent": true,
+  "migration": false,
+  "directUpate": false
+}

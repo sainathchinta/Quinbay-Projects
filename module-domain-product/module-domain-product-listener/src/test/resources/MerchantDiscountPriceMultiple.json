@@ -1,0 +1,39 @@
+{
+  "timestamp": 1539947170868,
+  "merchantCode": "merchantCode",
+  "productSku": "ABC-12345-12345",
+  "itemSku": "ABC-12345-12345-00001",
+  "pickupPointCode": "pickupPointCode",
+  "price":[
+    {
+      "currency": "Rupiah",
+      "offerPrice": 20000.0,
+      "listPrice": 20000.0,
+      "merchantPromoDiscountPrice": {
+        "discountPrice": 18000,
+        "startDateTime": 1539947170868,
+        "endDateTime": 1539947170868,
+        "adjustmentName": "adjustmentName"
+      },
+      "channel": "web",
+      "lastUpdatedBy": "lastUpdatedBy",
+      "lastUpdatedDate": 1539947170868
+    },
+    {
+      "currency": "Rupiah",
+      "offerPrice": 20000.0,
+      "listPrice": 20000.0,
+      "merchantPromoDiscountPrice": {
+        "discountPrice": 18000,
+        "startDateTime": 1539947170868,
+        "endDateTime": 1539947170868,
+        "adjustmentName": "adjustmentNameOther"
+      },
+      "channel": "web",
+      "lastUpdatedBy": "lastUpdatedBy",
+      "lastUpdatedDate": 1539947170868
+    },
+    null
+  ],
+  "markForDelete": false
+}

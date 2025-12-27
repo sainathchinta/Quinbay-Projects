@@ -1,0 +1,58 @@
+{
+  "timeStamp": 1709116438793,
+  "id": "BLP-25978-XDP-0007691",
+  "productSku": "BLP-25978-XDP-0007691",
+  "productType": "DIGITAL",
+  "name": "Paket Data",
+  "urlName": "paket-data",
+  "url": "https://wwwuatb.gdn-app.com/digital/p/paket-data/indosat/XDP-0007691",
+  "image": "https://storage.googleapis.com/digital-catalog-preprod/sku-logos/BLP-25978-XDP-0007691_1709113780083.jpeg",
+  "salesCategories": [
+    {
+      "id": "Digital",
+      "code": "Digital",
+      "name": "Digital",
+      "level": 1
+    }
+  ],
+  "price": {
+    "list": "Rp 45,000",
+    "offer": "Rp 25,000",
+    "listValue": 45000.0,
+    "offerValue": 25000.0,
+    "minOfferValue": 25000.0,
+    "maxOfferValue": 25000.0,
+    "discount": 45
+  },
+  "buyable": {
+    "value": false
+  },
+  "discoverable": {
+    "value": false
+  },
+  "flashsale": {
+    "scheduleId": "1709058600000-1709144999999",
+    "active": true,
+    "start": 1709058600000,
+    "end": 1709144999999
+  },
+  "flashsaleInventory": {
+    "quota": {
+      "status": "AVAILABLE",
+      "percentage": 88
+    },
+    "schedule": {
+      "id": "1709058600000-1709144999999",
+      "start": 1709058600000,
+      "end": 1709144999999
+    }
+  },
+  "channelId": [
+    "DEFAULT"
+  ],
+  "minVersion": {
+    "android": 123,
+    "ios": 789,
+    "web": 450
+  }
+}

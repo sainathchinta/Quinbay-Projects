@@ -1,0 +1,18 @@
+{
+  "timestamp" : 1542301200000,
+  "id": "flashsaleGroupId",
+  "groupId": "flashsaleGroupId",
+  "title": "title",
+  "logo": "logo",
+  "sequence": 0,
+  "schedules": [
+    {
+      "id": "1539947170868-1539947170868",
+      "groupId": "flashsaleGroupId",
+      "start": 1542301200000,
+      "end": 1542301200000,
+      "markForDelete": false
+    },
+    null
+  ]
+}

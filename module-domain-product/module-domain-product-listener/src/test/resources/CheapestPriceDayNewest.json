@@ -1,0 +1,10 @@
+{
+  "timestamp" : 1542301200000,
+  "id": "campaignCode-ABC-12345-12345-00001",
+  "campaignCode": "campaignCode",
+  "productSku": "ABC-12345-12345",
+  "itemSku": "ABC-12345-12345-00001",
+  "pickupPointCode": "pickupPointCode",
+  "days": 20,
+  "expiryTime": 1542301200000
+}

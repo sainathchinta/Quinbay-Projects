@@ -1,0 +1,65 @@
+package com.gdn.mta.product.web.model;
+public final class ProductLevel3ControllerPath {
+  
+  public static final String BASE_PATH = "/api/product-level3";
+  public static final String UPDATE_ITEM_PRICE = "/item/update-item-price";
+  public static final String UPDATE_ITEM_VIEW_CONFIG = "/item/update-item-view-configuration";
+  public static final String UPDATE_ITEM_STOCK = "/item/update-item-stock";
+  public static final String FILTER_DETAIL_ACTIVE_ITEM_BY_GDN_SKU = "/filter/detail";
+  public static final String FILTER_DETAIL_FOR_ALL_ITEM_GDN_SKU = "/filter/detail/all-product";
+  public static final String IS_PRISTINE_CATEGORY = "/pristineCategory";
+  public static final String FILTER_DETAIL_ORDER_GDN_SKU = "/filter/detail/order";
+  public static final String FILTER_SUMMARY_MINIFIED = "/filter/summary/minified";
+  public static final String FILTER_SUMMARY = "/filter/summary";
+  public static final String FILTER_SUMMARY_CATEGORY_BRAND = "/filter/summarybyCategoryAndBrand";
+  public static final String FILTER_ARCHIVED_SUMMARY = "/filter/archived-summary";
+
+  public static final String FETCH_IN_PROGRESS_L4_BY_PICKUP_POINT_CODE = "/fetch-in-progress-l4-by-pickpointcode";
+  public static final String FILTER_SUMMARY_BULK_DOWNLOAD = "/filter/summary-for-bulk-download";
+  public static final String SYNCHRONIZE_PRODUCT = "/product/synchronize";
+  public static final String UNSYNCHRONIZE_PRODUCT = "/product/unsynchronize";
+  public static final String UPDATE = "/product/update";
+  public static final String ARCHIVE_ITEM = "/item/archive";
+  public static final String BULK_ARCHIVE_OOS_ITEMS = "/items/archive";
+  public static final String UPDATE_IMAGE = "/image";
+  public static final String UPDATE_RETURN = "/product/update-return";
+  public static final String UPDATE_LOGISTICS = "/product/update-logistics";
+  public static final String UPDATE_SUMMARY = "/product/update-summary";
+  public static final String ITEM_LISTING_UPDATE = "/{productSku}/item-listing-update";
+  public static final String FILTER_SUMMARY_SINGLE = "/filter/summary/single";
+  public static final String FILTER_SUMMARY_GDN_SKU_LIST = "/filter/summary/gdn-sku-list";
+  public static final String FILTER_DASHBOARD = "/filter/dashboard";
+  public static final String CHECK_PICKUP_POINT_USED = "/item/check-pickup-point-code-used";
+  public static final String UPDATE_ITEM_OFF_2_ON = "/item/update-item-off-2-on";
+  public static final String COUNTS_SUMMARY = "/counts/summary";
+  public static final String COUNT_SUMMARY_FOR_INACTIVE_PRODUCTS = "/count/inactive-products";
+  public static final String BULK_DOWNLOAD_SUMMARY = "/filter/bulk-download-summary";
+  public static final String BULK_DOWNLOAD_SUMMARY_FROM_DB = "/filter/bulk-new-download-summary";
+  public static final String COUNT_PRODUCT_BY_BRAND = "/counts/product-by-brand";
+  public static final String GET_ESTIMATE_PRICE_FOR_ITEM = "/get-estimate-price-for-item";
+  public static final String ITEM_BULK_ARCHIVE = "/item/archive/bulk";
+  public static final String PRODUCT_ARCHIVE = "/archive";
+  public static final String FILTER_ACTIVE_BRANDS_BY_CATEGORY_ID = "/filter/activeBrandByCategoryId";
+  public static final String GET_ALL_PRODUCTS = "/getAllProducts";
+  public static final String GET_SUSPENDED_ITEMS = "/getSuspendedItems";
+  public static final String PRODUCT_SUSPENSION = "/doSuspensionAction";
+  public static final String SUSPENSION_HISTORY = "/suspensionHistory";
+  public static final String BULK_PRODUCT_SUSPENSION = "/doBulkSuspensionAction";
+  public static final String COMPARE_PRODUCT_CATEGORY_WHOLEALE = "/compareProductAndCategoryWholesale";
+  public static final String PRODUCT_EDIT_INFO = "/product/{productSku}/edit-info";
+  public static final String UPDATE_ITEMS_PRICE_STOCK = "/product/update-items-price-stock";
+  public static final String FILTER_SUMMARY_DETAILS = "/filter/summary/details";
+  public static final String GET_PICKUP_POINT_CODES = "/getPickupPointCodes";
+  public static final String GET_UNIQUE_PICKUP_POINT_CODES = "/getUniquePickupPointCodes";
+  public static final String GET_PRODUCT_SKU_LIST = "/filter/summary/productSkuList";
+  public static final String UPDATE_PICKUP_POINT_CODES = "/updatePickupPointCodes";
+  public static final String GET_PRODUCT_VARIANT_NAME = "/getProductVariantsName";
+  public static final String GET_PRODUCT_DETAIL = "/getDetailByProductSku";
+  public static final String GET_SUSPENSION_NOTES_BY_PRODUCT_SKUS =
+      "/getSuspensionNotesByProductSkus";
+  public static final String RETRY_FLOW2_ACTIVATION = "/retry-skipReview-activation";
+  public static final String UPDATE_PRODUCT_ITEM_VIEW_CONFIG = "/{productSku}/updateProductItemViewConfig";
+  public static final String UPDATE_PRODUCT_LEVEL3_INFO = "/{productSku}/update-product-level3-info";
+  public static final String UPDATE_IMAGES = "/updateImages";
+  public static final String FETCH_IN_PROGRESS_L3_BY_SIZE_CHART_CODE = "/fetch-in-progress-l3-by-size-chart-code";
+}

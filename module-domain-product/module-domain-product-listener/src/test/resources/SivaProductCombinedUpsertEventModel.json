@@ -1,0 +1,137 @@
+{
+  "sivaProduct": {
+    "timestamp": 1539947170868,
+    "productSku": "ABC-12345-12345",
+    "productCode": "PC-12345",
+    "productType": "REGULAR",
+    "settlementType": "settlementType",
+    "merchantCode": "merchantCode",
+    "synchronized": true,
+    "productCatentryId": "productCatentryId",
+    "definingAttributes": [
+      {
+        "itemSku": "ABC-12345-12345-00001",
+        "productAttributeDetails": [
+          {
+            "attributeCode": "attributeCode",
+            "attributeName": "attributeName",
+            "attributeValue": "attributeValue",
+            "sequence": "sequence"
+          }
+        ]
+      }
+    ],
+    "productSpecialAttributes": [
+      {
+        "attributeCode": "attributeCode",
+        "attributeName": "attributeName",
+        "attributeValue": "attributeValue"
+      }
+    ],
+    "masterCatalog": {
+      "catalogCode": "catalogCode",
+      "category": {
+        "categoryCode": "categoryCode",
+        "catgroupId": "catgroupId",
+        "sequence": 0
+      }
+    },
+    "salesCatalogs": [
+      {
+        "catalogCode": "catalogCode",
+        "listOfCategories": [
+          {
+            "categoryCode": "categoryCode",
+            "catgroupId": "catgroupId",
+            "sequence": 0
+          }
+        ]
+      },
+      {
+        "catalogCode": "otherCatalogCode",
+        "listOfCategories": [
+          {
+            "categoryCode": "otherCategoryCode",
+            "catgroupId": "otherCatgroupId",
+            "sequence": 0
+          }
+        ]
+      }
+    ],
+    "masterDataProduct": {
+      "productCode": "PC-12345",
+      "brand": "brand",
+      "brandLogoUrl": "brandLogoUrl",
+      "shippingWeight": 0.0,
+      "specificationDetail": "specificationDetail",
+      "productName": "Samsung Galaxy 8",
+      "description": "description",
+      "longDescription": "longDescription",
+      "uniqueSellingPoint": "uniqueSellingPoint",
+      "activated": false,
+      "viewable": false,
+      "productStory": "productStory",
+      "uom": "uom",
+      "masterDataProductImages": [
+        {
+          "mainImage": false,
+          "locationPath": "locationPath",
+          "productCode": "productCode",
+          "sequence": 0
+        }
+      ],
+      "masterDataProductAttributes": [
+        {
+          "ownByProductItem": false,
+          "masterDataAttribute": {
+            "attributeCode": "attributeCode",
+            "attributeType": "ENUM",
+            "mandatory": false,
+            "attributeName": "attributeName",
+            "searchable": false,
+            "description": "description",
+            "example": "example",
+            "skuValue": false
+          },
+          "sequence": 0,
+          "masterDataProductAttributeValues": [
+            {
+              "descriptiveAttributeValue": "descriptiveAttributeValue",
+              "descriptiveAttributeValueType": "ENUM",
+              "allowedAttributeValueCode": "allowedAttributeValueCode",
+              "predefinedAllowedAttributeValueCode": "predefinedAllowedAttributeValueCode",
+              "allowedAttributeValue": {
+                "allowedAttributeValueCode": "allowedAttributeValueCode",
+                "value": "value",
+                "sequence": 0
+              }
+            }
+          ]
+        }
+      ],
+      "url": "url",
+      "length": 1.0,
+      "width": 2.0,
+      "height": 3.0,
+      "weight": 4.0
+    },
+    "salesCategorySequences": [
+      {
+        "categoryCode": "categoryCode",
+        "sequence": 0
+      }
+    ],
+    "installationRequired": false,
+    "off2OnChannelActive": true,
+    "markForDelete": false
+  },
+  "saveParam": {
+    "timestamp": 1539947170868,
+    "groupId": "aggregate_module_product_changes",
+    "topicSource": "com.gdn.x.product.product.change",
+    "sameEvent": true,
+    "migration": false,
+    "directUpate": false
+  },
+  "eventTrigger": "com.gdn.x.product.product.change"
+}

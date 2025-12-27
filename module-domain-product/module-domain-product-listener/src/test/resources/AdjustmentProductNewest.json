@@ -1,0 +1,17 @@
+{
+  "timestamp" : 1542301200000,
+  "adjustmentName": "adjustmentName",
+  "description": "description",
+  "productSku": "ABC-12345-12345-00001",
+  "campaignCode": "campaignCode",
+  "sessionId": 123,
+  "startDate" : 1542301200000,
+  "endDate": 1542301200000,
+  "value": 0.0,
+  "activated": true,
+  "exclusiveProduct": false,
+  "pickupPointCode": "pickupPointCode",
+  "budgetOwners": [
+    "BLIBLI"
+  ]
+}

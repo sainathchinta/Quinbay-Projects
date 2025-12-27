@@ -1,0 +1,43 @@
+{
+  "id": "inventoryInfoId",
+  "itemSku": "ABC-12345-12345-00001",
+  "cnc": false,
+  "type": "ONLINE_MERCHANT",
+  "stockInformations": [
+    {
+      "location": "location1",
+      "availableStock": 0,
+      "originalStock": 0,
+      "status": "OUT_OF_STOCK",
+      "stockInformationDetails": [
+        {
+          "safetyStock": 0,
+          "availableStock": 0,
+          "originalStock": 0,
+          "pickupPointCode": "pickupPointCode",
+          "status": "OUT_OF_STOCK"
+        },
+        null
+      ]
+    },
+    {
+      "location": "location2",
+      "availableStock": 0,
+      "originalStock": 0,
+      "status": "OUT_OF_STOCK",
+      "stockInformationDetails": [
+        {
+          "safetyStock": 0,
+          "availableStock": 0,
+          "originalStock": 0,
+          "pickupPointCode": "pickupPointCode",
+          "status": "OUT_OF_STOCK"
+        },
+        null
+      ]
+    },
+    null
+  ],
+  "createdDate": 1539947170868,
+  "updatedDate": 1539947170868
+}

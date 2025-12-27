@@ -1,0 +1,65 @@
+package com.gdn.aggregate.platform.module.product.listener.repositorysub.raw;
+
+import com.gdn.aggregate.platform.module.product.listener.model.raw.PickupPoint;
+import org.springframework.data.domain.Pageable;
+import org.springframework.data.mongodb.repository.MongoRepository;
+import org.springframework.stereotype.Component;
+
+import java.util.List;
+import java.util.Set;
+
+@Component("ProductPickupPointRepository")
+public interface PickupPointRepository extends MongoRepository<PickupPoint, String> {
+
+  /*CNC*/
+  Boolean existsByProductSkuAndMarkForDeleteFalseAndCncActiveTrue(String productSku);
+  Boolean existsByItemSkuAndMarkForDeleteFalseAndCncActiveTrue(String itemSku);
+  Boolean existsByProductSkuAndMarkForDeleteFalseAndBuyableCncTrue(String productSku);
+  Boolean existsByItemSkuAndMarkForDeleteFalseAndBuyableCncTrue(String itemSku);
+  Boolean existsByProductSkuAndMarkForDeleteFalseAndDiscoverableCncTrueAndBuyableCncTrue(String productSku);
+  Boolean existsByItemSkuAndMarkForDeleteFalseAndDiscoverableCncTrueAndBuyableCncTrue(String itemSku);
+
+  /*Buyable and Discoverable*/
+  Boolean existsByItemSkuAndMarkForDeleteFalseAndBuyableTrue(String itemSku);
+  Boolean existsByItemSkuAndMarkForDeleteFalseAndDiscoverableTrue(String itemSku);
+  Boolean existsByProductSkuAndMarkForDeleteFalseAndBuyableTrue(String productSku);
+  Boolean existsByProductSkuAndMarkForDeleteFalseAndDiscoverableTrue(String productSku);
+
+  /*Hard Delete L5 and get count of deleted documents*/
+  Long deleteByProductSku(String productSku);
+
+  /*Any*/
+  //1PDisabled
+  PickupPoint findFirstByItemSkuOrderByMarkForDeleteAscInStockDescBuyableDescDiscoverableDescCncActiveDescPrice_FinalOfferPriceAscWarehouseDescIdAsc(String itemSku);
+  //1PEnabled
+  PickupPoint findFirstByItemSkuOrderByMarkForDeleteAscInStockDescPurchasedTypeScoreDescPrice_FinalOfferPriceAscWarehouseDescIdAsc(String itemSku);
+
+  /*Minimum*/
+  //1PDisabled
+  PickupPoint findFirstByItemSkuAndPrice_CampaignCodeAndPurchasedTypeInOrderByMarkForDeleteAscInStockDescBuyableDescDiscoverableDescCncActiveDescPrice_PromoCampaignDescPrice_PriorityAscPrice_FinalOfferPriceAscWarehouseDescIdAsc(String itemSku, String campaignCode, Set<String> purchasedTypes);
+  PickupPoint findFirstByItemSkuAndPrice_CampaignCodeAndPurchasedTypeInAndFbbActivatedOrderByMarkForDeleteAscInStockDescBuyableDescDiscoverableDescCncActiveDescPrice_PromoCampaignDescPrice_PriorityAscPrice_FinalOfferPriceAscWarehouseDescIdAsc(String itemSku, String campaignCode, Set<String> purchasedTypes, boolean fbbActivated);
+  PickupPoint findFirstByItemSkuAndPrice_CampaignCodeAndPurchasedTypeInAndFbbActivatedOrderByMarkForDeleteAscInStockDescBuyableDescDiscoverableDescCncActiveDescPrice_PromoCampaignDescPrice_PriorityAscPrice_FinalOfferPriceDescWarehouseDescIdAsc(String itemSku, String campaignCode, Set<String> purchasedTypes, boolean fbbActivated);
+  //1PEnabled
+  PickupPoint findFirstByItemSkuAndPrice_CampaignCodeAndPurchasedTypeInOrderByMarkForDeleteAscInStockDescPurchasedTypeScoreDescPrice_PromoCampaignDescPrice_PriorityAscPrice_FinalOfferPriceAscWarehouseDescIdAsc(String itemSku, String campaignCode, Set<String> purchasedTypes);
+  PickupPoint findFirstByItemSkuAndPrice_CampaignCodeAndPurchasedTypeInAndFbbActivatedOrderByMarkForDeleteAscInStockDescPurchasedTypeScoreDescPrice_PromoCampaignDescPrice_PriorityAscPrice_FinalOfferPriceAscWarehouseDescIdAsc(String itemSku, String campaignCode, Set<String> purchasedTypes, boolean fbbActivated);
+  PickupPoint findFirstByItemSkuAndPrice_CampaignCodeAndPurchasedTypeInAndFbbActivatedOrderByMarkForDeleteAscInStockDescPurchasedTypeScoreDescPrice_PromoCampaignDescPrice_PriorityAscPrice_FinalOfferPriceDescWarehouseDescIdAsc(String itemSku, String campaignCode, Set<String> purchasedTypes, boolean fbbActivated);
+
+  /*Least*/
+  //1PDisabled
+  PickupPoint findFirstByItemSkuAndPrice_CampaignCodeOrderByMarkForDeleteAscInStockDescBuyableDescDiscoverableDescCncActiveDescPrice_PromoCampaignDescPrice_PriorityAscPrice_FinalOfferPriceAscWarehouseDescInQuotaDescQuotaPercentageAscIdAsc(String itemSku, String campaignCode);
+  //1PEnabled
+  PickupPoint findFirstByItemSkuAndPrice_CampaignCodeOrderByMarkForDeleteAscInStockDescPurchasedTypeScoreDescPrice_PromoCampaignDescPrice_PriorityAscPrice_FinalOfferPriceAscWarehouseDescInQuotaDescQuotaPercentageAscIdAsc(String itemSku, String campaignCode);
+
+  /*Min-Max*/
+  PickupPoint findFirstByProductSkuOrderByMarkForDeleteAscPrice_PromoCampaignDescPrice_PriorityAscPrice_FinalOfferPriceAsc(String productSku);
+  PickupPoint findFirstByProductSkuOrderByMarkForDeleteAscPrice_PromoCampaignDescPrice_PriorityAscPrice_FinalOfferPriceDesc(String productSku);
+
+  /*Min-Max*/
+  PickupPoint findFirstByProductSkuOrderByMarkForDeleteAscInStockDescBuyableDescDiscoverableDescBuyableCncDescDiscoverableCncDescCncActiveDescPrice_PromoCampaignDescPrice_PriorityAscPrice_FinalOfferPriceAsc(String productSku);
+  PickupPoint findFirstByProductSkuOrderByMarkForDeleteAscInStockDescBuyableDescDiscoverableDescBuyableCncDescDiscoverableCncDescCncActiveDescPrice_PromoCampaignDescPrice_PriorityAscPrice_FinalOfferPriceDesc(String productSku);
+
+  /*Nearest*/
+  List<PickupPoint> findAllByItemSkuAndPrice_CampaignCodeAndPrice_FinalOfferPriceAndWarehouseAndPickupPointCodeNotAndMarkForDeleteFalseAndInStockTrueAndPurchasedTypeNot(String itemSku, String campaignCode, double finalOfferPrice, boolean warehouse, String pickupPointCode, String exlcludedPurchasedType, Pageable pageable);
+
+  List<PickupPoint> findAllByProductSku(String productSku);
+}

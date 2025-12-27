@@ -1,0 +1,14 @@
+{
+  "timestamp" : 1539947170868,
+  "campaignEndModelList": [
+    {
+      "campaignCode": "campaignCodeSpecial",
+      "priority": 2
+    },
+    null
+  ],
+  "campaignCodeList": [
+    "campaignCodeSpecial",
+    null
+  ]
+}

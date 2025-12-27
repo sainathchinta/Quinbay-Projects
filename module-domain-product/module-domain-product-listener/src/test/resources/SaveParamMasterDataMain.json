@@ -1,0 +1,6 @@
+{
+  "topicSource": "com.gdn.x.productcategorybase.product.publish",
+  "sameEvent": true,
+  "migration": false,
+  "directUpate": false
+}

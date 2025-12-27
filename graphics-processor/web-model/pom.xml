@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.gdn.micro.graphics</groupId>
+        <artifactId>graphics-parent</artifactId>
+        <version>2.5.0-3-SNAPSHOT</version>
+    </parent>
+    <artifactId>graphics-web-model</artifactId>
+    <name>${project.groupId}-${project.artifactId}</name>
+    <properties>
+        <sonar.exclusions>**/helper/**,**/model/**</sonar.exclusions>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>com.gdn</groupId>
+            <artifactId>gdn-common-client-sdk</artifactId>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.springframework.integration</groupId>
+                    <artifactId>spring-integration-java-dsl</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>${lombok.version}</version>
+        </dependency>
+    </dependencies>
+</project>

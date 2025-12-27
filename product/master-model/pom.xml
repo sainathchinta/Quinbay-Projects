@@ -1,0 +1,19 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.gdn.x.product</groupId>
+        <artifactId>product-parent</artifactId>
+        <version>3.41.0-8-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>product-master-model</artifactId>
+    <name>${project.groupId}-${project.artifactId}</name>
+    <properties>
+        <sonar.exclusions>**/constants/**,**/enums/**</sonar.exclusions>
+    </properties>
+    <build>
+        <finalName>${project.name}</finalName>
+    </build>
+    <dependencies />
+</project>

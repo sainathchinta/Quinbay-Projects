@@ -1,0 +1,15 @@
+{
+  "channel": "DEFAULT",
+  "itemDiscoverableSchedules": {
+      "startDateTime": "",
+      "endDateTime": "",
+      "isDiscoverable": true
+    },
+  "itemBuyableSchedules":{
+      "startDateTime": "",
+      "endDateTime": "",
+      "isBuyable": true
+    },
+  "isDiscoverable": true,
+  "isBuyable": true
+}

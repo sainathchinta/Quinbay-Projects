@@ -1,0 +1,1055 @@
+{
+  "id": "afcf67f3-13b2-4f6d-910a-0fc8b34d6ac5",
+  "version": 3,
+  "productCode": "MTA-0000001",
+  "name": "productName",
+  "length": 10.0,
+  "width": 10.0,
+  "height": 10.0,
+  "weight": 0.1,
+  "shippingWeight": 0.167,
+  "description": "PHA+YXNkYXNkPC9wPg==",
+  "longDescription": "PHA+YXNkYXNkPC9wPg==",
+  "brand": "ABC",
+  "brandCode": "brandCode",
+  "brandApprovalStatus": "brandApprovalStatus",
+  "uniqueSellingPoint": "<p>asdasd</p>",
+  "uom": "PC",
+  "edited":true,
+  "productCategories": [
+    {
+      "id": "8fe07020-98b4-487c-abf9-664975244c29",
+      "catalog": null,
+      "name": null,
+      "categoryCode": null,
+      "sequence": null,
+      "shortDescription": null,
+      "description": null,
+      "defaultDescription": null,
+      "state": null,
+      "display": false,
+      "logisticAdjustment": null,
+      "warranty": false,
+      "needIdentity": false,
+      "activated": false,
+      "viewable": false,
+      "internalActivationInterval": null
+    }
+  ],
+  "productAttributes": [
+    {
+      "id": null,
+      "attribute": {
+        "id": "9420081b-f016-44e6-a0ba-4cdbb9cac18c",
+        "name": "Warna",
+        "attributeCode": "attribute-code",
+        "attributeType": "DEFINING_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Warna",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "9420081b-f016-44e6-a0ba-4cdbb9cac18c",
+          "allowedAttributeValue": {
+            "id": null,
+            "allowedAttributeCode": "WA-M000319",
+            "value": "attr-value",
+            "sequence": null
+          },
+          "descriptiveAttributeValue": null,
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": null,
+            "value": null,
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "f295e606-1c15-40d0-b5ed-6450d68864e7",
+        "name": "Interface",
+        "attributeCode": "IN-2000023",
+        "attributeType": "DESCRIPTIVE_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Interface",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "f295e606-1c15-40d0-b5ed-6450d68864e7",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": "g",
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": null,
+            "value": null,
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "dc793af9-b958-4970-a62d-2b1c89d81de3",
+        "name": "Ragam Pesan",
+        "attributeCode": "RA-2000019",
+        "attributeType": "DESCRIPTIVE_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Ragam Pesan",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "dc793af9-b958-4970-a62d-2b1c89d81de3",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": "g",
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": null,
+            "value": null,
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "b0cfe2ee-2e75-4268-a29f-617f7df60c4a",
+        "name": "Kelengkapan Paket",
+        "attributeCode": "KE-2000092",
+        "attributeType": "DESCRIPTIVE_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Kelengkapan Paket",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "b0cfe2ee-2e75-4268-a29f-617f7df60c4a",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": "g",
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": null,
+            "value": null,
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "c22cfb59-4e4d-4ecc-8c54-e0db3a4e24e2",
+        "name": "Berat",
+        "attributeCode": "BE-2000032",
+        "attributeType": "DESCRIPTIVE_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Berat",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "c22cfb59-4e4d-4ecc-8c54-e0db3a4e24e2",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": "g",
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": null,
+            "value": null,
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "608c0774-fd02-485b-b350-f4b3821bc2e2",
+        "name": "Dimensi Produk",
+        "attributeCode": "DI-2000028",
+        "attributeType": "DESCRIPTIVE_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Dimensi Produk",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "608c0774-fd02-485b-b350-f4b3821bc2e2",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": "g",
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": null,
+            "value": null,
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "fd540f81-3151-4816-afa1-842dd9ed27da",
+        "name": "Video",
+        "attributeCode": "VI-0036840",
+        "attributeType": "DESCRIPTIVE_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Video",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "fd540f81-3151-4816-afa1-842dd9ed27da",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": "g",
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": null,
+            "value": null,
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "c949b45a-ac9e-4807-ba6b-f6fdd188c74c",
+        "name": "Detail Garansi",
+        "attributeCode": "DE-2000057",
+        "attributeType": "DESCRIPTIVE_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Detail Garansi",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "c949b45a-ac9e-4807-ba6b-f6fdd188c74c",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": "ABC",
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": null,
+            "value": null,
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "d02a073e-1839-43c1-aeec-28d68276c5a9",
+        "name": "Lama Garansi",
+        "attributeCode": "LA-2000095",
+        "attributeType": "PREDEFINED_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Lama Garansi",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "d02a073e-1839-43c1-aeec-28d68276c5a9",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": null,
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": "LA-2000095",
+            "value": "18 Bulan",
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "a71a9677-1aec-4912-aeee-b198ba583eae",
+        "name": "Tipe Garansi",
+        "attributeCode": "TI-2000081",
+        "attributeType": "PREDEFINED_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Tipe Garansi",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "a71a9677-1aec-4912-aeee-b198ba583eae",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": null,
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": "TI-2000081",
+            "value": "Garansi Distributor",
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "84aba47e-f91d-4e26-9d64-8771b49becec",
+        "name": "Lain-lain",
+        "attributeCode": "LA-2000050",
+        "attributeType": "DESCRIPTIVE_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Lain-lain",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "84aba47e-f91d-4e26-9d64-8771b49becec",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": "g",
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": null,
+            "value": null,
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "bee3520f-d88d-4433-8b95-d41e7c76ede1",
+        "name": "Baterai",
+        "attributeCode": "BA-2000120",
+        "attributeType": "DESCRIPTIVE_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Baterai",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "bee3520f-d88d-4433-8b95-d41e7c76ede1",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": "g",
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": null,
+            "value": null,
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "452862ae-9b32-4480-a5dd-847f19f4eeb7",
+        "name": "Audio",
+        "attributeCode": "AU-0036839",
+        "attributeType": "DESCRIPTIVE_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Audio",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "452862ae-9b32-4480-a5dd-847f19f4eeb7",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": "g",
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": null,
+            "value": null,
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "6082dfa9-1d2e-4e28-b314-6609e5b31509",
+        "name": "Kamera",
+        "attributeCode": "KA-0000001",
+        "attributeType": "DESCRIPTIVE_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Kamera",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "6082dfa9-1d2e-4e28-b314-6609e5b31509",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": "g",
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": null,
+            "value": null,
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "2bce1668-6907-42d9-9125-70c9e9c658f4",
+        "name": "Memori Internal",
+        "attributeCode": "ME-0036591",
+        "attributeType": "DESCRIPTIVE_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Memori Internal",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "2bce1668-6907-42d9-9125-70c9e9c658f4",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": "g",
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": null,
+            "value": null,
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "a5eea630-b39b-47ed-af47-f652c12d3fc3",
+        "name": "Resolusi",
+        "attributeCode": "RE-0036710",
+        "attributeType": "DESCRIPTIVE_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Resolusi",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "a5eea630-b39b-47ed-af47-f652c12d3fc3",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": "g",
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": null,
+            "value": null,
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "2941cefb-0ee5-4c30-9781-7d34778d38d6",
+        "name": "Display",
+        "attributeCode": "DI-2000029",
+        "attributeType": "DESCRIPTIVE_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Display",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "2941cefb-0ee5-4c30-9781-7d34778d38d6",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": "asd",
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": null,
+            "value": null,
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "138b9ac7-7cf1-44f6-8875-d4bb7a236cfa",
+        "name": "Sim Card",
+        "attributeCode": "SI-M000178",
+        "attributeType": "PREDEFINED_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Sim Card",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "138b9ac7-7cf1-44f6-8875-d4bb7a236cfa",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": null,
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": "SI-M000178",
+            "value": "Dual Micro SIM",
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "5b798f21-d023-4dd6-a69f-7e7059103e43",
+        "name": "Detail OS",
+        "attributeCode": "DE-2000032",
+        "attributeType": "DESCRIPTIVE_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Detail OS",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "5b798f21-d023-4dd6-a69f-7e7059103e43",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": "a",
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": null,
+            "value": null,
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "b5c60f73-e1fb-445f-8366-c9b6e59f9856",
+        "name": "OS",
+        "attributeCode": "OS-M000171",
+        "attributeType": "PREDEFINED_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "OS",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "b5c60f73-e1fb-445f-8366-c9b6e59f9856",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": null,
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": "OS-M000171",
+            "value": "Android",
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "c7be8036-cb5c-43b9-80db-98c847550e47",
+        "name": "RAM",
+        "attributeCode": "RA-M000170",
+        "attributeType": "PREDEFINED_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "RAM",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "c7be8036-cb5c-43b9-80db-98c847550e47",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": null,
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": "RA-M000170",
+            "value": "1 GB",
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "4c17a9ca-96b2-494d-98b6-75f4ddf554fa",
+        "name": "Detail Prosessor",
+        "attributeCode": "DE-2000033",
+        "attributeType": "DESCRIPTIVE_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Detail Prosessor",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "4c17a9ca-96b2-494d-98b6-75f4ddf554fa",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": "a",
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": null,
+            "value": null,
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    },
+    {
+      "id": null,
+      "attribute": {
+        "id": "ef1dcb9f-4cc2-46c6-9362-3d9a0dce5d88",
+        "name": "Brand",
+        "attributeCode": "BR-M036969",
+        "attributeType": "PREDEFINED_ATTRIBUTE",
+        "searchAble": false,
+        "mandatory": false,
+        "description": null,
+        "skuValue": false,
+        "example": null,
+        "allowedAttributeValues": null,
+        "predefinedAllowedAttributeValues": null,
+        "screeningMandatory": false,
+        "variantCreatingUI": false,
+        "basicView": false
+      },
+      "productAttributeName": "Brand",
+      "sequence": null,
+      "productAttributeValues": [
+        {
+          "id": "ef1dcb9f-4cc2-46c6-9362-3d9a0dce5d88",
+          "allowedAttributeValue": null,
+          "descriptiveAttributeValue": null,
+          "descriptiveAttributeValueType": null,
+          "predefinedAllowedAttributeValue": {
+            "id": null,
+            "predefinedAllowedAttributeCode": "BR-M036969",
+            "value": "ABC",
+            "sequence": 0
+          }
+        }
+      ],
+      "ownByProductItem": false
+    }
+  ],
+  "productItems": [
+    {
+      "id": "7a2b0596-94b2-483d-ad3b-2adcacfdc4d3",
+      "generatedItemName": "generated-item-name",
+      "upcCode": "15617086173228450",
+      "skuCode": "MTA-0000001-0001",
+      "activated": false,
+      "viewable": false,
+      "hash": null,
+      "productItemAttributeValues": [
+        {
+          "id": "2f4db8d9-0b7d-4d6a-8477-c7d6f83ecff0",
+          "attribute": {
+            "id": null,
+            "name": "Family Colour",
+            "attributeCode": "attribute-code",
+            "attributeType": "PREDEFINED_ATTRIBUTE",
+            "searchAble": false,
+            "mandatory": false,
+            "description": null,
+            "skuValue": false,
+            "example": null,
+            "allowedAttributeValues": null,
+            "predefinedAllowedAttributeValues": null,
+            "screeningMandatory": false,
+            "variantCreatingUI": false,
+            "basicView": false
+          },
+          "value": "attr-value"
+        },
+        {
+          "id": "fc28c491-2c90-48f1-9ff0-0ee17b389651",
+          "attribute": {
+            "id": null,
+            "name": "Sim Card",
+            "attributeCode": "SI-M000178",
+            "attributeType": "PREDEFINED_ATTRIBUTE",
+            "searchAble": false,
+            "mandatory": false,
+            "description": null,
+            "skuValue": false,
+            "example": null,
+            "allowedAttributeValues": null,
+            "predefinedAllowedAttributeValues": null,
+            "screeningMandatory": false,
+            "variantCreatingUI": false,
+            "basicView": false
+          },
+          "value": "Dual Micro SIM"
+        },
+        {
+          "id": "2aad43a9-9261-4f90-8acd-8138e61c08a1",
+          "attribute": {
+            "id": null,
+            "name": "OS",
+            "attributeCode": "OS-M000171",
+            "attributeType": "PREDEFINED_ATTRIBUTE",
+            "searchAble": false,
+            "mandatory": false,
+            "description": null,
+            "skuValue": false,
+            "example": null,
+            "allowedAttributeValues": null,
+            "predefinedAllowedAttributeValues": null,
+            "screeningMandatory": false,
+            "variantCreatingUI": false,
+            "basicView": false
+          },
+          "value": "Android"
+        },
+        {
+          "id": "f64b0efa-3851-4682-93db-b7a62ef0e92d",
+          "attribute": {
+            "id": null,
+            "name": "RAM",
+            "attributeCode": "RA-M000170",
+            "attributeType": "PREDEFINED_ATTRIBUTE",
+            "searchAble": false,
+            "mandatory": false,
+            "description": null,
+            "skuValue": false,
+            "example": null,
+            "allowedAttributeValues": null,
+            "predefinedAllowedAttributeValues": null,
+            "screeningMandatory": false,
+            "variantCreatingUI": false,
+            "basicView": false
+          },
+          "value": "1 GB"
+        },
+        {
+          "id": "517ed515-3cc2-4943-bb7e-b7a19fff5fef",
+          "attribute": {
+            "id": null,
+            "name": "Brand",
+            "attributeCode": "BR-M036969",
+            "attributeType": "PREDEFINED_ATTRIBUTE",
+            "searchAble": false,
+            "mandatory": false,
+            "description": null,
+            "skuValue": false,
+            "example": null,
+            "allowedAttributeValues": null,
+            "predefinedAllowedAttributeValues": null,
+            "screeningMandatory": false,
+            "variantCreatingUI": false,
+            "basicView": false
+          },
+          "value": "ABC"
+        },
+        {
+          "id": "09b1e886-3670-451e-834c-113e641bec63",
+          "attribute": {
+            "id": null,
+            "name": "Warna",
+            "attributeCode": "WA-M000319",
+            "attributeType": "DEFINING_ATTRIBUTE",
+            "searchAble": false,
+            "mandatory": false,
+            "description": null,
+            "skuValue": false,
+            "example": null,
+            "allowedAttributeValues": null,
+            "predefinedAllowedAttributeValues": null,
+            "screeningMandatory": false,
+            "variantCreatingUI": false,
+            "basicView": false
+          },
+          "value": "'"
+        }
+      ],
+      "images": [
+        {
+          "locationPath": "location-path",
+          "sequence": 0,
+          "id": "ecb6a52e-967f-4ff1-b963-01225bbea2ad",
+          "storeId": null,
+          "version": 0,
+          "createdDate": null,
+          "createdBy": null,
+          "updatedDate": null,
+          "updatedBy": null,
+          "markForDelete": false,
+          "hashCode": null,
+          "active": false,
+          "mainImages": true,
+          "edited":true
+        }
+      ],
+      "dangerousGoodsLevel": 0,
+      "attributesMap": null
+    }
+  ],
+  "activated": true,
+  "viewable": false,
+  "productStory": "",
+  "specificationDetail": null,
+  "url": "video_url",
+  "images": [
+    {
+      "locationPath": "location-path",
+      "sequence": 0,
+      "id": "790a6da1-b67e-47e0-a456-b94dcb23da0f",
+      "storeId": null,
+      "version": 0,
+      "createdDate": null,
+      "createdBy": null,
+      "updatedDate": null,
+      "updatedBy": null,
+      "markForDelete": false,
+      "hashCode": null,
+      "active": false,
+      "mainImages": true,
+      "edited":false
+    }
+  ],
+  "promoSKU": false,
+  "createdBy": null,
+  "createdDate": null,
+  "notes": null,
+  "marginExceed": false
+}

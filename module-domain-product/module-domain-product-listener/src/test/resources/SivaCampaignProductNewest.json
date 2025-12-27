@@ -1,0 +1,24 @@
+{
+  "timestamp" : 1542301200000,
+  "campaignCode": "campaignCode",
+  "campaignName": "campaignName",
+  "promotionStartTime": 1542301200000,
+  "promotionEndTime": 1542301200000,
+  "active": true,
+  "tagLabel": "tagLabel",
+  "exclusive": false,
+  "activateSession": 123,
+  "productCardBackgroundColorHexcode": "#FFFFFF",
+  "promoTabImageUrl": {
+    "key": "value"
+  },
+  "productCardTitleImageUrl": {
+    "key": "value"
+  },
+  "productCardBackgroundImageUrl": {
+    "key": "value"
+  },
+  "productCardBadgeImageUrl": {
+    "key": "value"
+  }
+}

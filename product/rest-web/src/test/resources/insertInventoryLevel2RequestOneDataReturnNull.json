@@ -1,0 +1,13 @@
+{
+  	"listOfLevel2InventoryRequest": [
+	  {
+		"level1Id": "level1-id",
+		"level2Id": "level2-id",
+		"stock": 1,
+		"merchantCode": "merchant-level1-code",
+		"level2MerchantCode": "merchant-level2-code",
+		"syncedToLevel1": true,
+		"originalStock": 1
+	  }
+	]
+}

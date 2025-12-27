@@ -1,0 +1,18 @@
+{
+  "merchantCode": "merchant-code",
+  "productItemName": "itemName",
+  "itemSkus": [
+    "itemsku1",
+    "itemsku2"
+  ],
+  "discoverable": true,
+  "buyable": true,
+  "isArchived": false,
+  "productSkus": [
+    "productSku1",
+    "productSku2"
+  ],
+  "boostProductSkus": [
+    "productSku2"
+  ]
+}

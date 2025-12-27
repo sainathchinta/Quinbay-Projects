@@ -1,0 +1,21 @@
+{
+  "timestamp" : 1539947170868,
+  "campaignSessionList": [
+    {
+      "campaignCode": "campaignCode",
+      "session": 789
+    },
+    null
+  ],
+  "campaignEndModelList": [
+    {
+      "campaignCode": "campaignCode",
+      "priority": 1
+    },
+    null
+  ],
+  "campaignCodeList": [
+    "campaignCode",
+    null
+  ]
+}

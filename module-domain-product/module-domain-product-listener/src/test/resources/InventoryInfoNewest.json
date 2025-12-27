@@ -1,0 +1,99 @@
+{
+  "id": "ABC-12345-12345-00001",
+  "itemSku": "ABC-12345-12345-00001",
+  "cnc": false,
+  "type": "ONLINE_MERCHANT",
+  "stockInformations": [
+    {
+      "location": "location1",
+      "availableStock": 13,
+      "originalStock": 18,
+      "status": "IN_STOCK",
+      "stockInformationDetails": [
+        {
+          "safetyStock": 0,
+          "availableStock": 7,
+          "originalStock": 10,
+          "pickupPointCode": "pickupPointCode",
+          "status": "IN_STOCK"
+        },
+        {
+          "safetyStock": 0,
+          "availableStock": 2,
+          "originalStock": 4,
+          "pickupPointCode": "pickupPointCode2",
+          "status": "IN_STOCK"
+        },
+        {
+          "safetyStock": 0,
+          "availableStock": 2,
+          "originalStock": 2,
+          "pickupPointCode": "pickupPointCode3",
+          "status": "IN_STOCK"
+        },
+        {
+          "safetyStock": 0,
+          "availableStock": 0,
+          "originalStock": 0,
+          "pickupPointCode": "pickupPointCode3",
+          "status": "OUT_OF_STOCK"
+        },
+        {
+          "safetyStock": 0,
+          "availableStock": 2,
+          "originalStock": 2,
+          "pickupPointCode": "pickupPointCode4",
+          "status": "IN_STOCK"
+        },
+        null
+      ]
+    },
+    {
+      "location": "location2",
+      "availableStock": 13,
+      "originalStock": 18,
+      "status": "IN_STOCK",
+      "stockInformationDetails": [
+        {
+          "safetyStock": 0,
+          "availableStock": 7,
+          "originalStock": 10,
+          "pickupPointCode": "pickupPointCode",
+          "status": "IN_STOCK"
+        },
+        {
+          "safetyStock": 0,
+          "availableStock": 2,
+          "originalStock": 4,
+          "pickupPointCode": "pickupPointCode2",
+          "status": "IN_STOCK"
+        },
+        {
+          "safetyStock": 0,
+          "availableStock": 2,
+          "originalStock": 2,
+          "pickupPointCode": "pickupPointCode3",
+          "status": "IN_STOCK"
+        },
+        {
+          "safetyStock": 0,
+          "availableStock": 0,
+          "originalStock": 0,
+          "pickupPointCode": "pickupPointCode3",
+          "status": "OUT_OF_STOCK"
+        },
+        {
+          "safetyStock": 0,
+          "availableStock": 2,
+          "originalStock": 2,
+          "pickupPointCode": "pickupPointCode4",
+          "status": "IN_STOCK"
+        },
+        null
+      ]
+    },
+    null
+  ],
+  "createdDate": 1542301200000,
+  "updatedDate": 1542301200000
+}

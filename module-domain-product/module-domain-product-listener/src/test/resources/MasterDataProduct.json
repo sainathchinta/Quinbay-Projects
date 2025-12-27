@@ -1,0 +1,61 @@
+{
+  "timestamp": 1539947170868,
+  "id": "PC-12345",
+  "productCode": "PC-12345",
+  "brand": "brand",
+  "brandLogoUrl": "brandLogoUrl",
+  "shippingWeight": 0.0,
+  "specificationDetail": "specificationDetail",
+  "productName": "productName",
+  "description": null,
+  "longDescription": null,
+  "uniqueSellingPoint": "uniqueSellingPoint",
+  "activated": false,
+  "viewable": false,
+  "productStory": "productStory",
+  "uom": "uom",
+  "masterDataProductImages": [
+    {
+      "mainImage": false,
+      "locationPath": "locationPath",
+      "productCode": "PC-12345",
+      "sequence": 1
+    },
+    null
+  ],
+  "masterDataProductAttributes": [
+    {
+      "ownByProductItem": false,
+      "masterDataAttribute": {
+        "attributeCode": "attributeCode",
+        "attributeType": "attributeType",
+        "mandatory": false,
+        "attributeName": "attributeName",
+        "searchable": false,
+        "description": null,
+        "example": null,
+        "skuValue": false
+      },
+      "sequence": 1,
+      "masterDataProductAttributeValues": [
+        {
+          "descriptiveAttributeValue": "descriptiveAttributeValue",
+          "descriptiveAttributeValueType": "descriptiveAttributeValueType",
+          "allowedAttributeValueCode": null,
+          "predefinedAllowedAttributeValueCode": "value",
+          "allowedAttributeValue": {
+            "allowedAttributeValueCode": "allowedAttributeCode",
+            "value": "value",
+            "sequence": 1
+          }
+        }
+      ]
+    },
+    null
+  ],
+  "url": "http://something.com",
+  "length": 1.0,
+  "width": 2.0,
+  "height": 3.0,
+  "weight": 4.0
+}

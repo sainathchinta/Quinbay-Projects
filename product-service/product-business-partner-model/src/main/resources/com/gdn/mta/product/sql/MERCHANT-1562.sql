@@ -1,0 +1,1 @@
+INSERT INTO msg_message_template VALUES('4b97e3ec-2ff9-4771-a3e5-9233d8c56a28', 'fathan.mustaqiim', CURRENT_TIMESTAMP, FALSE, '10001', 'fathan.mustaqiim', CURRENT_TIMESTAMP, 0, 'EMAIL', TRUE, '', '<html><body>Dear Bapak/Ibu ${name}</body></html>', '', 'MTA - Informasi Penolakan Produk SKU', '', 'deleteProductBusinessPartner', 'MTA - Informasi Penolakan Produk SKU', '', '', NULL);

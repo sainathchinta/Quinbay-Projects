@@ -1,0 +1,27 @@
+@Library('jenkins-ci-automation@develop') _
+
+BlibliPipeline ([
+  type : "java21",
+  application : [
+    tribe : "seller",
+    squad : "catalog",
+    service_name : "graphics-processor",
+    dev_repo : "https://stash.gdn-app.com/scm/mic/graphics-processor.git",
+    deployment_repo : [
+      nonprod : "ssh://git@stash.gdn-app.com:7999/nonprod-seller-catalog/graphics-processor.git",
+      prod : "ssh://git@stash.gdn-app.com:7999/prod-seller-catalog/graphics-processor.git"
+    ]
+  ],
+  sonar : [
+    serverId : 'sonar9-gcp'
+  ],
+  trivy: [
+    enabled: true,
+    jira: true,
+    projectkey_jira: "SHEN",
+    assignee_jira: "Pradeep Reddy",
+    component_jira: "XGP",
+    release_jira: "-",
+    build_breaker: false
+  ]
+])

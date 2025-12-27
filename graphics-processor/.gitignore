@@ -1,0 +1,16 @@
+target
+.settings
+.classpath
+.project
+Server
+.metadata/
+Servers/
+test-output
+exception
+retry
+*.iml
+.idea/
+dependency-reduced-pom.xml
+/bin/
+*.ipr
+*.iws

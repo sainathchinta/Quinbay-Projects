@@ -1,0 +1,152 @@
+{
+	"id": null,
+	"storeId": null,
+	"createdDate": null,
+	"createdBy": null,
+	"updatedDate": null,
+	"updatedBy": null,
+	"categoryCode": null,
+	"productScoreRules": {
+		"REMAINING_ATTRIBUTE_RULE": {
+			"maxScore": 9,
+			"ruleConfig": null
+		},
+		"VARIANT_CREATING_RULE": {
+			"maxScore": 5,
+			"ruleConfig": null
+		},
+		"MANDATORY_INFO_RULE": {
+			"maxScore": 15,
+			"ruleConfig": null
+		},
+		"EAN_UPC_RULE": {
+			"maxScore": 1,
+			"ruleConfig": null
+		},
+		"VIDEO_URL_RULE": {
+			"maxScore": 2,
+			"ruleConfig": null
+		},
+		"DESCRIPTION_RULE": {
+			"maxScore": 15,
+			"ruleConfig": [
+				{
+					"operator": ">=",
+					"value": 15,
+					"score": 7.5
+				},
+				{
+					"operator": ">=",
+					"value": 30,
+					"score": 15
+				}
+			]
+		},
+		"USP_RULE": {
+			"maxScore": 5,
+			"ruleConfig": [
+				{
+					"operator": ">=",
+					"value": 70,
+					"score": 2.5
+				},
+				{
+					"operator": ">",
+					"value": 150,
+					"score": 5
+				}
+			]
+		},
+		"PRODUCT_TITLE_RULE": {
+			"maxScore": 10,
+			"ruleConfig": null
+		},
+		"RECOMMENDED_ATTRIBUTE_RULE": {
+			"maxScore": 20,
+			"ruleConfig": null
+		},
+		"IMAGE_RULE": {
+			"maxScore": 2,
+			"ruleConfig": [
+				{
+					"operator": "==",
+					"value": 1,
+					"score": 0
+				},
+				{
+					"operator": "==",
+					"value": 2,
+					"score": 9
+				},
+				{
+					"operator": ">=",
+					"value": 3,
+					"score": 18
+				}
+			]
+		},
+		"COMMON_IMAGE_RULE": {
+			"maxScore": 10,
+			"ruleConfig": [
+				{
+					"operator": ">",
+					"value": 3,
+					"score": 10
+				},
+				{
+					"operator": "<=",
+					"value": 3,
+					"score": 5
+				}
+			]
+		},
+		"SINGLE_VARIANT_IMAGE_RULE": {
+			"maxScore": 8,
+			"ruleConfig": [
+				{
+					"operator": "<=",
+					"value": 3,
+					"score": 4
+				},
+				{
+					"operator": ">",
+					"value": 3,
+					"score": 8
+				}
+			]
+		},
+		"MULTI_VARIANT_IMAGE_RULE": {
+			"maxScore": 8,
+			"ruleConfig": [
+				{
+					"operator": "==",
+					"value": 0,
+					"score": 0
+				},
+				{
+					"operator": "==",
+					"value": 1,
+					"score": 4
+				},
+				{
+					"operator": ">",
+					"value": 1,
+					"score": 8
+				}
+			]
+		}
+	},
+	"ignoreSymbols": [
+		" "
+	],
+	"ignoreAttributes": [
+		{
+			"attributeName": "Tipe Garansi",
+			"value": "no warranty",
+			"ignoreAttributeNames": [
+				"lama garansi",
+				"detail garansi"
+			]
+		}
+	]
+}

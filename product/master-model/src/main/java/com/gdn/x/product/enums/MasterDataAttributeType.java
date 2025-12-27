@@ -1,0 +1,11 @@
+package com.gdn.x.product.enums;
+
+public enum MasterDataAttributeType {
+  DESCRIPTIVE_ATTRIBUTE,
+
+  DEFINING_ATTRIBUTE,
+
+  PREDEFINED_ATTRIBUTE,
+  DESCRIPTIVE_MULTIVALUE,
+  PREDEFINED_MULTIVALUE
+}

@@ -1,0 +1,3 @@
+Store Id,Description,Category Name,Installation,Sequence,Short Description,Warranty,Catalog Id,Parent Category Id,Attribute Id,Attribute Sequence,isMainDefiningAttribute,isUSP
+10001,Long Description,Elektronik,FALSE,1,Description,FALSE,CATA123,CATEX,AT12,1,TRUE,TRUE
+10001,Long Description,Elektronik,FALSE,1,Description,FALSE,CATA123,CATEX,AT56,2,TRUE,TRUE

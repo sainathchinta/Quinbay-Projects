@@ -1,0 +1,17 @@
+{
+  "timestamp": 1542301200000,
+  "id": "logisticChangeId",
+  "itemSku": "ABC-12345-12345-00001",
+  "sku": "ABC-12345-12345",
+  "tags": [
+    "BLIBLI_SHIPPING",
+    "CNC_AVAILABLE",
+    "CNC_PRODUCT",
+    "TUKAR_TAMBAH",
+    null
+  ],
+  "badge": {
+    "merchantBadge": "Diamond",
+    "logisticBadge": "2HD"
+  }
+}

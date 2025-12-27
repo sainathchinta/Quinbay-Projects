@@ -1,0 +1,115 @@
+{
+  "timestamp" : 1539947170868,
+  "merchantCode": "merchantCode",
+  "itemSku": "ABC-12345-12345-00003",
+  "productSku": "ABC-12345-12345",
+  "merchantSku": "merchantSku",
+  "itemCode": "itemCode",
+  "synchronized": false,
+  "itemCatentryId": "itemCatentryId",
+  "masterDataItem": {
+    "productCode": "PC-12346",
+    "skuCode": "skuCode",
+    "generatedItemName": "generatedItemName",
+    "upcCode": "upcCode",
+    "activated": true,
+    "viewable": true,
+    "hash": "hash",
+    "inventoryType": "inventoryType",
+    "dangerousLevel": 0,
+    "masterDataItemAttributeValues": [
+      {
+        "attributeValue": "attributeValue",
+        "masterDataAttribute": {
+          "attributeCode": "attributeCode",
+          "attributeType": "attributeType",
+          "mandatory": true,
+          "attributeName": "attributeName",
+          "searchable": true,
+          "description": "description",
+          "example": "example",
+          "skuValue": true
+        }
+      },
+      null
+    ],
+    "masterDataItemImages": [
+      {
+        "mainImage": true,
+        "locationPath": "new-locationPath",
+        "sequence": 0
+      },
+      null
+    ],
+    "itemDeliveryWeight": 5.0,
+    "itemLength": 1.0,
+    "itemWidth": 2.0,
+    "itemHeight": 3.0,
+    "itemWeight": 4.0
+  },
+  "price": [
+    {
+      "currency": "currency",
+      "offerPrice": 5000.0,
+      "listPrice": 17000.0,
+      "channel": "web",
+      "lastUpdatedBy": "lastUpdatedBy",
+      "lastUpdatedDate": 1539947170868
+    },
+    null
+  ],
+  "itemViewConfigs": [
+    {
+      "buyable": true,
+      "discoverable": true,
+      "channel": "DEFAULT",
+      "itemDiscoverableSchedules": {
+        "discoverable": true,
+        "startDateTime": 1539947170868,
+        "endDateTime": 1539947170868
+      },
+      "itemBuyableSchedules": {
+        "buyable": true,
+        "startDateTime": 1539947170868,
+        "endDateTime": 1539947170868
+      }
+    },
+    null
+  ],
+  "isLateFulfillment": true,
+  "pickupPointCode": "pickupPointCode",
+  "externalPickupPointCode": "externalPickupPointCode",
+  "off2OnChannelActive": true,
+  "archived": false,
+  "pristineDataItem": {
+    "pcbProductItemId": "pcbProductItemId",
+    "pristineId": "pristineId",
+    "pristineMasterId": "pristineMasterId",
+    "pristineProductName": "pristineProductName",
+    "pristineModel": "pristineModel",
+    "productCondition": "productCondition",
+    "pristineBrand": "pristineBrand",
+    "pristineCategory": "pristineCategory",
+    "defaultProductCode": "defaultProductCode",
+    "pristineShortId": "pristineShortId",
+    "pristineListingAttributes": {
+      "key": "value"
+    }
+  },
+  "uniqueId": "uniqueId",
+  "itemChangeEventTypes": [
+    "itemDataChange",
+    "itemPriceChange"
+  ],
+  "cncActivated": false,
+  "wholesalePriceExists": true,
+  "merchantPromoDiscount": true,
+  "flashSaleActive": true,
+  "promoBundling": false,
+  "activePromoBundlings": null,
+  "newData": false,
+  "subscribable": true,
+  "forceReview": false,
+  "contentChanged": false,
+  "markForDelete": false
+}

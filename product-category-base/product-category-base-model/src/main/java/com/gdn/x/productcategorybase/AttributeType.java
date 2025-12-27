@@ -1,0 +1,10 @@
+package com.gdn.x.productcategorybase;
+
+public enum AttributeType {
+  ALL,
+  DESCRIPTIVE_ATTRIBUTE,
+  DEFINING_ATTRIBUTE,
+  PREDEFINED_ATTRIBUTE,
+  DESCRIPTIVE_MULTIVALUE,
+  PREDEFINED_MULTIVALUE;
+}

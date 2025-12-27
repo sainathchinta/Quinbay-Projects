@@ -1,0 +1,85 @@
+{
+  "timestamp" : 1539947170868,
+  "id": "campaignCode",
+  "campaignCode": "campaignCode",
+  "campaignName": "campaignName",
+  "promotionStartTime": 1539947170868,
+  "promotionEndTime": 1539947170868,
+  "tagLabel": "tagLabel",
+  "exclusive": false,
+  "retainData": false,
+  "campaignType": "campaignType",
+  "flashSaleCampaignName": "flashSaleCampaignName",
+  "priority": 1,
+  "backgroundImageUrl": "backgroundImageUrl",
+  "skuList": [
+    {
+      "productSku": "ABC-12345-12345",
+      "itemSku": "ABC-12345-12345-00001",
+      "discount": 0.0,
+      "quota": 10,
+      "sessionId": 123,
+      "blibliDiscount": 0.0,
+      "blibliQuota": 10,
+      "campaignPrice": "Rp 1???, -",
+      "finalPrice": 20000,
+      "pickupPointCode": "pickupPointCode",
+      "itemPickupPointId": "itemPickupPointId",
+      "timeBased": false,
+      "groupIds": [
+        "flashsaleGroupId",
+        null
+      ]
+    },
+    {
+      "productSku": "ABC-12345-12345",
+      "itemSku": "ABC-12345-12345-00002",
+      "discount": 0.0,
+      "quota": 10,
+      "sessionId": 123,
+      "blibliDiscount": 0.0,
+      "blibliQuota": 10,
+      "campaignPrice": "Rp 1???, -",
+      "finalPrice": 20000,
+      "pickupPointCode": "pickupPointCode2",
+      "itemPickupPointId": "itemPickupPointId2",
+      "timeBased": false,
+      "groupIds": [
+        "flashsaleGroupId",
+        null
+      ]
+    },
+    {
+      "productSku": "XYZ-12345-12345",
+      "itemSku": "XYZ-12345-12345-00001",
+      "discount": 0.0,
+      "quota": 10,
+      "sessionId": 123,
+      "blibliDiscount": 0.0,
+      "blibliQuota": 10,
+      "campaignPrice": "Rp 1???, -",
+      "finalPrice": 20000,
+      "pickupPointCode": "pickupPointCode3",
+      "itemPickupPointId": "itemPickupPointId3",
+      "timeBased": false,
+      "groupIds": []
+    },
+    {
+      "productSku": "XYZ-12345-12345",
+      "itemSku": "XYZ-12345-12345-00002",
+      "discount": 0.0,
+      "quota": 10,
+      "sessionId": 123,
+      "blibliDiscount": 0.0,
+      "blibliQuota": 10,
+      "campaignPrice": "Rp 1???, -",
+      "finalPrice": 20000,
+      "pickupPointCode": "pickupPointCode4",
+      "itemPickupPointId": "itemPickupPointId4",
+      "timeBased": false,
+      "groupIds": []
+    },
+    null
+  ],
+  "emptyQuota": false
+}

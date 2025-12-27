@@ -1,0 +1,9 @@
+{
+  "timestamp": 1539947170868,
+  "key": "ABC-12345-12345",
+  "topicSource": "topicSource",
+  "topicDestination": "topicDestination",
+  "data": {
+    "productSku": "ABC-12345-12345"
+  }
+}

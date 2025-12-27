@@ -1,0 +1,14 @@
+{
+  "timestamp" : 1539947170868,
+  "campaignCode": "campaignCode",
+  "campaignName": "campaignName",
+  "promotionStartTime": 1539947170868,
+  "promotionStartTime": 1539947170868,
+  "promotionEndTime": 1539947170868,
+  "tagLabel": "newTagLabel",
+  "exclusive": false,
+  "campaignType": "campaignType",
+  "flashSaleCampaignName": "flashSaleCampaignName",
+  "priority": 0,
+  "backgroundImageUrl": "backgroundImageUrl"
+}

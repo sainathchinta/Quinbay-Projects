@@ -1,0 +1,105 @@
+{
+  "timestamp" : 1542301200000,
+  "name": "name",
+  "productCode": "PC-12345",
+  "length": 1.0,
+  "width": 2.0,
+  "height": 3.0,
+  "weight": 4.0,
+  "shippingWeight": 0.0,
+  "productMarkForDelete": false,
+  "id": "PC-12345",
+  "storeId": "10001",
+  "description": null,
+  "specificationDetail": "specificationDetail",
+  "productStory": "productStory",
+  "brand": "brand",
+  "brandLogoUrl": "brandLogoUrl",
+  "uniqueSellingPoint": "uniqueSellingPoint",
+  "uom": "uom",
+  "activated": true,
+  "viewable": true,
+  "url": "http://something.com",
+  "productItems": [
+    {
+      "generatedItemName": "generatedItemName",
+      "upcCode": "upcCode",
+      "skuCode": "itemCode",
+      "activated": true,
+      "viewable": true,
+      "images": [
+        {
+          "mainImage": true,
+          "locationPath": "locationPath",
+          "sequence": 1
+        }
+      ],
+      "dangerousGoodsLevel": 1
+    },
+    null
+  ],
+  "productCategories": [
+    {
+      "category": {
+        "id": "id",
+        "name": "name",
+        "categoryCode": "categoryCode",
+        "sequence": 1,
+        "description": null,
+        "display": true,
+        "logisticAdjustment": 1,
+        "warranty": true,
+        "needIdentity": true,
+        "activated": true,
+        "viewable": true,
+        "catalog": {
+          "name": "name",
+          "catalogCode": "catalogCode",
+          "catalogType": "catalogType"
+        },
+        "parentCategoryId": "parentCategoryId"
+      }
+    },
+    null
+  ],
+  "productAttributes": [
+    {
+      "attribute": {
+        "name": "name",
+        "attributeCode": "attributeCode",
+        "attributeType": "attributeType",
+        "description": null,
+        "skuValue": true
+      },
+      "productAttributeName": "productAttributeName",
+      "ownByProductItem": true,
+      "sequence": 1,
+      "productAttributeValues": [
+        {
+          "allowedAttributeValue": {
+            "allowedAttributeCode": "allowedAttributeCode",
+            "value": "value",
+            "sequence": 1
+          },
+          "descriptiveAttributeValue": "descriptiveAttributeValue",
+          "descriptiveAttributeValueType": "descriptiveAttributeValueType",
+          "predefinedAllowedAttributeValue": {
+            "predefinedAllowedAttributeCode": "predefinedAllowedAttributeCode",
+            "value": "value",
+            "sequence": 1
+          }
+        }
+      ]
+    },
+    null
+  ],
+  "images": [
+    {
+      "mainImage": false,
+      "locationPath": "locationPath",
+      "sequence": 1
+    },
+    null
+  ],
+  "newProduct": false
+}

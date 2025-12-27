@@ -1,0 +1,10 @@
+{
+  "categoryCode": "category-code",
+  "shippingCode": {
+    "deliveredByMerchant": true,
+    "specialHandling": true,
+    "directFlight": true
+  },
+  "storeId": "",
+  "createdBy": "created-by"
+}

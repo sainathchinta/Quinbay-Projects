@@ -1,0 +1,21 @@
+package com.gda.mta.product.dto;
+
+import java.io.Serializable;
+
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
+@JsonIgnoreProperties(ignoreUnknown = true)
+public class BrandUpdateRequest extends BaseRequest implements Serializable {
+
+  private static final long serialVersionUID = 6925469089976221589L;
+  private String oldBrandCode;
+  private String newBrandCode;
+}

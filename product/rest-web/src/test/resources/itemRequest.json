@@ -1,0 +1,65 @@
+{
+  "itemSku": "",
+  "productSku": "",
+  "merchantSku": "",
+  "itemCode": "",
+  "shippingWeight": 0,
+  "masterDataItem": {
+    "generatedItemName": "",
+    "upcCode": "",
+    "hash": "",
+    "dangerousLevel": 0,
+    "inventoryType": null,
+    "masterDataitemAttributeValues": [
+      {
+        "value": ""
+      }
+    ],
+    "masterDataitemImages": [
+      {
+        "locationPath": "",
+        "sequence": 0,
+        "mainImage": false
+      }
+    ],
+    "itemDeliveryWeight": 0,
+    "itemHeight": 0,
+    "itemLength": 0,
+    "itemWeight": 0,
+    "itemWidth": 0,
+    "activated": false,
+    "viewable": false
+  },
+  "price": [
+    {
+      "currency": "",
+      "offerPrice": 0,
+      "listPrice": 0,
+      "channel": "DEFAULT",
+      "discountPrice":[
+      {
+		"discountPrice": 0,
+		"startDateTime": "",
+		"endDateTime": ""
+	  }
+	  ]
+    }
+  ],
+  "itemViewConfigs": [
+    {
+      "channel": "DEFAULT",
+      "itemDiscoverableSchedules": {
+          "startDateTime": "",
+          "endDateTime": "",
+          "discoverable": false
+        },
+      "itemBuyableSchedules":{
+          "startDateTime": "",
+          "endDateTime": "",
+          "buyable": false
+        },
+      "discoverable": false,
+      "buyable": false
+    }
+  ]
+}

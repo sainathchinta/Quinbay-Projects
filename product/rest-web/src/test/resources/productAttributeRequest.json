@@ -1,0 +1,39 @@
+ {
+	"attribute": {
+		"id": "f862ce58-5c5e-44e4-86d1-8b29e7918d79",
+		"storeId": "10001",
+		"createdDate": 1442145332000,
+		"createdBy": "migration",
+		"updatedDate": 1442146609294,
+		"updatedBy": "system",
+		"version": 1,
+		"markForDelete": false,
+		"name": "Ukuran",
+		"attributeCode": "UK-0036550",
+		"attributeType": "DESCRIPTIVE_ATTRIBUTE",
+		"searchAble": false,
+		"description": "VWt1cmFuIChkZXNjcmlwdGl2ZSk=",
+		"skuValue": false,
+		"allowedAttributeValues": null,
+		"predefinedAllowedAttributeValues": null
+	},
+	"productAttributeName": "Ukuran",
+	"sequence": null,
+	"productAttributeValues": [
+		{
+			"id": "81723742-216b-4848-bc4a-4f5b400e87a9",
+			"storeId": "10001",
+			"createdDate": 1459242608547,
+			"createdBy": "kiosteknologicom",
+			"updatedDate": 1459242608547,
+			"updatedBy": "kiosteknologicom",
+			"version": 0,
+			"markForDelete": false,
+			"allowedAttributeValue": null,
+			"descriptiveAttributeValue": "12 x 8 x 2",
+			"descriptiveAttributeValueType": "SINGLE",
+			"predefinedAllowedAttributeValue": null
+		}
+	],
+	"ownByProductItem": false
+}

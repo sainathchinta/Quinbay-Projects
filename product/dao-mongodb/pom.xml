@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.gdn.x.product</groupId>
+        <artifactId>product-parent</artifactId>
+        <version>3.41.0-8-SNAPSHOT</version>
+    </parent>
+
+    <properties>
+        <sonar.exclusions>**/dao/impl/**</sonar.exclusions>
+    </properties>
+
+    <artifactId>product-dao-mongodb</artifactId>
+    <packaging>jar</packaging>
+    <name>${project.groupId}-${project.artifactId}</name>
+    <dependencies>
+        <dependency>
+            <groupId>com.gdn.x.product</groupId>
+            <artifactId>product-model</artifactId>
+            <exclusions>
+                <exclusion>
+                    <groupId>com.gdn.x.productcategorybase</groupId>
+                    <artifactId>product-category-base-rest-web-model</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>com.gdn.x.product</groupId>
+            <artifactId>product-dao-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.gdn.x.product</groupId>
+            <artifactId>product-service-api</artifactId>
+            <exclusions>
+                <exclusion>
+                    <groupId>io.github.openfeign.form</groupId>
+                    <artifactId>*</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.junit.vintage</groupId>
+                    <artifactId>junit-vintage-engine</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+    </dependencies>
+</project>

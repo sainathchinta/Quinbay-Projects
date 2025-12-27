@@ -1,0 +1,48 @@
+{
+  "productSku": "",
+  "productCode": "",
+  "productType": null,
+  "settlementType": "",
+  "merchantCode": "",
+  "productSpecialAttributes": [
+    {
+      "attributeCode": "",
+      "attributeValue": ""
+    }
+  ],
+  "masterDataProduct": {
+    "brand": "",
+    "shippingWeight": 0,
+    "specificationDetail": "",
+    "productName": "",
+    "uniqueSellingPoint": "",
+    "productStory": "",
+    "uom": "",
+    "description": "",
+    "longDescription":"",
+    "masterDataProductImages": [
+      {
+        "locationPath": "",
+        "productCode": "",
+        "sequence": 0,
+        "mainImage": false
+      }
+    ],
+    "masterDataProductAttributes": [
+      {
+        "sequence": 0,
+        "masterDataProductAttributeValues": [
+          {
+            "descriptiveAttributeValue": "",
+            "descriptiveAttributeValueType": null,
+            "sequence": 0
+          }
+        ],
+        "ownedByProductItem": false
+      }
+    ],
+    "url": "",
+    "activated": false,
+    "viewable": false
+  }
+}

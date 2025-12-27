@@ -1,0 +1,14 @@
+{
+  "currency": "",
+  "offerPrice": 0,
+  "listPrice": 0,
+  "channel": "DEFAULT",
+  "discountPrice": [
+  	{
+ 		"discountPrice": 0,
+  		"startDateTime": "",
+  		"endDateTime": "",
+  		"adjustmentType": null
+	}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "module.domain.mongo.main.uri":"mongodb://mongo:mongo@localhost:27017/main?authSource=admin",
+  "module.domain.mongo.main.database":"main",
+  "module.domain.mongo.sub.uri":"mongodb://mongo:mongo@localhost:27017/sub?authSource=admin",
+  "module.domain.mongo.sub.database":"sub",
+  "elasticsearch.hosts[0].host": "localhost",
+  "elasticsearch.hosts[0].port": 9200
+}

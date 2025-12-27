@@ -1,0 +1,15 @@
+{
+	"id":"3",
+	"name":"name",
+	"sequence":3,
+	"shortDescription":"short-description",
+	"updatedBy":"system",
+	"updatedDate":"@{currentdate}",
+	"catalog":
+	{
+		"name":"name",
+		"catalogType":"MASTER_CATALOG",
+		"storeId":"10001",
+		"id":"@{catalogid}"
+	}
+}

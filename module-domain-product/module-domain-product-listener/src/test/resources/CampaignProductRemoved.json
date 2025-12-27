@@ -1,0 +1,44 @@
+{
+  "timestamp" : 1539947170868,
+  "campaignCode": "campaignCode",
+  "skuList": [
+    {
+      "productSku": "ABC-12345-12345",
+      "itemSku": "ABC-12345-12345-00001",
+      "discount": 0.0,
+      "quota": 10,
+      "sessionId": 123,
+      "blibliDiscount": 0.0,
+      "blibliQuota": 10,
+      "campaignPrice": "Rp 1???, -",
+      "finalPrice": 20000,
+      "pickupPointCode": "pickupPointCode",
+      "itemPickupPointId": "itemPickupPointId",
+      "timeBased": false,
+      "groupIds": [
+        "flashsaleGroupId",
+        null
+      ]
+    },
+    {
+      "productSku": "ABC-12345-12345",
+      "itemSku": "ABC-12345-12345-00002",
+      "discount": 0.0,
+      "quota": 10,
+      "sessionId": 123,
+      "blibliDiscount": 0.0,
+      "blibliQuota": 10,
+      "campaignPrice": "Rp 1???, -",
+      "finalPrice": 20000,
+      "pickupPointCode": "pickupPointCode",
+      "itemPickupPointId": "itemPickupPointId",
+      "timeBased": false,
+      "groupIds": [
+        "flashsaleGroupId",
+        null
+      ]
+    },
+    null
+  ],
+  "emptyQuota": false
+}

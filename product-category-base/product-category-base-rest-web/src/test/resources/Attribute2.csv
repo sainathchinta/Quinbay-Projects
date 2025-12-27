@@ -1,0 +1,3 @@
+Store Id,Attribute Type,Attribute Name,Mandatory,Searchable,Allowed Attribute Value,Allowed Attribute Value Sequence
+10001,PREDEFINED_ATTRIBUTE,size,FALSE,TRUE,Merah,1
+10001,PREDEFINED_ATTRIBUTE,size,FALSE,TRUE,Kuning,2

@@ -1,0 +1,36 @@
+{
+  "timestamp" : 1539947170868,
+  "id": "id",
+  "name": "name",
+  "categoryCode": "categoryCode",
+  "sequence": 1,
+  "display": true,
+  "logisticAdjustment": 10000,
+  "warranty": true,
+  "needIdentity": true,
+  "activated": true,
+  "viewable": true,
+  "parentCategoryId": "id",
+  "subTitle": "subTitleLevel1",
+  "breadcrumb": "nameLevel1",
+  "url": "/c/1/customUrl/categoryCode/categoryCode",
+  "backgroundImage": "backgroundImage",
+  "categoryId": "id",
+  "topCategoryId": "id",
+  "level": 1,
+  "subCategories": null,
+  "parents": [
+    "id",
+    null
+  ],
+  "breadCrumbCategories": [
+    {
+      "id": "id",
+      "categoryCode": "categoryCode",
+      "name": "name",
+      "level": 1
+    },
+    null
+  ],
+  "customUrl": "customUrl"
+}

@@ -1,0 +1,35 @@
+package com.gda.mta.product.dto;
+
+import java.util.List;
+
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.gda.mta.product.dto.ImageQcProcessingDto;
+import com.gdn.mta.product.enums.AutoApprovalType;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@Builder
+@JsonIgnoreProperties(ignoreUnknown = true)
+@JsonInclude
+public class AutoApprovalsDetailDto {
+  private String storeId;
+  private boolean postLive;
+  private boolean contentEditOnly;
+  private String productCode;
+  private String c1CategoryCode;
+  private String merchantCode;
+  private String updatedBy;
+  private AutoApprovalType autoApprovalType;
+  private List<ImageQcProcessingDto> imageQcConfidenceDetails;
+  private boolean revised = false;
+  private boolean forceReview = false;
+  private boolean restrictedKeywordPresent;
+  private String productCreationType;
+}

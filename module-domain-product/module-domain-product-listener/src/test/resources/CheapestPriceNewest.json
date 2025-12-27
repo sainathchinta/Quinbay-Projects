@@ -1,0 +1,13 @@
+{
+  "timestamp" : 1542301200000,
+  "campaignCode": "campaignCodeNewest",
+  "skuCheapestPriceDetails": [
+    {
+      "itemSku": "ABC-12345-12345-00001",
+      "cheapestPriceDays": 20,
+      "pickUpPointCode": "pickupPointCode",
+      "itemPickUpPointId": "itemPickupPointId"
+    },
+    null
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "timestamp": 1539947170868,
+  "id": "scheduleDeleteSivaFlashsaleGroup",
+  "collection" : "product_siva_flashsale_groups",
+  "expiryTime":1539947170868,
+  "mongo": true,
+  "elasticsearch": true
+}

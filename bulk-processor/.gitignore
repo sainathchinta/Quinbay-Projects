@@ -1,0 +1,13 @@
+/.project
+/.settings/
+/target/
+.idea/
+*.iml
+*/overlays/**
+*.log
+.DS_Store
+
+*.ipr
+*.iws
+service-impl/FILE_PATH
+.vscode

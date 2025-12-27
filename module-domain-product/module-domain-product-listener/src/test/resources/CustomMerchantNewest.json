@@ -1,0 +1,17 @@
+{
+  "id": "merchantCode",
+  "name": "name",
+  "alias": "alias",
+  "type": "TD",
+  "deliveryType": "INSTANT",
+  "internationalFlag": false,
+  "logo": "logo",
+  "official": true,
+  "contractLevel": "contractLevel",
+  "badge": "badge",
+  "rating": 5.0,
+  "positiveFeedbackRating": 5.0,
+  "fastFulfillmentRating": 5.0,
+  "fastCustomerResponseRating": 5.0,
+  "badgeImageUrl": "badgeImageUrl"
+}

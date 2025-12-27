@@ -1,0 +1,10 @@
+[
+  {
+    "itemSku": "item-sku",
+    "merchantSku": "merchant-sku",
+    "pickupPointCode": "pickup-point-code",
+    "externalPickupPointCode": "external-pickup-point-code",
+    "listPrice": 150000.0,
+    "offerPrice": 100000.0
+  }
+]

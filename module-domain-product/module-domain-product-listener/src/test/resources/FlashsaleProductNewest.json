@@ -1,0 +1,43 @@
+{
+  "timestamp" : 1542301200000,
+  "productSku": "ABC-12345-12345",
+  "itemSku": "ABC-12345-12345-00001",
+  "pickupPointCode": "pickupPointCode",
+  "campaignCode":"campaignCode",
+  "sessionId": 123,
+  "sequence": 0,
+  "schedule": {
+    "id": "1542301200000-1542301200000",
+    "groupId": "flashsaleGroupId",
+    "start": 1542301200000,
+    "end": 1542301200000,
+    "logo": "logo",
+    "subFlashsaleUrl": "subFlashsaleUrl",
+    "background": {
+      "start": "#8F32D6",
+      "end": "#BE70FC"
+    },
+    "timeBased": false,
+    "markForDelete": false
+  },
+  "flashsaleQuotas": [
+    {
+      "id": "id",
+      "owner": "BLIBLI",
+      "quota": 10
+    },
+    {
+      "id": "id",
+      "owner": "MERCHANT",
+      "quota": 10
+    },
+    null
+  ],
+  "active": true,
+  "groupIds": [
+    "flashsaleGroupId",
+    null
+  ],
+  "title": "title",
+  "logo": "logo"
+}

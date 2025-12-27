@@ -1,0 +1,13 @@
+<configuration scan="true" scanPeriod="1 minutes">
+    <appender name="stdout" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>
+                ${CONSOLE_LOG_PATTERN:- [%date{"yyyy-MM-dd'T'HH:mm:ss,SSSXXX", GMT+07:00}] ${LOG_LEVEL_PATTERN:-%5p} ${PID:- } --- [%t] %c{36}.%M %L : %m%replace(%xException){'\n',''}%nopex%n}
+            </pattern>
+        </encoder>
+    </appender>
+
+    <root level="info">
+        <appender-ref ref="stdout" />
+    </root>
+</configuration>

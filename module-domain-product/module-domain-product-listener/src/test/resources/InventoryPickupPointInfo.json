@@ -1,0 +1,32 @@
+{
+  "timestamp": 1539947170868,
+  "createdDate": 1539947170868,
+  "updatedDate": 1539947170868,
+  "level2Id": "ABC-12345-12345-00001",
+  "pickupPointCode": "pickupPointCode",
+  "pickupPointLocation": "pickupPointLocation",
+  "level2MerchantCode": "ABC-12345",
+  "storeId": "10001",
+  "cnc": false,
+  "syncStock": true,
+  "availableStock": 14,
+  "originalStock": 20,
+  "safetyStock": null,
+  "warehouseInfos": [
+    null,
+    {
+      "warehouseCode": "warehouseCode1",
+      "warehouseName": "warehouseName1",
+      "warehouseLocation": "warehouseLocation1",
+      "availableStock": 5,
+      "originalStock": 5
+    },
+    {
+      "warehouseCode": "warehouseCode2",
+      "warehouseName": "warehouseName2",
+      "warehouseLocation": "warehouseLocation2",
+      "availableStock": 9,
+      "originalStock": 15
+    }
+  ]
+}

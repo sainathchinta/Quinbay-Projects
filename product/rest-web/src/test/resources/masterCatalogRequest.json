@@ -1,0 +1,11 @@
+{
+  "masterCatalog":
+  {
+  	"catalogCode" : "catalog-code",
+  	"masterCategory" :
+  	{
+  		"categoryCode":"category-code",
+  		"catgroupId":"category-code"
+  	}
+  }
+}

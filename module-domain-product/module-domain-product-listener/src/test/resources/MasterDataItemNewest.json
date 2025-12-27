@@ -1,0 +1,42 @@
+{
+  "timestamp": 1542301200000,
+  "id": "itemCode",
+  "productCode": "PC-12345",
+  "skuCode": "itemCode",
+  "generatedItemName": "generatedItemName",
+  "upcCode": "upcCode",
+  "activated": false,
+  "viewable": false,
+  "hash": "hash",
+  "inventoryType": "inventoryType",
+  "dangerousLevel": 1,
+  "masterDataItemAttributeValues":[
+    {
+      "attributeValue": "attributeValue",
+      "masterDataAttribute": {
+        "attributeCode": "attributeCode",
+        "attributeType": "attributeType",
+        "mandatory": false,
+        "attributeName": "attributeName",
+        "searchable": false,
+        "description": "description",
+        "example": "example",
+        "skuValue": false
+      }
+    },
+    null
+  ],
+  "masterDataItemImages":[
+    {
+      "mainImage": false,
+      "locationPath": "locationPath",
+      "sequence": 1
+    },
+    null
+  ],
+  "itemDeliveryWeight": 5.0,
+  "itemLength": 1.0,
+  "itemWidth": 2.0,
+  "itemHeight": 3.0,
+  "itemWeight": 4.0
+}

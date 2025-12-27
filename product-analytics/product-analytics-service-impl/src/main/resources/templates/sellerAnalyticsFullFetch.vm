@@ -1,0 +1,23 @@
+SELECT
+business_partner_code AS sellerCode,
+business_partner_name AS sellerName,
+badge_name AS sellerBadge,
+merchant_type AS commissionType,
+is_official_store AS officialSeller,
+latest_detected_data AS latestFraudDetectedDate,
+rejected_product_count AS rejectedProductCount,
+pirated_product_product_count AS piratedProductCount,
+expired_product_count AS expiredProductCount,
+illegal_product_count AS illegalProductCount,
+prohibited_product_count AS prohibitedProductCount,
+counterfeit_product_count AS counterfeitProductCount,
+unauthorized_seller_product_count AS unauthorizedSellerProductCount,
+unauthorized_reseller_product_count AS unauthorizedResellerProductCount,
+suspicious_sku_product_count AS suspiciousSkuProductCount,
+copyright_infringement_product_count AS copyRightInfringementProductCount,
+trademark_infringement_product_count AS trademarkInfringementProductCount,
+design_right_infringement_product_count AS designRightInfringementProductCount,
+repackage_product_count AS repackageProductCount,
+patent_product_count AS patentProductCount
+FROM
+`${projectId}.datamart.datamart_suspicious_seller_info`

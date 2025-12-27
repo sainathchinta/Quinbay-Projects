@@ -1,0 +1,8 @@
+{
+  "timestamp": 1539947170868,
+  "id": "scheduleDeleteSivaCampaignProduct",
+  "collection" : "product_siva_campaign_products",
+  "expiryTime":1539947170868,
+  "mongo": true,
+  "elasticsearch": true
+}

@@ -1,0 +1,101 @@
+{
+  "pickupPointUpsertCombinedEventModel": {
+    "timestamp": 1539947170868,
+    "saveParam": {
+      "timestamp": 1539947170868,
+      "groupId": "agp_module_product_siva_both_by_pickup_point",
+      "topicSource": "com.gdn.x.product.item.pickup.point.data.change",
+      "sameEvent": true,
+      "migration": false,
+      "directUpdate": false
+    },
+    "eventTrigger": "com.gdn.x.product.item.pickup.point.data.change",
+    "pickupPoint": {
+      "merchantCode": "MERCHANT123",
+      "itemSku": "ITEMSKU001",
+      "productSku": "PRODUCTSKU001",
+      "merchantSku": "MERCHANTSKU001",
+      "price": [
+        {
+          "amount": 100.0,
+          "currency": "IDR"
+        }
+      ],
+      "itemViewConfigs": [
+        {
+          "viewType": "DEFAULT",
+          "priority": 1
+        }
+      ],
+      "buyable": true,
+      "discoverable": true,
+      "buyableCnc": false,
+      "discoverableCnc": true,
+      "purchasedType": "NORMAL",
+      "purchasedTypeScore": 10,
+      "fbbActivated": false,
+      "pickupPointCode": "PICKUP001",
+      "externalPickupPointCode": "EXTPICKUP001",
+      "latitude": -6.200000,
+      "longitude": 106.816666,
+      "cityName": "Jakarta",
+      "cncActive": true,
+      "wholesalePriceExists": false,
+      "merchantPromoDiscount": true,
+      "flashSaleActive": false,
+      "promoBundling": true,
+      "activePromoBundlings": ["BUNDLE001", "BUNDLE002"],
+      "warehouse": false,
+      "inStock": true,
+      "inQuota": true,
+      "quotaPercentage": 80,
+      "newData": true
+    },
+    "inventoryInfoChange": {
+      "itemSku": "ITEMSKU001",
+      "pickupPointCode": "PICKUP001"
+    },
+    "item": {
+      "merchantCode": "MERCHANT123",
+      "itemSku": "ITEMSKU001",
+      "productSku": "PRODUCTSKU001",
+      "merchantSku": "MERCHANTSKU001",
+      "itemCode": "ITEMCODE001",
+      "synchronized": true,
+      "itemCatentryId": "ITEMCATENTRY001",
+      "masterDataItem": {
+        "brand": "BrandName",
+        "itemName": "Sample Item",
+        "description": "Item description",
+        "price": 200.0,
+        "currency": "IDR",
+        "weight": 1.2,
+        "dimension": "10x20x5 cm",
+        "mainImageUrl": "https://example.com/image.png"
+      },
+      "isLateFulfillment": false,
+      "off2OnChannelActive": true,
+      "archived": false,
+      "pristineDataItem": {
+        "originalItemName": "Original Item Name",
+        "originalDescription": "Original Description"
+      },
+      "uniqueId": "UNIQUEID001",
+      "itemChangeEventTypes": [
+        "PRICE_CHANGE",
+        "STOCK_UPDATE"
+      ],
+      "tag": {
+        "tagCode": "TAG001",
+        "tagName": "Electronics"
+      },
+      "subscribable": true,
+      "forceReview": false,
+      "contentChanged": true,
+      "generatedItemName": "Generated Item Name",
+      "mainImageUrl": "https://example.com/item_image.png",
+      "newData": true,
+      "source": "SYSTEM"
+    }
+  }
+}

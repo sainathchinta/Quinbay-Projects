@@ -1,0 +1,55 @@
+{
+  "timestamp" : 1542301200000,
+  "id": "campaignCodeNewest",
+  "campaignCode": "campaignCodeNewest",
+  "campaignName": "campaignNameNewest",
+  "promotionStartTime": 1542301200000,
+  "promotionEndTime": 1542301200000,
+  "tagLabel": "tagLabel",
+  "exclusive": false,
+  "retainData": false,
+  "campaignType": "campaignType",
+  "flashSaleCampaignName": "flashSaleCampaignName",
+  "priority": 1,
+  "backgroundImageUrl": "backgroundImageUrl",
+  "skuList": [
+    {
+      "productSku": "ABC-12345-12345",
+      "itemSku": "ABC-12345-12345-00001",
+      "discount": 0.0,
+      "quota": 10,
+      "sessionId": 123,
+      "blibliDiscount": 0.0,
+      "blibliQuota": 10,
+      "campaignPrice": "Rp 1XXX, -",
+      "finalPrice": 20000,
+      "pickupPointCode": "pickupPointCode",
+      "itemPickupPointId": "itemPickupPointId",
+      "timeBased": false,
+      "groupIds": [
+        "flashsaleGroupId",
+        null
+      ]
+    },
+    {
+      "productSku": "ABC-12345-12345",
+      "itemSku": "ABC-12345-12345-00002",
+      "discount": 0.0,
+      "quota": 10,
+      "sessionId": 123,
+      "blibliDiscount": 0.0,
+      "blibliQuota": 10,
+      "campaignPrice": "Rp 1XXX, -",
+      "finalPrice": 20000,
+      "pickupPointCode": "pickupPointCode2",
+      "itemPickupPointId": "itemPickupPointId2",
+      "timeBased": false,
+      "groupIds": [
+        "flashsaleGroupId",
+        null
+      ]
+    },
+    null
+  ],
+  "emptyQuota": false
+}

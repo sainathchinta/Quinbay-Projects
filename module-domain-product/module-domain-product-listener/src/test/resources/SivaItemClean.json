@@ -1,0 +1,227 @@
+{
+  "timestamp" : 1539947170868,
+  "id": "ABC-12345-12345-00001",
+  "itemName": "generatedItemName",
+  "productName": "Samsung Galaxy 8",
+  "itemUrlName": "generateditemname",
+  "productUrlName": "samsung-galaxy-8",
+  "itemUrl": "/p/generateditemname/is--ABC-12345-12345-00001?pickupPointCode=pickupPointCode",
+  "productUrl": "/p/samsung-galaxy-8/ps--ABC-12345-12345?pickupPointCode=pickupPointCode",
+  "itemSku": "ABC-12345-12345-00001",
+  "productSku": "ABC-12345-12345",
+  "off2OnChannelActiveItem": true,
+  "off2OnChannelActiveProduct" : true,
+  "productCode": "PC-12345",
+  "productType" : "REGULAR",
+  "merchantCode" : "merchantCode",
+  "synchronized": false,
+  "brand": "brand",
+  "brandLogoUrl": "brandLogoUrl",
+  "masterCategories": [
+    {
+      "id": "id",
+      "code": "categoryCode",
+      "name": "name",
+      "level": 1
+    }
+  ],
+  "salesCategories": [
+    {
+      "id": "id",
+      "code": "categoryCode",
+      "name": "name",
+      "level": 1
+    }
+  ],
+  "itemImage": "locationPath",
+  "productImage": "locationPath",
+  "description": "description",
+  "breadCrumb": "nameLevel1",
+  "levelCategory": {
+    "id": "id",
+    "code": "categoryCode",
+    "name": "name",
+    "level": 1
+  },
+  "topLevelCategory": {
+    "id": "id",
+    "code": "categoryCode",
+    "name": "name",
+    "level": 1
+  },
+  "buyable": {
+    "value": true,
+    "schedule": {
+      "start": 1539947170868,
+      "end": 1539947170868,
+      "value": true
+    }
+  },
+  "discoverable": {
+    "value": true,
+    "schedule": {
+      "start": 1539947170868,
+      "end": 1539947170868,
+      "value": true
+    }
+  },
+  "offlineItemPrice": {
+    "list": "",
+    "offer": "Rp 10,000",
+    "listValue": 10000,
+    "offerValue": 10000,
+    "minOfferValue": 10000,
+    "maxOfferValue": 10000,
+    "discount": 0,
+    "uniqueId": "uniqueId"
+  },
+  "itemPrice": {
+    "listed": 20000.0,
+    "offered": 10000.0,
+    "finalOffered": 10000.0,
+    "adjustments": [
+      {
+        "itemSku": "ABC-12345-12345-00001",
+        "adjustmentName": "adjustmentName",
+        "campaignCode": "campaignCode",
+        "start": 1539947170868,
+        "end": 1539947170868,
+        "value": 0.0
+      }
+    ],
+    "cheapestItemSku": "ABC-12345-12345-00001",
+    "cheapestPriceDays": 20
+  },
+  "itemPriceTeaser": {
+    "start": 1539947170868,
+    "end": 1539947170868,
+    "campaignPrice": "Rp 1???, -"
+  },
+  "offlinePrice": {
+    "list": "",
+    "offer": "Rp 10,000",
+    "listValue": 10000,
+    "offerValue": 10000,
+    "minOfferValue": 10000,
+    "maxOfferValue": 10000,
+    "discount": 0,
+    "uniqueId": "uniqueId"
+  },
+  "price": {
+    "list": "Rp 20,000",
+    "offer": "Rp 10,000",
+    "listValue": 20000,
+    "offerValue": 10000,
+    "minOfferValue": 10000,
+    "maxOfferValue": 10000,
+    "discount": 50,
+    "cheapestItemSku": "ABC-12345-12345-00001",
+    "cheapestPickupPointCode": "pickupPointCode",
+    "cheapestPriceDays": 20
+  },
+  "priceTeaser": {
+    "start": 1539947170868,
+    "end": 1539947170868,
+    "campaignPrice": "Rp 1???, -"
+  },
+  "masterDataItemAttributeValues": [
+    {
+      "attributeValue": "attributeValue",
+      "masterDataAttribute": {
+        "attributeCode": "attributeCode",
+        "attributeType": "attributeType",
+        "mandatory": true,
+        "attributeName": "attributeName",
+        "searchable": true,
+        "description": "description",
+        "example": "example",
+        "skuValue": true
+      }
+    }
+  ],
+  "archived": false,
+  "flashsale": {
+    "sequence": 0,
+    "scheduleId": "1539947170868-1539947170868",
+    "campaignCode":"campaignCode",
+    "start": 1539947170868,
+    "end": 1539947170868,
+    "active": true
+  },
+  "flashsaleItemSku": "ABC-12345-12345-00001",
+  "flashsaleInventory": {
+    "quota": {
+      "status": "AVAILABLE",
+      "percentage": 50
+    },
+    "schedule": {
+      "id": "1539947170868-1539947170868",
+      "start": 1539947170868,
+      "end": 1539947170868
+    }
+  },
+  "adjustments": [
+    {
+      "timestamp" : 1539947170868,
+      "owner": "BLIBLI",
+      "used": 5,
+      "quota": 10,
+      "remaining": 5
+    },
+    {
+      "timestamp" : 1539947170868,
+      "owner": "MERCHANT",
+      "used": 5,
+      "quota": 10,
+      "remaining": 5
+    }
+  ],
+  "inventory": {
+    "quota": 20,
+    "remaining": 14
+  },
+  "campaigns": [
+    {
+      "active": true,
+      "campaignCode": "campaignCode",
+      "campaignName": "campaignName",
+      "promotionStartTime": 1539947170868,
+      "promotionEndTime": 1539947170868,
+      "tagLabel": "tagLabel"
+    }
+  ],
+  "review": {
+    "rating": 4.5,
+    "count": 2
+  },
+  "tags": [
+    "BLIBLI_SHIPPING",
+    "CNC_AVAILABLE",
+    "TUKAR_TAMBAH",
+    "2HD"
+  ],
+  "merchant": {
+    "timestamp" : 1539947170868,
+    "productId": "ABC-12345-12345",
+    "metaDataType": "SKU",
+    "averageRating": 4,
+    "ratings": [
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    "ratingPercentages": [
+      100,
+      100
+    ],
+    "reviewCount": 2,
+    "decimalRating": 4.5
+  },
+  "pickupPointCode": "pickupPointCode",
+  "externalPickupPointCode": "externalPickupPointCode",
+  "hasCncActivated": true,
+  "onlineOnly": false,
+  "markForDelete": false
+}

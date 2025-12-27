@@ -1,0 +1,14 @@
+/target/
+/.settings/
+/.project
+/.classpath
+/pom.xml~
+/logs/
+/target/
+/target/
+/target/
+/target/
+/META-INF/
+/.apt_generated/
+.factorypath
+*.log

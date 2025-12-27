@@ -1,0 +1,6 @@
+select productCode,
+productSku,
+model as source,
+addedDate
+from `${iprBigQueryProjectId}.${iprProductFetchTable}`
+where TIMESTAMP(addedDate) >= timestamp_sub(current_timestamp, INTERVAL ${fetchHourThreshold} hour)

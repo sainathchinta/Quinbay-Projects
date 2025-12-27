@@ -1,0 +1,12 @@
+select productSku as productSku,
+       productName as productName,
+       productScore as productScore,
+       imageUrl as imageUrl,
+       suggestions as suggestions,
+       sellerCode as sellerCode,
+       categoryCode as categoryCode,
+       categoryName as categoryName,
+       suggestedDate as suggestedDate,
+       markForDelete as markForDelete,
+       from `${datascienceProjectId}.${productOptimisationDsTable}`
+       where TIMESTAMP(suggestedDate) >= timestamp_sub(current_timestamp, INTERVAL ${suggestedDateFetch} hour);

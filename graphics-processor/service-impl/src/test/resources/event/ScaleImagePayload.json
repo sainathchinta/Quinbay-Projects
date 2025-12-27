@@ -1,0 +1,151 @@
+{
+  "timestamp": 0,
+  "graphicImageDetails": [
+    {
+      "serialVersionUID": 5919165394193279000,
+      "groupCode": "MTA-48594155",
+      "hashCode": "005cedfa83496473a7581a54c62a1b5f",
+      "sourcePath": "/filestore/mta/images/source/resize/catalog-image/MTA-48594155/puma_apiautomation_full0480.jpeg",
+      "destinationPath": "/filestore/wcsstore/Indraprastha/images/catalog/full/104/MTA-48594155/puma_apiautomation_full0480.jpg",
+      "customGraphicsSettings": {
+        "dpi": 72,
+        "quality": 75,
+        "dimension": {
+          "width": 800,
+          "height": 800
+        },
+        "width": 800,
+        "height": 800,
+        "dimession": {
+          "width": 800,
+          "height": 800
+        }
+      },
+      "prefixPath": "/filestore/wcsstore/Indraprastha/images/catalog",
+      "commonImage": false
+    },
+    {
+      "serialVersionUID": 5919165394193279000,
+      "groupCode": "MTA-48594155",
+      "hashCode": "005cedfa83496473a7581a54c62a1b5f",
+      "sourcePath": "/filestore/mta/images/source/resize/catalog-image/MTA-48594155/puma_apiautomation_full0480.jpeg",
+      "destinationPath": "/filestore/wcsstore/Indraprastha/images/catalog/medium/104/MTA-48594155/puma_apiautomation_full0480.jpg",
+      "customGraphicsSettings": {
+        "dpi": 72,
+        "quality": 75,
+        "dimension": {
+          "width": 380,
+          "height": 380
+        },
+        "width": 380,
+        "height": 380,
+        "dimession": {
+          "width": 380,
+          "height": 380
+        }
+      },
+      "prefixPath": "/filestore/wcsstore/Indraprastha/images/catalog",
+      "commonImage": false
+    },
+    {
+      "serialVersionUID": 5919165394193279000,
+      "groupCode": "MTA-48594155",
+      "hashCode": "005cedfa83496473a7581a54c62a1b5f",
+      "sourcePath": "/filestore/mta/images/source/resize/catalog-image/MTA-48594155/puma_apiautomation_full0480.jpeg",
+      "destinationPath": "/filestore/wcsstore/Indraprastha/images/catalog/thumbnail/104/MTA-48594155/puma_apiautomation_full0480.jpg",
+      "customGraphicsSettings": {
+        "dpi": 72,
+        "quality": 75,
+        "dimension": {
+          "width": 110,
+          "height": 110
+        },
+        "width": 110,
+        "height": 110,
+        "dimession": {
+          "width": 110,
+          "height": 110
+        }
+      },
+      "prefixPath": "/filestore/wcsstore/Indraprastha/images/catalog",
+      "commonImage": false
+    },
+    {
+      "serialVersionUID": 5919165394193279000,
+      "groupCode": "MTA-48594155",
+      "hashCode": "2303521f757ca574edf85d5a53db4ddf",
+      "sourcePath": "/filestore/mta/images/source/resize/catalog-image/MTA-48594155/puma_apiautomation_full0240.jpeg",
+      "destinationPath": "/filestore/wcsstore/Indraprastha/images/catalog/full/104/MTA-48594155/puma_apiautomation_full0240.jpg",
+      "customGraphicsSettings": {
+        "dpi": 72,
+        "quality": 75,
+        "dimension": {
+          "width": 800,
+          "height": 800
+        },
+        "width": 800,
+        "height": 800,
+        "dimession": {
+          "width": 800,
+          "height": 800
+        }
+      },
+      "prefixPath": "/filestore/wcsstore/Indraprastha/images/catalog",
+      "commonImage": true
+    },
+    {
+      "serialVersionUID": 5919165394193279000,
+      "groupCode": "MTA-48594155",
+      "hashCode": "2303521f757ca574edf85d5a53db4ddf",
+      "sourcePath": "/filestore/mta/images/source/resize/catalog-image/MTA-48594155/puma_apiautomation_full0240.jpeg",
+      "destinationPath": "/filestore/wcsstore/Indraprastha/images/catalog/medium/104/MTA-48594155/puma_apiautomation_full0240.jpg",
+      "customGraphicsSettings": {
+        "dpi": 72,
+        "quality": 75,
+        "dimension": {
+          "width": 380,
+          "height": 380
+        },
+        "width": 380,
+        "height": 380,
+        "dimession": {
+          "width": 380,
+          "height": 380
+        }
+      },
+      "prefixPath": "/filestore/wcsstore/Indraprastha/images/catalog",
+      "commonImage": true
+    },
+    {
+      "serialVersionUID": 5919165394193279000,
+      "groupCode": "MTA-48594155",
+      "hashCode": "2303521f757ca574edf85d5a53db4ddf",
+      "sourcePath": "/filestore/mta/images/source/resize/catalog-image/MTA-48594155/puma_apiautomation_full0240.jpeg",
+      "destinationPath": "/filestore/wcsstore/Indraprastha/images/catalog/thumbnail/104/MTA-48594155/puma_apiautomation_full0240.jpg",
+      "customGraphicsSettings": {
+        "dpi": 72,
+        "quality": 75,
+        "dimension": {
+          "width": 110,
+          "height": 110
+        },
+        "width": 110,
+        "height": 110,
+        "dimession": {
+          "width": 110,
+          "height": 110
+        }
+      },
+      "prefixPath": "/filestore/wcsstore/Indraprastha/images/catalog",
+      "commonImage": true
+    }
+  ],
+  "groupCode": "MTA-48594155",
+  "username": "System",
+  "storeId": "10001",
+  "clientId": "seoul",
+  "request": null,
+  "edited": false,
+  "revised": false,
+  "resize": false
+}

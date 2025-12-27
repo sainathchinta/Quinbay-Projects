@@ -1,0 +1,16 @@
+{
+  "timestamp" : 1542301200000,
+  "id": "ABC-12345-12345",
+  "metaDataType": "SKU",
+  "averageRating": 4,
+  "ratings": [
+    4,
+    5
+  ],
+  "ratingPercentages": [
+    100,
+    100
+  ],
+  "reviewCount": 2,
+  "decimalRating": 4.5
+}

@@ -1,0 +1,24 @@
+package com.gdn.x.product.rest.web.model.response;
+
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.gdn.common.web.base.BaseResponse;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@Builder
+@JsonIgnoreProperties(ignoreUnknown = true)
+@JsonInclude
+public class ProductNameSuggestionResponse extends BaseResponse {
+
+  private static final long serialVersionUID = -9180047067825955809L;
+
+  private String productName;
+  private String productSku;
+}

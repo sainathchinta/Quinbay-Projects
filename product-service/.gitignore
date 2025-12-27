@@ -1,0 +1,16 @@
+/.project
+/.settings/
+.idea/
+*.iml
+*.class
+product-business-partner-rest-web/overlays/
+/target/
+.factorypath
+.DS_Store
+*.log
+*.orig
+*.ipr
+*.iws
+/.vscode/
+results/
+cleanup-analysis-tools/

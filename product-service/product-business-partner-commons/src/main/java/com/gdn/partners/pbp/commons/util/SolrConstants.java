@@ -1,0 +1,55 @@
+package com.gdn.partners.pbp.commons.util;
+
+public interface SolrConstants {
+
+  String DEFAULT_QUERY = "id:*";
+  String COLON = ":";
+  String AND = "AND";
+  String TODAY_FACET_INTERVAL = "[NOW/DAY, NOW]";
+  String YESTERDAY_FACET_INTERVAL = "[NOW-1DAY/DAY, NOW/DAY]";
+  String TWO_DAYS_AGO_FACET_INTERVAL = "[NOW-2DAYS/DAY, NOW-1DAY/DAY]";
+  String THREE_TO_FIVE_DAYS_AGO_FACET_INTERVAL = "[NOW-4DAYS/DAY, NOW-2DAY/DAY]";
+  String FIVE_DAYS_AGO_FACET_INTERVAL = "[*, NOW-4DAYS/DAY]";
+  String DAYS= "DAYS/DAY";
+  String NOW = "NOW";
+  String ASSIGNED_TO_PREFIX = "NA";
+  String RESUBMITTED_COUNT_ZERO = "0";
+  String OR = "OR";
+  String LIKE_QUERY = "*";
+  String ALL = "ALL";
+  String NOT = "-";
+  String ASC = "ASC";
+  String DESC = "DESC";
+  String TO = "TO";
+  String COMMA = ",";
+  String ESCAPE_SPACE = "\\\\ ";
+  String OPEN_BRACKET = "(";
+  String CLOSE_BRACKET = ")";
+  String OPEN_SQUARE_BRACKET = "[";
+  String CLOSE_SQUARE_BRACKET = "]";
+  String AND_WITH_FUZZY_SEARCH = "~ AND ";
+  String SCHEMA = "schema";
+  String SOLR_FIELDS = "fields";
+  String COPY_FIELDS = "copyFields";
+  String DYNAMIC_FIELDS = "dynamicFields";
+  String NAME = "name";
+  String VERSION = "_version_";
+  String SEPARATOR = "/";
+  String DEST = "dest";
+  String COLLAPSE_FQ_FOR_BP_CODE = "{!collapse field=business_partner_code}";
+  String COLLAPSE_FQ_FOR_ASSIGNED_TO = "{!collapse field=assigned_to}";
+  String DOUBLE_QUOTES = "\"";
+  String SET = "set";
+  String JKT_TIME_ZONE = "Asia/Jakarta";
+  String BOOST = "^";
+  String SCORE = "score";
+  String COMMA_WITH_QUOTES = "\",\"";
+  String COLLAPSE_FQ_FOR_BRAND = "{!collapse field=brand}";
+  String QF = "qf";
+  String MM = "mm";
+  String DEF_TYPE = "defType";
+  String EDISMAX = "edismax";
+  String INTERNAL = "INTERNAL";
+  String EXTERNAL = "EXTERNAL";
+  String NOT_PREDICATE = "-";
+}

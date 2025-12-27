@@ -1,0 +1,27 @@
+SELECT ds.product_sku AS productSku,
+pbp.product_id as productId,
+ds.last_updated_date AS addedDate,
+ARRAY(
+    SELECT AS STRUCT
+    attr.attribute_name AS attributeName,
+    CAST(attr.attribute_value AS STRING) AS attributeValue,
+    CAST(NULL AS STRING) AS attributeValueEnglish
+    FROM UNNEST(std_prediction) AS attr
+)  || ARRAY(
+    SELECT STRUCT(
+        attr.attributeType as attributeName,
+        (SELECT CAST(val.value AS STRING) FROM UNNEST(attr.attributeValues) as val
+            WHERE val.language = "Bahasa" LIMIT 1) AS attributeValue,
+        (SELECT CAST(val.value AS STRING) FROM UNNEST(attr.attributeValues) as val
+         WHERE val.language = "English" LIMIT 1) AS attributeValueEnglish
+    )
+    FROM UNNEST(pdp_label_attributes) AS attr
+) AS attributeValueExtractions
+FROM `${datascienceProjectId}.${productAttributeExtractionsBqTable}` ds
+left join `${genevaProjectId}.${prdProductBusinessPartnerBqTable}` pbp
+on ds.product_sku = pbp.gdn_product_sku
+WHERE EXISTS (
+    SELECT 1
+    FROM UNNEST(std_prediction) AS attr
+    WHERE attr.attribute_name = `${attributeName}`
+);

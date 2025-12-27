@@ -1,0 +1,12 @@
+{
+  "timestamp" : 1542301200000,
+  "id": "1539947170868-1539947170868",
+  "logo": "logo",
+  "subFlashsaleUrl": "subFlashsaleUrl",
+  "background": {
+    "start": "#8F32D6",
+    "end": "#BE70FC"
+  },
+  "timeBased": true,
+  "markForDelete": false
+}

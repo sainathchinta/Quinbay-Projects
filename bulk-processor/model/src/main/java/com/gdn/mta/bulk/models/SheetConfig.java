@@ -1,0 +1,28 @@
+package com.gdn.mta.bulk.models;
+
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.annotation.JsonInclude;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+import java.util.ArrayList;
+import java.util.List;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@Builder
+@JsonInclude
+@JsonIgnoreProperties(ignoreUnknown = true)
+public class SheetConfig {
+
+  private String sheetType;
+  private int sheetIndex;
+  private int maxRows;
+  private int maxColumns;
+  private int headerRowIndex;
+  private int dataStartRowIndex;
+  private List<ColumnConfig> columns = new ArrayList<>();
+}

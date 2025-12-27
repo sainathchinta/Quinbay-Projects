@@ -1,0 +1,36 @@
+[
+  {
+    "productSku" : "AUU-60001-06561",
+    "productScore" : {
+      "mandatoryAttributeScore" : 15.0,
+      "productTitleScore" : 0.0,
+      "descriptionScore" : 0.0,
+      "uspScore" : 2.5,
+      "recommendedAttributeScore" : 6.67,
+      "remainingAttributeScore" : 9.0,
+      "videoUrlScore" : 0.0,
+      "imageScore" : 0.0,
+      "variantCreatingScore" : 7.0,
+      "eanUpcScore" : 0.0,
+      "totalScore" : 40.17
+    },
+    "categoryCode": "category-code"
+  },
+  {
+    "productSku" : "TOQ-15120-06641",
+    "productScore" : {
+      "mandatoryAttributeScore" : 15.0,
+      "productTitleScore" : 0.0,
+      "descriptionScore" : 0.0,
+      "uspScore" : 2.5,
+      "recommendedAttributeScore" : 6.67,
+      "remainingAttributeScore" : 9.0,
+      "videoUrlScore" : 0.0,
+      "imageScore" : 0.0,
+      "variantCreatingScore" : 7.0,
+      "eanUpcScore" : 0.0,
+      "totalScore" : 40.17
+    },
+    "categoryCode": "category-code"
+  }
+]

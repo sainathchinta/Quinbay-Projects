@@ -1,0 +1,12 @@
+{
+  "merchantCode":"merchantCode",
+  "keyword":"productSku/productname",
+  "categoryCodes":["categoryCode"],
+  "pickupPointCodes":["pickupPointCode"],
+  "promoTypes":["IN_STORE"],
+  "sortField": "sellingPrice/normalPrice",
+  "sortOrder": "ASC/DESC",
+  "inStock": null,
+  "archived": null,
+  "suspended": true
+}

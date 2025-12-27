@@ -1,0 +1,49 @@
+{
+  "merchantSku": "",
+  "itemCode": "",
+  "level2InventoryRequest": {
+    "level1Id": "",
+    "level2Id": "",
+    "stock": 0,
+    "merchantCode": "",
+    "level2MerchantCode": "",
+    "syncedToLevel1": false,
+    "originalStock": 0
+  },
+  "shippingWeight": 0,
+  "price": [
+    {
+      "currency": "",
+      "offerPrice": 0,
+      "listPrice": 0,
+      "channel": "DEFAULT",
+      "discountPrice": [
+        {
+          "discountPrice": 0,
+          "adjustmentType": "BLIBLI",
+          "startDateTime": "",
+          "endDateTime": ""
+        }
+      ]
+    }
+  ],
+  "itemViewConfigs": [
+    {
+      "channel": "DEFAULT",
+      "isBuyable":false,
+      "isDiscoverable":false,
+      "itemDiscoverableSchedules": {
+        "startDateTime": "",
+        "endDateTime": "",
+        "isDiscoverable": false
+      },
+      "itemBuyableSchedules": {
+        "startDateTime": "",
+        "endDateTime": "",
+        "isBuyable": false
+      },
+      "discoverable": false,
+      "buyable": false
+    }
+  ]
+}

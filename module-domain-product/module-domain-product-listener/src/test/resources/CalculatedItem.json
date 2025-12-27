@@ -1,0 +1,33 @@
+{
+  "sku": "ABC-12345-12345-00001",
+  "buyable": {
+    "value": false,
+    "schedule": {
+      "start": 1539947170868,
+      "end": 1539947170868,
+      "value": false
+    }
+  },
+  "discoverable": {
+    "value": false,
+    "schedule": {
+      "start": 1539947170868,
+      "end": 1539947170868,
+      "value": false
+    }
+  },
+  "price": {
+    "listed": 0.0,
+    "offered": 0.0,
+    "adjustments": [
+      {
+        "adjustmentName": "adjustmentName",
+        "start": 1539947170868,
+        "end": 1539947170868,
+        "value": 0.0
+      },
+      null
+    ]
+  },
+  "archived": true
+}

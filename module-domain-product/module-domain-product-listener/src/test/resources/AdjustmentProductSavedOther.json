@@ -1,0 +1,16 @@
+{
+  "timestamp" : 1539947170868,
+  "adjustmentId": "adjustmentIdOther",
+  "productSku": "ABC-12345-12345-00001",
+  "campaignCode": "campaignCode",
+  "adjustmentName": "adjustmentName",
+  "description": "description",
+  "value": 0.0,
+  "activated": true,
+  "startDate": 1539947170868,
+  "endDate": 1539947170868,
+  "quota": 10,
+  "budgetOwner": "MERCHANT",
+  "storeId": "10001",
+  "pickupPointCode": "pickupPointCode"
+}

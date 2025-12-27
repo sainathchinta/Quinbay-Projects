@@ -1,0 +1,13 @@
+{
+  "timestamp" : 1539947170868,
+  "adjustmentProductId": "adjustmentId",
+  "itemSku": "ABC-12345-12345-00001",
+  "campaignCode": "campaignCode",
+  "adjustmentName": "adjustmentName",
+  "quota": 10,
+  "usedQuota": 5,
+  "usedQuotaPerTransaction": 1,
+  "budgetOwner": "BLIBLI",
+  "storeId": "10001",
+  "pickupPointCode": "pickupPointCode"
+}

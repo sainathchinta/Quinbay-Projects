@@ -1,0 +1,11 @@
+{
+  "name": "spanName",
+  "parents": [],
+  "traceId": 12345,
+  "processId": "processId",
+  "spanId": 67890,
+  "exportable": true,
+  "baggage": {
+    "key": "value"
+  }
+}

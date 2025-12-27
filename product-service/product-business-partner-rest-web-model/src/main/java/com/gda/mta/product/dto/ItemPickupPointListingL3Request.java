@@ -1,0 +1,25 @@
+package com.gda.mta.product.dto;
+
+import java.util.Set;
+
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@Builder
+@JsonIgnoreProperties(ignoreUnknown = true)
+public class ItemPickupPointListingL3Request {
+  private String businessPartnerCode;
+  private String itemSku;
+  private boolean needCorrection;
+  private String productSku;
+  private String keyword;
+  private Set<String> pickupPointCodes;
+  private boolean isFbbSortRequired;
+}

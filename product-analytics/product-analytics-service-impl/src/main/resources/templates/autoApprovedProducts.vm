@@ -1,0 +1,18 @@
+select added_date as addedDate,
+       product_code as productCode,
+       product_name as productName,
+       merchant_code as sellerCode,
+       merchant_name as sellerName,
+       badge as sellerBadge,
+       cn_name as categoryName,
+       cn_code as categoryCode,
+       commission_type as commissionType,
+       is_official_store as officialSeller,
+       is_international_merchant as internationalSeller,
+       b2b_activated as b2bActivated,
+       source_en as sourceEn,
+       source_idn as sourceId,
+       llm_reason as reason,
+       mark_for_delete as markForDelete
+       from `${projectId}.datamart.datamart_auto_approved_products_for_review`
+       where TIMESTAMP(added_date) >= TIMESTAMP_SUB(CURRENT_TIMESTAMP(), INTERVAL ${autoApprovalFetchHour} hour);

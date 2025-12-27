@@ -29,10 +29,10 @@ The projects in this repository include:
 
 - Java 11+
 - Spring Boot
+- kafka,solr,redis,mongo db,postgres,docker,gcs, mockito,junit
 - Maven / Gradle
 - H2 / other relational databases
-- Apache POI (for Excel processing)
-- iText / PDFBox (for PDF generation)
+- Apache POI (for Excel processing),
 - Git and GitHub for version control
 
 ---
